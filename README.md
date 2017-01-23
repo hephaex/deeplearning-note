@@ -4,9 +4,7 @@ TenSorFlow is an Open Soruce Software Library for Machine Intellience
 This repository are many note-pad like TesroFlow turorials, step books, and others. 
 
 ### DeepMind's WaveNet
-
-[source](https://github.com/ibab/tensorflow-wavenet)
-
+* Code: [source](https://github.com/ibab/tensorflow-wavenet)
 
 ### Very simple TensorFlow examples
 * Code: https://github.com/nlintz/TensorFlow-Tutorials
