@@ -1,10 +1,15 @@
 # TensorFlow Note
 
-TenSorFlow is an Open Soruce Software Library for Machine Intellience
+ The TenSorFlow is an Open Soruce Software Library for Machine Intellience
 This repository are many note-pad like TesroFlow turorials, step books, and others. 
 
 ### DeepMind's WaveNet
 * Code: [source](https://github.com/ibab/tensorflow-wavenet)
+
+### DeepVoice
+Deep Voice: Real-Time Neural Text-to-Speech for Production
+* Sercan O. Arik, Mike Chrzanowski, Adam Coates, Gregory Diamos, Andrew Gibiansky, Yongguo Kang, Xian Li, John Miller, Jonathan Raiman, Shubho Sengupta, Mohammad Shoeybi
+*  [[paper](https://arxiv.org/pdf/1702.07825)]
 
 ### Very simple TensorFlow examples
 * Code: https://github.com/nlintz/TensorFlow-Tutorials
