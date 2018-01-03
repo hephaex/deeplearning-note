@@ -113,6 +113,7 @@ Deep Voice: Real-Time Neural Text-to-Speech for Production
  * [[blog - http://www.anishathalye.com/2015/12/19/an-ai-that-can-mimic-any-artist/](http://www.anishathalye.com/2015/12/19/an-ai-that-can-mimic-any-artist/)]
  * [[A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)]
 
+
 ### Sequence Generative Adversarial Networks
  * Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu
  * [[code](https://github.com/LantaoYu/SeqGAN)]
