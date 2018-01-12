@@ -1,4 +1,4 @@
-## Table of Contents
+# Table of Contents
  - [API/Codes](#apicodes)
  - [Replays](#replays)
  - [Research Papers](#research-papers)
