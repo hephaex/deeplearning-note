@@ -1,7 +1,9 @@
 # Aview Lung Texture Analysis 공학
 
+
 ## 앙상블방법으로 pattern 분류 정확도 향상 논문
  An Ensemble Method for Classifying Regional Disease Patterns of Diffuse Interstitial Lung Disease using HRCT Images from Different Vendors, Jun SH, Kim N*, et al, JDI, 2017, Accept
+
 
 ## Size based emphysema index가 호흡에 robust하다는 논문
  A size-based emphysema severity index: robust to the breath-hold-level variations and correlated with clinical parameters. Hwang J, Lee M, Lee SM, Oh SY, Oh YM, Kim N*, Seo JB. Int J Chron Obstruct Pulmon Dis. 2016 Aug 3;11:1835-41. doi: 10.2147/COPD.S109846. eCollection 2016.
