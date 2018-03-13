@@ -11,10 +11,8 @@ Deep Voice: Real-Time Neural Text-to-Speech for Production
 * Sercan O. Arik, Mike Chrzanowski, Adam Coates, Gregory Diamos, Andrew Gibiansky, Yongguo Kang, Xian Li, John Miller, Jonathan Raiman, Shubho Sengupta, Mohammad Shoeybi
 *  [[paper](https://arxiv.org/pdf/1702.07825)]
 * [[Ref.code](https://github.com/sotelo/parrot)
-
 ### Very simple TensorFlow examples
 * Code: https://github.com/nlintz/TensorFlow-Tutorials
-
 ### Sequence to Sequence -- Video to Text
 * Subhashini Venugopalan, Marcus Rohrbach, Jeff Donahue, Raymond Mooney, Trevor Darrell, Kate Saenko, arxiv, 2015
 * [[code](https://github.com/jazzsaxmafia/video_to_sequence)]
