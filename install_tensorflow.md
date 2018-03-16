@@ -1,7 +1,6 @@
 # TensorFlow 설치
-* OS: ubuntu 14.04 LTS
+* OS: ubuntu 16.04 LTS
 * SW: python 2.7.x
-
 
 ## 1. Java8 설치
 
