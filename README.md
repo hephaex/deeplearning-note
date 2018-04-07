@@ -1,5 +1,4 @@
 # TensorFlow Note
-
  The TenSorFlow is an Open Soruce Software Library for Machine Intellience.
 This repository are many jupyter note-pad like TesroFlow turorials, step books, and others. 
 
