@@ -2,20 +2,20 @@
 
 ## DL papers 
 - Correlational Neural Network. CV, TL, RPL. Blog-post  ||  Code
-Reasoning With Neural Tensor Networks for Knowledge Base Completion. NLP, ML. Blog-post  ||  Code
-Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks. NLP, DL, CQA. Code
-Common Representation Learning Using Step-based Correlation Multi-Modal CNN. CV, TL, RPL. Code
-ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs. NLP, AT, DL, STS. Code
-Combining Neural, Statistical and External Features for Fake News Stance Identification. NLP, IR, DL. Code
-WIKIQA: A Challenge Dataset for Open-Domain Question Answering. NLP, DL, CQA. Code
-Siamese Recurrent Architectures for Learning Sentence Similarity. NLP, STS, DL. Code
-Teaching Machines to Read and Comprehend. NLP, AT, DL. Code
-Improved Representation Learning for Question Answer Matching. NLP, AT, DL, CQA. Code
-Map-Reduce for Machine Learning on Multicore]. map-reduce, hadoop, ML..  MR, ML. Code
-Convolutional Neural Tensor Network Architecture for Community Question Answering. NLP, DL, CQA. Code
-External features for community question answering. NLP, DL, CQA. Code
-Language Identification and Disambiguation in Indian Mixed-Script. NLP, IR, ML. Blog-post   ||  Code
-Construction of a Semi-Automated model for FAQ Retrieval via Short Message Service. NLP, IR, ML. Code
+- Reasoning With Neural Tensor Networks for Knowledge Base Completion. NLP, ML. Blog-post  ||  Code
+- Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks. NLP, DL, CQA. Code
+-- Common Representation Learning Using Step-based Correlation Multi-Modal CNN. CV, TL, RPL. Code
+- ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs. NLP, AT, DL, STS. Code
+- Combining Neural, Statistical and External Features for Fake News Stance Identification. NLP, IR, DL. Code
+- WIKIQA: A Challenge Dataset for Open-Domain Question Answering. NLP, DL, CQA. Code
+- Siamese Recurrent Architectures for Learning Sentence Similarity. NLP, STS, DL. Code
+- Teaching Machines to Read and Comprehend. NLP, AT, DL. Code
+- Improved Representation Learning for Question Answer Matching. NLP, AT, DL, CQA. Code
+- Map-Reduce for Machine Learning on Multicore]. map-reduce, hadoop, ML..  MR, ML. Code
+- Convolutional Neural Tensor Network Architecture for Community Question Answering. NLP, DL, CQA. Code
+- External features for community question answering. NLP, DL, CQA. Code
+- Language Identification and Disambiguation in Indian Mixed-Script. NLP, IR, ML. Blog-post   ||  Code
+- Construction of a Semi-Automated model for FAQ Retrieval via Short Message Service. NLP, IR, ML. Code
 
 ## Tensorflow 
  The TenSorFlow is an Open Soruce Software Library for Machine Intellience.
