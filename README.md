@@ -106,6 +106,13 @@ Deep Voice: Real-Time Neural Text-to-Speech for Production
  * [[paper](http://emnlp2014.org/papers/pdf/EMNLP2014181.pdf)]
  * [[Additional Material](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)]
 
+### Black-Box Adversarial Perturbations
+Implementation of [Simple Black-Box Adversarial Perturbations for Deep Networks](https://openreview.net/pdf?id=SJCscQcge) in Keras
+fork from [link](https://github.com/iamgroot42/Simple-Black-Box-Adversarial-Perturbations-for-Deep-Networks)
+* `python cifar100.py` to train a basic CNN for cifar100 and save that file.
+* `python find_better.py <model>` to go through cifar100 test dataset and find a good image (as defined in the paper).
+* `python per.py <KERAS_MODEL> <IMAGE_in_NUMPY>` : currently works for cifar images only. 
+
 ### Deep Residual Learning for Image Recognition
  * K He, X Zhang, S Ren, J Sun
  * [[code](https://github.com/ppwwyyxx/tensorpack/tree/master/examples/ResNet)] for cifar10
