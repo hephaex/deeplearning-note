@@ -141,7 +141,7 @@ fork from [link](https://github.com/iamgroot42/Simple-Black-Box-Adversarial-Pert
  * Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu
  * [[code](https://github.com/LantaoYu/SeqGAN)]
  * [[paper](https://arxiv.org/abs/1609.05473)]
-
+ * [[paper](http://www.umiacs.umd.edu/~jaiabhay/paper/ICLR2018.pdf)]
 # Reference
 - CV | Computer Vision
 - TL | Transfer Learning
