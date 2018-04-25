@@ -1,4 +1,4 @@
-# TensorFlow install on Ubuntu 14.04
+# TensorFlow install on Ubuntu 16.04
 
 1. wget http://developer.download.nvidia.com/…/cuda-repo-ubuntu1404…
 2. sudo dpkg -i cuda-repo-ubuntu1404_7.5-18_amd64.deb
@@ -13,8 +13,8 @@
 11. sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64
 12. sudo chmod a+r /usr/local/cuda/lib64/libcudnn*
 13. nvidia-smi
-14. sudo apt-get install python-pip python-dev
-15. sudo pip install --upgrade https://storage.googleapis.com/…/tensorflow-0.8.0rc0-cp27-n…
+14. sudo apt-get install python3-pip python3-dev
+15. sudo pip install --upgrade https://storage.googleapis.com/…/tensorflow-1.7.0-cp36-n…
 16. git clone https://github.com/nlintz/TensorFlow-Tutorials
 17. cd TensorFlow-Tutorials/
 18. vi ~/.profile # add PATH, LD PATH
