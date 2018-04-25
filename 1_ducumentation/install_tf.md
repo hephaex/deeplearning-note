@@ -19,4 +19,4 @@
 17. cd TensorFlow-Tutorials/
 18. vi ~/.profile # add PATH, LD PATH
 19. source ~/.profile
-20. python 7_lstm.py
+
