@@ -1,7 +1,7 @@
 # TensorFlow install on Ubuntu 16.04
 
 1. wget http://developer.download.nvidia.com/…/cuda-repo-ubuntu1404…
-2. sudo dpkg -i cuda-repo-ubuntu1404_7.5-18_amd64.deb
+2. sudo dpkg -i cuda-repo-ubuntu1404_8.0-18_amd64.deb
 3. sudo apt-get update && sudo apt-get upgrade -y
 4. sudo apt-get install -y opencl-headers build-essential protobuf-compiler libprotoc-dev libboost-all-dev libleveldb-dev hdf5-tools libhdf5-serial-dev libopencv-core-dev libopencv-highgui-dev libsnappy-dev libsnappy1 libatlas-base-dev cmake libstdc++6-4.8-dbg libgoogle-glog0 libgoogle-glog-dev libgflags-dev liblmdb-dev git python-pip gfortran
 5. sudo apt-get clean
