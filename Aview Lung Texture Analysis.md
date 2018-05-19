@@ -1,5 +1,8 @@
 # lung Texture Analysis 공학
 
+
+
+
 ## 앙상블방법으로 pattern 분류 정확도 향상 논문
  An Ensemble Method for Classifying Regional Disease Patterns of Diffuse Interstitial Lung Disease using HRCT Images from Different Vendors, Jun SH, Kim N*, et al, JDI, 2017, Accept
 
