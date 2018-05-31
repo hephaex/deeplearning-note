@@ -114,7 +114,6 @@ This is an official convertor, which not only provoide a script also an ipython 
 Convert PyTorch to Caffe2 (making it especially easy to deploy on mobile devices)
 
 ## CNTK convertor
-
 **Convert to CNTK model**.
 
 ### [crosstalkcaffe/CaffeConverter](https://github.com/Microsoft/CNTK/tree/master/bindings/python/cntk/contrib/crosstalkcaffe)
