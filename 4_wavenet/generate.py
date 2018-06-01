@@ -5,11 +5,9 @@ import argparse
 from datetime import datetime
 import json
 import os
-
 import librosa
 import numpy as np
 import tensorflow as tf
-
 from wavenet import WaveNetModel, mu_law_decode, mu_law_encode, audio_reader
 
 SAMPLES = 16000
