@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 
 
+
 def check_victory_condition(board, player):
     board = np.array(board)
     for i in range(3):
