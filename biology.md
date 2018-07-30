@@ -247,9 +247,13 @@ A curated list of deep learning applications in the field of computational biolo
 - **2017-12** | Variational auto-encoding of protein sequences | *Sam Sinai, Eric Kelsic, George M. Church and Martin A. Nowak* | [arxiv](https://arxiv.org/abs/1712.03346)
 
 
+### forked from gokceneraslan/awwsome-deepbio.git
+[link](https://github.com/gokceneraslan/awesome-deepbio.git)
+
 ### Contribution
 
 Feel free to send a pull request.
+
 
 ### License
 
