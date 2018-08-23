@@ -3,7 +3,7 @@
 
 This tutorial is presented via [Jupyter](http://jupyter.org) notebooks.  To
 run them on your machine, you will need a working TensorFlow
-installation (v0.10).
+installation (v1.10).
 
 Below are instructions on how to set up a TensorFlow environment using
 Docker.  Although Docker runs in a VM, the advantage is that Docker
@@ -17,7 +17,7 @@ Using git, clone this tutorial and enter that directory.
 
 ```
 cd $HOME
-git clone https://github.com/random-forests/tensorflow-workshop.git
+git clone https://github.com/hephaex/tensorflow-workshop.git
 cd tf-tutorial
 ```
 
@@ -53,8 +53,6 @@ docker run hello-world
 On OS X, if you have not already, run the Docker for Mac app,
 usually placed in `/Applications/`, and which looks like this:
 
-![Docker For Mac Icon](images/docker-for-mac.png)
-
 There may be a long pause as the Docker service starts.
 
 If you click on the whale icon in your toolbar, you should eventually
@@ -67,7 +65,7 @@ Go to where you cloned the repository (we're assuming `$HOME`):
 ```
 cd $HOME/tf-tutorial
 docker run  -v `pwd`:/tutorial -p 0.0.0.0:6006:6006 -p 0.0.0.0:8888:8888 \
-   -it tensorflow/tensorflow:0.10.0rc0 bash
+   -it hephaex/tensorflow:1.10.0
 ```
 
 This will start a Docker instance with the tutorial materials mounted
