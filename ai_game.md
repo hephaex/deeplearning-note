@@ -22,7 +22,6 @@
 - StarCraft II API - Technical Design, Blizzard. [[Link]](http://us.battle.net/forums/en/sc2/topic/20751114921)
 - SparCraft, a combat simulator for StarCraft. [[GitHub]](https://github.com/davechurchill/ualbertabot)
 - BWTA, A terrain analyzer for BWAPI. [[Link]](https://code.google.com/archive/p/bwta/)
-- BroodWar Replay Scrapper in Python, Gavriel Synnaeve. [[GitHub]](https://github.com/syhw/Broodwar_replays_scrappers)
 
 ## Replays
 - StarCraft Brood War Data Mining (replays, analyzer, datasets), Alberto Uriarte. [[Link]](http://nova.wolfwork.com/dataMining.html)
