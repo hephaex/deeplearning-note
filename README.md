@@ -29,8 +29,10 @@ Deep Voice: Real-Time Neural Text-to-Speech for Production
 * Sercan O. Arik, Mike Chrzanowski, Adam Coates, Gregory Diamos, Andrew Gibiansky, Yongguo Kang, Xian Li, John Miller, Jonathan Raiman, Shubho Sengupta, Mohammad Shoeybi
 *  [[paper](https://arxiv.org/pdf/1702.07825)]
 * [[Ref.code](https://github.com/sotelo/parrot)
+
 ### Very simple TensorFlow examples
 * Code: https://github.com/nlintz/TensorFlow-Tutorials
+
 ### Sequence to Sequence -- Video to Text
 * Subhashini Venugopalan, Marcus Rohrbach, Jeff Donahue, Raymond Mooney, Trevor Darrell, Kate Saenko, arxiv, 2015
 * [[code](https://github.com/jazzsaxmafia/video_to_sequence)]
@@ -77,6 +79,7 @@ Deep Voice: Real-Time Neural Text-to-Speech for Production
 * [[paper](http://arxiv.org/pdf/1508.06615v4.pdf)]
 
 ## Deep Reinforcement Learning
+
 ### Human-level control through deep reinforcement learning
 * Volodymyr Mnih,	et al, 2014
 * [[code1](https://github.com/nivwusquorum/tensorflow-deepq)], not trained on atari
@@ -138,11 +141,13 @@ fork from [link](https://github.com/iamgroot42/Simple-Black-Box-Adversarial-Pert
 
 ### 콘크리트 구조물 균열 탐지 및 분석
  * https://github.com/Garamda/SPARK
+
 ### Sequence Generative Adversarial Networks
  * Lantao Yu, Weinan Zhang, Jun Wang, Yong Yu
  * [[code](https://github.com/LantaoYu/SeqGAN)]
  * [[paper](https://arxiv.org/abs/1609.05473)]
  * [[paper](http://www.umiacs.umd.edu/~jaiabhay/paper/ICLR2018.pdf)]
+
 # Reference
 - CV | Computer Vision
 - TL | Transfer Learning
