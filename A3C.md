@@ -1,5 +1,5 @@
 # Implementation of A3C (Asynchronous Advantage Actor-Critic)
-https://github.com/dennybritz/reinforcement-learning/tree/master/PolicyGradient/a3c
+ref https://github.com/dennybritz/reinforcement-learning/tree/master/PolicyGradient/a3c
 
 #### Running
 
