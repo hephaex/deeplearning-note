@@ -33,9 +33,12 @@ Deep Voice: Real-Time Neural Text-to-Speech for Production
 ### Very simple TensorFlow examples
 * Code: https://github.com/nlintz/TensorFlow-Tutorials
 
-*** GAN
+### GAN
 Style-based GAN
 * [Document](https://www.lyrn.ai/2018/12/26/a-style-based-generator-architecture-for-generative-adversarial-networks/)
+
+### Pytorch a2c
+* [code](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
 ### Sequence to Sequence -- Video to Text
 * Subhashini Venugopalan, Marcus Rohrbach, Jeff Donahue, Raymond Mooney, Trevor Darrell, Kate Saenko, arxiv, 2015
 * [[code](https://github.com/jazzsaxmafia/video_to_sequence)]
