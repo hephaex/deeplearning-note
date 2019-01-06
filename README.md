@@ -17,6 +17,9 @@
 - Language Identification and Disambiguation in Indian Mixed-Script. NLP, IR, ML. Blog-post
 - Construction of a Semi-Automated model for FAQ Retrieval via Short Message Service. NLP, IR, ML. Code
 
+## Annotation detect
+- Anomaly Detection with Generative Adversarial Networks for Multivariate Time Series
+  - [paper](https://arxiv.org/abs/1809.04758 )
 ## Tensorflow 
  The TenSorFlow is an Open Soruce Software Library for Machine Intellience.
 This repository are many jupyter note-pad like TesroFlow turorials, step books, and others. 
