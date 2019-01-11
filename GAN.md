@@ -1,4 +1,4 @@
-Year	Month	Abbr.	Title	Arxiv	Official_Code	Watches	Stars	Forks
+|Year	|Month	|Abbr.	|Title|	Arxiv	|Official_Code	|Watches	Stars	|Forks|
 2014	6	GAN	Generative Adversarial Networks	https://arxiv.org/abs/1406.2661	https://github.com/goodfeli/adversarial	108	1736	666
 2014	11	CGAN	Conditional Generative Adversarial Nets	https://arxiv.org/abs/1411.1784	-			
 2015	6	LAPGAN	Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks	https://arxiv.org/abs/1506.05751	https://github.com/facebook/eyescream	52	581	138
