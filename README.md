@@ -41,11 +41,22 @@ Style-based GAN
 * [Document](https://www.lyrn.ai/2018/12/26/a-style-based-generator-architecture-for-generative-adversarial-networks/)
 
 ### Pytorch a2c
+* Advantage Actor Critic (A2C), a synchronous deterministic version of A3C
+  * Volodymyr Mnih1
+  * Adri`a Puigdom`enech Badia1
+  * Mehdi Mirza1,2
+  * Alex Graves1
+  * Tim Harley1
+  * Timothy P. Lillicrap1
+  * David Silver1
+  * Koray Kavukcuoglu1
 * [code](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
+
 ### Sequence to Sequence -- Video to Text
 * Subhashini Venugopalan, Marcus Rohrbach, Jeff Donahue, Raymond Mooney, Trevor Darrell, Kate Saenko, arxiv, 2015
 * [[code](https://github.com/jazzsaxmafia/video_to_sequence)]
 * [[paper](http://arxiv.org/pdf/1505.00487v3.pdf)]
+
 
 ### Sequence to Sequence -- chatbot
 * Oriol Vinyals, Quoc V. Le, arxiv, 2015
