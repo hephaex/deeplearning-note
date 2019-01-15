@@ -16,6 +16,13 @@ Generative models are models that can learn to create data that is similar to da
 ---
 
 ### :link: Contents
+* [ Desnapify](Desnapify is a deep convolutional generative adversarial network (DCGAN) trained to remove Snapchat filters from selfie images.GitHub by Inderpreet Singh: https://github.com/ipsingh06/ml-desnapify)
+
+#artificialintelligence #deeplearning #generativeadversarialnetworks #machinelearning #technologydeep convolutional generative adversarial network (DCGAN) trained to remove Snapchat filters from selfie images.
+
+GitHub by Inderpreet Singh: https://github.com/ipsingh06/ml-desnapify
+
+#artificialintelligence #deeplearning #generativeadversarialnetworks #machinelearning #technology
 * [Opening Publication](#pushpin-opening-publication)
 * [Latest paper from Ian Goodfellow](#fire-latest-paper-from-ian-goodfellow)
 * [Papers](#clipboard-papers-descending-order-based-on-google-scholar-citations)
