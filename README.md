@@ -17,13 +17,61 @@
 - Language Identification and Disambiguation in Indian Mixed-Script. NLP, IR, ML. Blog-post
 - Construction of a Semi-Automated model for FAQ Retrieval via Short Message Service. NLP, IR, ML. Code
 
-## data science tu5orial
+## data science tutorial
 
 Tracking Bird Migration Using Python 3
 Source Code & Tutorial: https://goo.gl/BS4rQc
 
 Data Science Tutorial
 Read Here: https://goo.gl/ZPyZBX
+
+### Deep Learning (CS 1470) 
+http://cs.brown.edu/courses/cs1470/index.html
+
+### Deep Learning Book 
+https://www.deeplearningbook.org/
+[GitHub] https://github.com/janishar/mit-deep-learning-book-pdf
+[tutorial] http://www.iro.umontreal.ca/~bengioy/talks/lisbon-mlss-19juillet2015.pdf
+[videos] https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos
+
+### Dive into Deep Learning 
+https://d2l.ai/
+[GitHub] https://github.com/d2l-ai/d2l-en
+[pdf] https://en.d2l.ai/d2l-en.pdf
+[STAT 157] http://courses.d2l.ai/berkeley-stat-157/index.html
+
+### Neural Network Design 
+http://hagan.okstate.edu/nnd.html
+[pdf] http://hagan.okstate.edu/NNDesign.pdf
+
+### Neural Networks and Deep Learning 
+http://neuralnetworksanddeeplearning.com/
+[GitHub] https://github.com/mnielsen/neural-networks-and-deep-learning
+[pdf] http://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf
+[solutions] https://github.com/reachtarunhere/nndl/blob/master/2016-11-22-ch1-sigmoid-2.md
+
+### Theories of Deep Learning (STATS 385) 
+https://stats385.github.io/
+[videos] https://www.researchgate.net/project/Theories-of-Deep-Learning
+
+### Theoretical Principles for Deep Learning (IFT 6085) 
+http://mitliagkas.github.io/ift6085-dl-theory-class-2019/
+
+### A collection of links of videos(youtube) by course 
+https://github.com/kmario23/deep-learning-drizzle/blob/master/README.md
+
+### A collection of tutorial Jupyter notebooks
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+
+### the matrix calculus
+https://explained.ai/matrix-calculus/index.html
+
+### etc
+https://fleuret.org/ee559/
+http://deep-learning-phd-course-2018-xb.s3-website-ap-southeast-1.amazonaws.com/
+https://www.fast.ai/
+
+refe. https://www.reddit.com/r/MachineLearning/comments/anrams/d_sharing_my_personal_resource_list_for_deep/
 
 ## Annotation detect
 - Anomaly Detection with Generative Adversarial Networks for Multivariate Time Series
