@@ -17,6 +17,14 @@
 - Language Identification and Disambiguation in Indian Mixed-Script. NLP, IR, ML. Blog-post
 - Construction of a Semi-Automated model for FAQ Retrieval via Short Message Service. NLP, IR, ML. Code
 
+## data science tu5orial
+
+Tracking Bird Migration Using Python 3
+Source Code & Tutorial: https://goo.gl/BS4rQc
+
+Data Science Tutorial
+Read Here: https://goo.gl/ZPyZBX
+
 ## Annotation detect
 - Anomaly Detection with Generative Adversarial Networks for Multivariate Time Series
   - [paper](https://arxiv.org/abs/1809.04758 )
