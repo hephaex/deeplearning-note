@@ -1,10 +1,13 @@
 # DeepLearning Note
 
 ## DL papers 
+- ast-SCNN: Fast Semantic Segmentation Network.
+  - 123 fps on 2048x1024 images (2x faster than current state-of-the-art).
+  - https://arxiv.org/abs/1902.04502 
 - Correlational Neural Network. CV, TL, RPL. 
 - Reasoning With Neural Tensor Networks for Knowledge Base Completion. NLP, ML. Blog-post 
 - Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks. NLP, DL, CQA. Code
--- Common Representation Learning Using Step-based Correlation Multi-Modal CNN. CV, TL, RPL. Code
+- Common Representation Learning Using Step-based Correlation Multi-Modal CNN. CV, TL, RPL. Code
 - ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs. NLP, AT, DL, STS. Code
 - Combining Neural, Statistical and External Features for Fake News Stance Identification. NLP, IR, DL. Code
 - WIKIQA: A Challenge Dataset for Open-Domain Question Answering. NLP, DL, CQA. Code
