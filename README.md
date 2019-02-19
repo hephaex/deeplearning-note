@@ -4,6 +4,8 @@
 - ast-SCNN: Fast Semantic Segmentation Network.
   - 123 fps on 2048x1024 images (2x faster than current state-of-the-art).
   - https://arxiv.org/abs/1902.04502 
+-  Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs (https://arxiv.org/pdf/1606.00915.pdf)
+Source code: https://github.com/vietnguyen91/Deeplab-pytorch
 - Correlational Neural Network. CV, TL, RPL. 
 - Reasoning With Neural Tensor Networks for Knowledge Base Completion. NLP, ML. Blog-post 
 - Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks. NLP, DL, CQA. Code
