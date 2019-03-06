@@ -17,7 +17,8 @@
 
 ## 송영숙님 쳇봇 데이터
   - songys/Chatbot_data (https://github.com/songys/Chatbot_data)
-  - Chatbot_data_for_Korean v1.0             
+  - Chatbot_data_for_Korean v1.0 
+  - License : MIT
   * Data description.     
       - 1. 챗봇 트레이닝용 문답 페어 11,876개           
       - 2. 일상다반서 0, 이별(부정) 1, 사랑(긍정) 2로 레이블링  
