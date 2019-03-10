@@ -1,5 +1,9 @@
 # DeepLearning Note
 
+## Pytorch
+Christian Perone
+￼  - 발표자료: https://speakerdeck.com/perone/pytorch-under-the-hood
+  - 블로그: http://blog.christianperone.com/
 ## DL papers 
 - ast-SCNN: Fast Semantic Segmentation Network.
   - 123 fps on 2048x1024 images (2x faster than current state-of-the-art).
