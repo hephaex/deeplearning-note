@@ -4,6 +4,18 @@
 Christian Perone
 ￼  - 발표자료: https://speakerdeck.com/perone/pytorch-under-the-hood
   - 블로그: http://blog.christianperone.com/
+  Build Deep Learning Projects (Complete Video Series for FREE )
+==============================================
+1. Making your RL Projects in 20 Minutes : https://www.edyoda.com/course/1421
+
+2. Style Transfer, Face Generation using GANs in 20 minutes : https://www.edyoda.com/course/1418
+
+3.  Language and Machine Learning in 20 minutes : https://www.edyoda.com/course/1419
+
+4. AI Project - Web application for Object Identification : https://www.edyoda.com/course/1185
+
+5. Dog Breed Prediction : https://www.edyoda.com/course/1336
+
 ## DL papers 
 - ast-SCNN: Fast Semantic Segmentation Network.
   - 123 fps on 2048x1024 images (2x faster than current state-of-the-art).
