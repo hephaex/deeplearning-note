@@ -1,6 +1,6 @@
 import requests
 import os
-import bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 
 def rem(str):
     str0 = str.split("(")[1]
@@ -11,7 +11,7 @@ setname = 0
 chara = ""
 
 for page in range(1,11):
-    ranking_url = "https://store.line.me/stickershop/showcase/top_creators/ja?taste=1'+ str(chara) + '&page=' + str(page)
+    ranking_url = 'https://store.line.me/stickershop/showcase/top_creators/ja?taste=1'+ str(chara) + '&page=' + str(page)
     ran = requests.get(ranking_url)
     soup0 = BeautifulSoup(ran.text, 'lxml')
     stamp_list = soup0.find_all(class_="mdCMN02Li")
