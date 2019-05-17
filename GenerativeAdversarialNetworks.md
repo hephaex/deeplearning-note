@@ -3,6 +3,11 @@
 
 ## A curated, quasi-exhaustive list of state-of-the-art publications and resources about Generative Adversarial Networks (GANs) and their applications.
 
+### Style-GAN paper out
+Code and pre-trained models for StyleGAN - Official TensorFlow Implementation
+https://github.com/NVlabs/stylegan
+- code: [Puzer/stylergan-encoder](https://github.com/Puzer/stylegan-encoder)
+- code: [StackGAN](https://github.com/hanzhanggit/StackGAN)
 ### Background
 Generative models are models that can learn to create data that is similar to data that we give them. One of the most promising approaches of those models are Generative Adversarial Networks (GANs), a branch of unsupervised machine learning implemented by a system of two neural networks competing against each other in a zero-sum game framework. They were first introduced by Ian Goodfellow et al. in 2014. This repository aims at presenting an elaborate list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.
 
@@ -16,6 +21,13 @@ Generative models are models that can learn to create data that is similar to da
 ---
 
 ### :link: Contents
+* [ Desnapify](Desnapify is a deep convolutional generative adversarial network (DCGAN) trained to remove Snapchat filters from selfie images.GitHub by Inderpreet Singh: https://github.com/ipsingh06/ml-desnapify)
+
+#artificialintelligence #deeplearning #generativeadversarialnetworks #machinelearning #technologydeep convolutional generative adversarial network (DCGAN) trained to remove Snapchat filters from selfie images.
+
+GitHub by Inderpreet Singh: https://github.com/ipsingh06/ml-desnapify
+
+#artificialintelligence #deeplearning #generativeadversarialnetworks #machinelearning #technology
 * [Opening Publication](#pushpin-opening-publication)
 * [Latest paper from Ian Goodfellow](#fire-latest-paper-from-ian-goodfellow)
 * [Papers](#clipboard-papers-descending-order-based-on-google-scholar-citations)
@@ -26,10 +38,12 @@ Generative models are models that can learn to create data that is similar to da
 * [Frameworks & Libraries](#electric_plug-frameworks--libraries-descending-order-based-on-github-stars)
 ---
 
+
 ### :busts_in_silhouette: Contributing
 Contributions are welcome !! If you have any suggestions (missing or new papers, missing repos or typos) you can pull a request or start a discussion.
 
 ---
+
 
 
 ### :pushpin: Opening Publication 	

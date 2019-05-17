@@ -1,10 +1,34 @@
 # DeepLearning Note
 
+## I-cloth
+https://min-tang.github.io/home/ICloth/
+
+## Pytorch
+Christian Perone
+￼  - 발표자료: https://speakerdeck.com/perone/pytorch-under-the-hood
+  - 블로그: http://blog.christianperone.com/
+  Build Deep Learning Projects (Complete Video Series for FREE )
+==============================================
+1. Making your RL Projects in 20 Minutes : https://www.edyoda.com/course/1421
+
+2. Style Transfer, Face Generation using GANs in 20 minutes : https://www.edyoda.com/course/1418
+
+3.  Language and Machine Learning in 20 minutes : https://www.edyoda.com/course/1419
+
+4. AI Project - Web application for Object Identification : https://www.edyoda.com/course/1185
+
+5. Dog Breed Prediction : https://www.edyoda.com/course/1336
+
 ## DL papers 
+- ast-SCNN: Fast Semantic Segmentation Network.
+  - 123 fps on 2048x1024 images (2x faster than current state-of-the-art).
+  - https://arxiv.org/abs/1902.04502 
+-  Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs (https://arxiv.org/pdf/1606.00915.pdf)
+Source code: https://github.com/vietnguyen91/Deeplab-pytorch
 - Correlational Neural Network. CV, TL, RPL. 
 - Reasoning With Neural Tensor Networks for Knowledge Base Completion. NLP, ML. Blog-post 
 - Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks. NLP, DL, CQA. Code
--- Common Representation Learning Using Step-based Correlation Multi-Modal CNN. CV, TL, RPL. Code
+- Common Representation Learning Using Step-based Correlation Multi-Modal CNN. CV, TL, RPL. Code
 - ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs. NLP, AT, DL, STS. Code
 - Combining Neural, Statistical and External Features for Fake News Stance Identification. NLP, IR, DL. Code
 - WIKIQA: A Challenge Dataset for Open-Domain Question Answering. NLP, DL, CQA. Code
@@ -16,6 +40,62 @@
 - External features for community question answering. NLP, DL, CQA. Code
 - Language Identification and Disambiguation in Indian Mixed-Script. NLP, IR, ML. Blog-post
 - Construction of a Semi-Automated model for FAQ Retrieval via Short Message Service. NLP, IR, ML. Code
+
+## data science tutorial
+
+Tracking Bird Migration Using Python 3
+Source Code & Tutorial: https://goo.gl/BS4rQc
+
+Data Science Tutorial
+Read Here: https://goo.gl/ZPyZBX
+
+### Deep Learning (CS 1470) 
+http://cs.brown.edu/courses/cs1470/index.html
+
+### Deep Learning Book 
+https://www.deeplearningbook.org/
+[GitHub] https://github.com/janishar/mit-deep-learning-book-pdf
+[tutorial] http://www.iro.umontreal.ca/~bengioy/talks/lisbon-mlss-19juillet2015.pdf
+[videos] https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/videos
+
+### Dive into Deep Learning 
+https://d2l.ai/
+[GitHub] https://github.com/d2l-ai/d2l-en
+[pdf] https://en.d2l.ai/d2l-en.pdf
+[STAT 157] http://courses.d2l.ai/berkeley-stat-157/index.html
+
+### Neural Network Design 
+http://hagan.okstate.edu/nnd.html
+[pdf] http://hagan.okstate.edu/NNDesign.pdf
+
+### Neural Networks and Deep Learning 
+http://neuralnetworksanddeeplearning.com/
+[GitHub] https://github.com/mnielsen/neural-networks-and-deep-learning
+[pdf] http://static.latexstudio.net/article/2018/0912/neuralnetworksanddeeplearning.pdf
+[solutions] https://github.com/reachtarunhere/nndl/blob/master/2016-11-22-ch1-sigmoid-2.md
+
+### Theories of Deep Learning (STATS 385) 
+https://stats385.github.io/
+[videos] https://www.researchgate.net/project/Theories-of-Deep-Learning
+
+### Theoretical Principles for Deep Learning (IFT 6085) 
+http://mitliagkas.github.io/ift6085-dl-theory-class-2019/
+
+### A collection of links of videos(youtube) by course 
+https://github.com/kmario23/deep-learning-drizzle/blob/master/README.md
+
+### A collection of tutorial Jupyter notebooks
+https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
+
+### the matrix calculus
+https://explained.ai/matrix-calculus/index.html
+
+### etc
+https://fleuret.org/ee559/
+http://deep-learning-phd-course-2018-xb.s3-website-ap-southeast-1.amazonaws.com/
+https://www.fast.ai/
+
+refe. https://www.reddit.com/r/MachineLearning/comments/anrams/d_sharing_my_personal_resource_list_for_deep/
 
 ## Annotation detect
 - Anomaly Detection with Generative Adversarial Networks for Multivariate Time Series
@@ -41,11 +121,22 @@ Style-based GAN
 * [Document](https://www.lyrn.ai/2018/12/26/a-style-based-generator-architecture-for-generative-adversarial-networks/)
 
 ### Pytorch a2c
+* Advantage Actor Critic (A2C), a synchronous deterministic version of A3C
+  * Volodymyr Mnih1
+  * Adri`a Puigdom`enech Badia1
+  * Mehdi Mirza1,2
+  * Alex Graves1
+  * Tim Harley1
+  * Timothy P. Lillicrap1
+  * David Silver1
+  * Koray Kavukcuoglu1
 * [code](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
+
 ### Sequence to Sequence -- Video to Text
 * Subhashini Venugopalan, Marcus Rohrbach, Jeff Donahue, Raymond Mooney, Trevor Darrell, Kate Saenko, arxiv, 2015
 * [[code](https://github.com/jazzsaxmafia/video_to_sequence)]
 * [[paper](http://arxiv.org/pdf/1505.00487v3.pdf)]
+
 
 ### Sequence to Sequence -- chatbot
 * Oriol Vinyals, Quoc V. Le, arxiv, 2015
