@@ -21,3 +21,4 @@ Note: These guides do not use ML Engine
 * [Advanced Inception v3 on Cloud TPU](https://cloud.google.com/tpu/docs/tutorials/inception-v3-advanced)
 * [RetinaNet on Cloud TPU](https://cloud.google.com/tpu/docs/tutorials/retinanet)
 * [Transformer with Tensor2Tensor on Cloud TPU](https://cloud.google.com/tpu/docs/tutorials/transformer)
+* [lSTM with TPU](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/shakespeare_with_tpu_and_keras.ipynb)
