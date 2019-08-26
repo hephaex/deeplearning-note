@@ -13,7 +13,7 @@ See `./train.py --help` for a full list of options. Then, monitor training progr
 tensorboard --logdir=/tmp/a3c
 ```
 
-#### Components
+#### files
 
 - [`train.py`](train.py) 
   - contains the main method to start training.
