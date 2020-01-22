@@ -1,4 +1,4 @@
-Tensor Processing Units (TPUs) are Google’s custom-developed ASICs used to accelerate machine-learning workloads. You can run your training jobs on Cloud Machine Learning Engine, using Cloud TPU. Cloud ML Engine provides a job management interface so that you don't need to manage the TPU yourself.
+ Tensor Processing Units (TPUs) are Google’s custom-developed ASICs used to accelerate machine-learning workloads. You can run your training jobs on Cloud Machine Learning Engine, using Cloud TPU. Cloud ML Engine provides a job management interface so that you don't need to manage the TPU yourself.
 
 https://github.com/tensorflow/tpu
 
