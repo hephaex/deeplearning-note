@@ -113,3 +113,10 @@ Copyright (c) 2005-2016 NVIDIA Corporation
 Built on Tue_Jan_10_13:22:03_CST_2017
 Cuda compilation tools, release 8.0, V8.0.61
 ```
+
+```
+gpuConfig = tf.ConfigProto(
+    gpu_options=tf.GPUOptions(per_process_gpu_memory_fraction=0.5),
+    device_count={'GPU': 1})
+with tf.Session(config=gpuConfig) as session:
+```
