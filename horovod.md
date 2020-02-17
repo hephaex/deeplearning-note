@@ -1,3 +1,9 @@
+## install horovod
+
+```
+HOROVOD_GPU_ALLREDUCE=NCCL pip install --no-cache-dir horovod
+```
+
 ```
 import os
 import tensorflow as tf
