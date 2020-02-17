@@ -1,3 +1,12 @@
+## set mpi
+```
+wget https://download.open-mpi.org/release/open-mpi/v3.1/openmpi-3.1.2.tar.bz2
+gunzip -c openmpi-3.1.2.tar.gz | tar xf -
+cd openmpi-4.0.1
+ ./configure --prefix=/usr/local
+make all install
+```
+
 ## install horovod
 
 ```
