@@ -21,6 +21,7 @@ make all install
 HOROVOD_GPU_ALLREDUCE=NCCL pip install --no-cache-dir horovod
 ```
 
+## train.py
 ```
 import os
 import tensorflow as tf
@@ -132,4 +133,10 @@ def main(_):
 
 if __name__ == "__main__":
     tf.app.run()
+```
+
+## run mpi
+
+```
+mpirun -np 2 -bind-to none -map-by slot -x NCCL_DEBUG=INFO -x LD_LIBRARY_PATH -x PATH -mca pml ob1 -mca btl ^openib --allow-run-as-root python train.py
 ```
