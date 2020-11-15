@@ -1,0 +1,45 @@
+# Various tools for model transformation
+Th is able to convert models between frameworks and models on the framework. 
+
+- **onnx-tensorflow** Tool to convert ONNX to TensorFlow
+    - GitHub **https://github.com/onnx/onnx-tensorflow**
+    - PyPI **https://pypi.org/project/onnx-tf/**
+- **tensorflow-onnx** Tool to convert Tensorflow to ONNX
+    - GitHub **https://github.com/onnx/tensorflow-onnx**
+    - PyPI **https://pypi.org/project/tf2onnx/**
+- **onnx2keras** A tool to convert ONNX to Keras
+    - GitHub **https://github.com/nerox8664/onnx2keras**
+    - PyPI **https://pypi.org/project/onnx2keras/**
+- **tflite2onnx** Tool to convert TensorFlowLite to ONNX
+    - HomePage **https://jackwish.net/tflite2onnx/**
+    - GitHub **https://github.com/jackwish/tflite2onnx**
+    - PyPI **https://pypi.org/project/tflite2onnx/**
+- **sklearn-onnx** A tool to convert sklearn to ONNX
+    - GitHub **https://github.com/onnx/sklearn-onnx**
+- **onnx-mlir** Tool to convert ONNX to MLIR
+    - GitHub **https://github.com/onnx/onnx-mlir**
+- **keras-onnx** A tool to convert Keras to ONNX
+    - GitHub **https://github.com/onnx/keras-onnx**
+- **onnx-tensorrt** Tool to convert ONNX to TensorRT
+    - GitHub **https://github.com/onnx/onnx-tensorrt**
+- **onnx-coreml** Tool to convert ONNX to CoreML
+    - GitHub **https://github.com/onnx/onnx-coreml**
+- **onnx-simplifier** Tool for optimizing the ONNX model structure
+    - GitHub **https://github.com/daquexian/onnx-simplifier**
+    - PyPI **https://pypi.org/project/onnx-simplifier/**
+- **OpenVINO Deep Learning Deployment Toolkit (DLDT) - Model Optimizer** Conversion of TensorFlow, ONNX, MXNet, and Caffe to OpenVINO IR format and other useful toolkits
+    - HomePage **https://docs.openvinotoolkit.org/latest/openvino_docs_install_guides_installing_openvino_linux.html**
+    - GitHub **https://github.com/openvinotoolkit/openvino**
+- **coremltools** Tools for converting various frameworks to CoreML models
+    - GitHub **https://github.com/apple/coremltools**
+    - PyPI **https://pypi.org/project/coremltools/**
+- **MMdnn** a comprehensive and cross-framework tool to convert
+    - GitHub **https://github.com/microsoft/MMdnn**
+    - PyPI **https://pypi.org/project/mmdnn/**
+- **torch2tflite** It uses ONNX and TF2 as bridge between Torch and TFLite
+    - GitHub **https://github.com/omerferhatt/torch2tflite**
+- **openvino2tensorflow** Tool to convert OpenVINO IR models to TensorFlow
+    - GitHub **https://github.com/PINTO0309/openvino2tensorflow**
+    - PyPI **https://pypi.org/project/openvino2tensorflow/**
+- **PINTO_model_zoo** Model collections for PyTorch (ONNX), Caffe, TensorFlow, TensorflowLite, CoreML, TF-TRT and TFJS. A large number of model conversion scripts have been committed
+    - GitHub **https://github.com/PINTO0309/PINTO_model_zoo**
