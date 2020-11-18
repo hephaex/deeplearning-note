@@ -3,6 +3,7 @@
 This is a TensorFlow implementation of the [WaveNet generative neural
 network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) for audio generation.
 
+
 The WaveNet neural network architecture directly generates a raw audio waveform,
 showing excellent results in text-to-speech and general audio generation (see the
 DeepMind blog post and paper for details).
