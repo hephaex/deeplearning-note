@@ -26,3 +26,5 @@ https://github.com/elliottwu/DeepHDR
 - Prof.George Barbastathis (https://www.youtube.com/watch?v=IYBYmOVmICg)
 
 
+## attention-cnn
+- [code](https://epfml.github.io/attention-cnn/)
