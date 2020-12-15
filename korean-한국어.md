@@ -23,6 +23,20 @@
       - 1. 챗봇 트레이닝용 문답 페어 11,876개           
       - 2. 일상다반서 0, 이별(부정) 1, 사랑(긍정) 2로 레이블링  
 
+#### Natural Language Processing (자연어 처리)
+
+* Single Headed Attention RNN: Stop Thinking With Your Head (2020)
+    * [Original Paper Link](https://arxiv.org/abs/1911.11423) / Paper Review Video / Summary PDF / Code Practice
+* BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (NAACL 2019)
+    * [Original Paper Link](https://arxiv.org/abs/1810.04805) / Paper Review Video / Summary PDF / Code Practice
+* Attention is All You Need (NIPS 2017)
+    * [Original Paper Link](https://arxiv.org/abs/1706.03762) / Paper Review Video / [Summary PDF](/lecture_notes/Transformer.pdf) / [Code Practice](/code_practices/Attention_is_All_You_Need_Tutorial_(German_English).ipynb)
+* Neural Machine Translation by Jointly Learning to Align and Translate (ICLR 2015 Oral)
+    * [Original Paper Link](https://arxiv.org/abs/1409.0473) / Paper Review Video / Summary PDF / [Code Practice](/code_practices/Sequence_to_Sequence_with_Attention_Tutorial.ipynb)
+* Sequence to Sequence Learning with Neural Networks (NIPS 2014)
+    * [Original Paper Link](https://arxiv.org/abs/1409.3215) / [Paper Review Video](https://www.youtube.com/watch?v=4DzKM0vgG1Y) / [Summary PDF](/lecture_notes/Seq2Seq.pdf) / [Code Practice](/code_practices/Sequence_to_Sequence_with_LSTM_Tutorial.ipynb)
+
+
 |Q | A | Label|
 | -- | -- | ---- |
 |12시 땡!|하루가 또 가네요.|0|
