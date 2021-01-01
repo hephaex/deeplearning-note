@@ -1,3 +1,5 @@
+Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis,
+
 |Year	|Month	|Abbr.	|Title|	Arxiv	|Official_Code	|Watches	Stars	|Forks|
 |-- --|-- --|-- --|-- --|--|--|--|--|
 2014	6	GAN	Generative Adversarial Networks	https://arxiv.org/abs/1406.2661	https://github.com/goodfeli/adversarial	108	1736	666
