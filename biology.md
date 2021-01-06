@@ -251,6 +251,11 @@ A curated list of deep learning applications in the field of computational biolo
 ### forked from gokceneraslan/awwsome-deepbio.git
 [link](https://github.com/gokceneraslan/awesome-deepbio.git)
 
+### 연구원들은 약물 재발을 위한 딥 러닝 프레임워크를 소개
+종이: https://www.nature.com/articles/s42256-020-00276-w
+Github: https://github.com/ruoqi-liu/DeepIPW
+요약: https://www.marktechpost.com/.../researchers-introduce-a.../
+
 ### Contribution
 
 Feel free to send a pull request.
