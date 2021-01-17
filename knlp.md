@@ -26,3 +26,7 @@
 
 # GAN
 17. 한시간만에 GAN 완벽 정복하기 // https://www.youtube.com/watch?v=odpjk7_tGY0&t=14s
+
+a1. If beam search is the answer, what was the question?
+  - Clara Meister et al., EMNLP 2020
+  - Beam Search, Uniform Information Density
