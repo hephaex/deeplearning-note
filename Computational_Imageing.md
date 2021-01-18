@@ -42,3 +42,8 @@ https://github.com/elliottwu/DeepHDR
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (NIPS 2015)
     * [Original Paper Link](https://arxiv.org/abs/1506.01497) / Paper Review Video / Summary PDF / Code Practice
 
+### Video Frame Interpolation 
+* RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation
+    * [paper link[(https://arxiv.org/pdf/2011.06294) 
+https://github.com/hzwer/arXiv2020-RIFE
+
