@@ -16,11 +16,11 @@ tensorboard --logdir=/tmp/a3c
 
 #### files
 
-- [`train.py`](train.py) 
+- [train.py](train.py) 
   - contains the main method to start training.
-- [`estimators.py`](estimators.py) 
+- [estimators.py](estimators.py) 
   - contains the Tensorflow graph definitions for the Policy and Value networks.
-- [`worker.py`](worker.py) 
+- [worker.py](worker.py) 
   - contains code that runs in each worker threads.
-- [`policy_monitor.py`](policy_monitor.py) 
+- [policy_monitor.py](policy_monitor.py) 
   - contains code that evaluates the policy network by running an episode and saving rewards to Tensorboard.
