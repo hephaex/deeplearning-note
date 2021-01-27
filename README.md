@@ -7,7 +7,7 @@ https://min-tang.github.io/home/ICloth/
 
 ## Pytorch
 Christian Perone
-￼  - 발표자료: https://speakerdeck.com/perone/pytorch-under-the-hood
+￼ - 발표자료: https://speakerdeck.com/perone/pytorch-under-the-hood
   - 블로그: http://blog.christianperone.com/
   Build Deep Learning Projects (Complete Video Series for FREE )
 ==============================================
@@ -252,6 +252,7 @@ https://github.com/eBay/tsv-utils.git
  * [[paper](https://arxiv.org/abs/1609.05473)]
  * [[paper](http://www.umiacs.umd.edu/~jaiabhay/paper/ICLR2018.pdf)]
 
+## https://github.com/shawLyu/HR-Depth
 # Reference
 - CV | Computer Vision
 - TL | Transfer Learning
