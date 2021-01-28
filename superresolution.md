@@ -201,3 +201,12 @@
 |DAQ                     | [arxiv](https://arxiv.org/pdf/2012.11230.pdf)  | | Distribution-Aware Quantization |
 |HiNAS                   | [arxiv](https://arxiv.org/pdf/2012.13212.pdf)  | | NAS, layerwise architecture sharing strategy, a 1080Ti search, gradient based |
 
+### 2021
+More years papers, plase check Quick navigation
+
+| Model                  | Published                                                    | Code                                                         | Keywords                                                     |
+| ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| TrilevelNAS            | [arxiv](https://arxiv.org/pdf/2101.06658.pdf)            | -              | Trilevel Architecture Search Space      |
+| SplitSR                | [arxiv](https://arxiv.org/pdf/2101.07996.pdf)            | -              | lightweight,on Mobile Devices      |
+| NODE-SR                | [arxiv](https://arxiv.org/pdf/2101.08987.pdf)            | -              | progressively restore, Neural Differential Equation      |
+| BurstSR                | [arxiv](https://arxiv.org/pdf/2101.10997.pdf)            | -              | multi-frame sr, new BurstSR dataset      |
