@@ -1,5 +1,5 @@
 ## Super Resolution repositories
-
+forked from [ChaofWang](https://github.com/ChaofWang/Awesome-Super-Resolution)
 #### Awesome paper list:
 
 [Single-Image-Super-Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution)
