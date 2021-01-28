@@ -1,4 +1,7 @@
 
+### DL based approach
+
+Note this table is referenced from [here](https://github.com/LoSealL/VideoSuperResolution/blob/master/README.md#network-list-and-reference-updating)
 
 ### 2017
 
