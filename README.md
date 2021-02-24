@@ -1,5 +1,8 @@
 # DeepLearning Note
 
+
+## RL 
+ * dream cv2 https://github.com/danijar/dreamerv2
 ## I-cloth
 
 
