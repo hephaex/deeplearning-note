@@ -41,7 +41,10 @@ https://github.com/elliottwu/DeepHDR
     * [Original Paper Link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf) / Paper Review Video / Summary PDF / Code Practice
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks (NIPS 2015)
     * [Original Paper Link](https://arxiv.org/abs/1506.01497) / Paper Review Video / Summary PDF / Code Practice
-
+### ReLabel:
+소설 프레임워크로 이미지넷 평가를 멀티 레이블 작업으로 돌릴 수 있습니다.
+페이퍼: https://arxiv.org/pdf/2101.05022.pdf
+Github: https://github.com/naver-ai/relabel_imagenet
 ### Video Frame Interpolation 
 * RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation
     * [paper link[(https://arxiv.org/pdf/2011.06294) 
