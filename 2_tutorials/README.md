@@ -2,6 +2,7 @@
 
 * [TensorFlow 1](https://github.com/pkmital/tensorflow_tutorials)
   - From the basics to slightly more interesting applications of TensorFlow
+  - 
 * [TensorFlow 2](https://github.com/nlintz/TensorFlow-Tutorials) 
   - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano
 * [TensorFlow 3](https://github.com/Hvass-Labs/TensorFlow-Tutorials) 
@@ -34,5 +35,6 @@
   - Build your first TensorFlow Android app
 * [Predict time series](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) 
   - Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers
+  - 
 * [Single Image Random Dot Stereograms](https://github.com/Mazecreator/TensorFlow-SIRDS) 
   - SIRDS is a means to present 3D data in a 2D image. It allows for scientific data display of a waterfall type plot with no hidden lines due to perspective.
