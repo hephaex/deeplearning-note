@@ -3,11 +3,13 @@ Computational Imaging is the process of indirectly forming images from measureme
 [wikipedia](https://en.wikipedia.org/wiki/Computational_imaging)
 
 ## DeepHarmonization
+
 Project webpage: https://sites.google.com/site/yihsuantsai/research/cvpr17-harmonization 
 Contact: Yi-Hsuan Tsai (wasidennis at gmail dot com)
 https://github.com/wasidennis/DeepHarmonization
 
 ## DeeoHDR
+
 CCV'18: Deep High Dynamic Range Imaging with Large Foreground Motions
 [Deep High Dynamic Range Imaging with Large Foreground Motions](https://arxiv.org/abs/1711.08937), Shangzhe Wu, Jiarui Xu, Yu-Wing Tai, Chi-Keung Tang, in ECCV, 2018. More results can be found on our [project page](https://elliottwu.com/projects/hdr/). 
 https://github.com/elliottwu/DeepHDR
