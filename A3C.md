@@ -11,7 +11,7 @@ ref [link](https://github.com/dennybritz/reinforcement-learning/tree/master/Poli
 See `./train.py --help` for a full list of options. Then, monitor training progress in Tensorboard:
 
 ```
-tensorboard --logdir=/tmp/a3c
+tensorboard --logdir=/home/work/a3c
 ```
 
 #### files
