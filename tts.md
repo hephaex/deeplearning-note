@@ -50,3 +50,66 @@ List of TTS papers with audio samples provided by the authors. The last rows of 
 - [Tacotron](https://arxiv.org/abs/1703.10135) - Tacotron: Towards End-to-End Speech Synthesis
   - https://google.github.io/tacotron/publications/tacotron
   - Griffin-Lim
+
+주제 : Tocotron + Wavenet을 이용한 한국어 TTS 구현
+Tocotron + Wavenet Vocoder + Korean TTS
+https://github.com/hccho2/Tacotron-Wavenet-Vocoder
+
+Tacotron에 대해 쉽게 이해할 수 있도록 DEVIEW 2017에서 발표한 영상
+https://tv.naver.com/v/2292650
+
+wavenet 및 기타 합성 음성에 대한 설명
+https://cloud.google.com/text-to-speech/docs/wavenet
+
+google cloud text-to-speech
+https://cloud.google.com/text-to-speech/
+
+tensorflow Simple Audio Recognition
+https://www.tensorflow.org/tutorials/sequences/audio_recognition
+
+2) 가용데이터 유무, 데이터 사이즈 (kaggle 및 
+Korean Single Speaker Speech Dataset
+https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset
+Audio File Type: wav
+Total Running Time: 12+ hours
+Sample Rate: 44,100 KHZ
+Number of Audio Files: 12,853
+오디오의 침묵구간을 기준으로 분리되어 있고, 내용에 대한 라벨링이 되어 있어 좋을것 같습니다.
+
+Custom Datasets의 제작은 https://github.com/carpedm20/multi-speaker-tacotron-tensorflow 에서 자세히 설명하고 있으나, 
+Google Speech Recognition API을 이용하여 audio->text로 변환하는 과정에서 정확하지 않은 데이터가 발생하여 하나씩 들어보고
+수정해야 할 것 같습니다.
+
+3) 해당데이터를 이용한 최신 성능 (SOTA) 기재 
+google cloud text-to-speech
+https://cloud.google.com/text-to-speech/
+다양한 언어의 텍스트를 다양한 음성으로 Wavenet 기반기술을 사용하여 인간과 유사한 목소리로 합성
+끊어 읽을 지점, 숫자, 날짜, 시간 형식, 기타 발음 지침을 추가할 수 있는 SSML 태그로 음성을 맞춤설정가능
+
+  - 본인이 해당 데이터로 해보려는 세부 task를 명확하게 명시 필요
+Tocotron + Wavenet을 이용한 한국어 TTS 구현
+1) Multi-Speaker Tacotron의 한국어 구현
+2) Wavenet vocoder (r9y9)
+
+  - Reference 논문/웹사이트
+Tacotron
+https://arxiv.org/abs/1703.10135
+wavenet 논문
+https://arxiv.org/abs/1609.03499
+딥러닝 (Tacotron, wavenet)에 대한 이해
+https://github.com/hccho2/hccho2.github.io/blob/master/DeepLearning.pdf
+딥러닝을 이용한 음성합성 관련 자료 모음
+https://github.com/lifefeel/SpeechSynthesis
+딥 러닝을 이용한 자연어 처리 입문
+https://wikidocs.net/book/2155
+
+4) 데이터를 활용한 오픈소스 링크 기재 
+Tocotron + Wavenet Vocoder + Korean TTS
+https://github.com/hccho2/Tacotron-Wavenet-Vocoder
+
+wavenet의 구현
+A TensorFlow implementation of DeepMind's WaveNet paper
+https://github.com/ibab/tensorflow-wavenet
+
+Tocotron의 한국어 구현
+https://github.com/carpedm20/multi-speaker-tacotron-tensorflow
