@@ -38,13 +38,6 @@ GitHub by Inderpreet Singh: https://github.com/ipsingh06/ml-desnapify
 ---
 
 
-### :busts_in_silhouette: Contributing
-Contributions are welcome !! If you have any suggestions (missing or new papers, missing repos or typos) you can pull a request or start a discussion.
-
----
-
-
-
 ### :pushpin: Opening Publication 	
 Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.2661v1.pdf)  [[presentation]](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf) [[code]](https://github.com/goodfeli/adversarial) [[video]](https://www.youtube.com/watch?v=HN9NRhm9waY)
 
