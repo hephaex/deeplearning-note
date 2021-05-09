@@ -1,4 +1,4 @@
-# Capsule-Network-Tutorial
+# Capsule Network Tutorial
 This is easy-to-follow Capsule Network tutorial with clean readable code:
 [Capsule Network.ipynb](https://github.com/higgsfield/Capsule-Network-Tutorial/blob/master/Capsule%20Network.ipynb)
 
