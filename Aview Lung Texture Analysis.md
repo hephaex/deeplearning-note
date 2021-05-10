@@ -46,7 +46,6 @@ Radiologic mega trends 리뷰
  Semi-automatic measurement of the airway dimension by computed tomography using the full-width-half-maximum method: a study on the measurement accuracy according to the CT parameters and size of the airway. N. Kim1**, J.B. Seo, K.S. Song, E.J. Chae, and S.H. Kang, Korean J Radiol(1.766), 2008. 9(3): p. 226-35. 18525226 (FA)
 Semi-automatic measurement of the airway dimension by computed tomography using the full-with-half-maximum method: a study of the measurement accuracy according to the orientation of an artificial airway. N. Kim1**, J.B. Seo, K.S. Song, E.J. Chae, and S.H. Kang, Korean J Radiol(1.766), 2008. 9(3): p. 236-42. 18525225 (FA)
 
-
 # 임상 논문
 ## IPF환자에 texture  방법 적용
  Texture-Based Automated Quantitative Assessment of Regional Patterns on Initial CT in Patients With Idiopathic Pulmonary Fibrosis: Relationship to Decline in Forced Vital Capacity. Park HJ, Lee SM, Song JW, Lee SM, Oh SY, Kim N, Seo JB. AJR Am J Roentgenol. 2016 Aug 17:1-8. [Epub ahead of print]
