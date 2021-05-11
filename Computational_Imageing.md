@@ -16,8 +16,10 @@ https://github.com/elliottwu/DeepHDR
 
 ## General Light Microscopy 
 - https://www.ibiology.org/online-biology-courses/microscopy-series/
+
 ## UC Berkeley Prof. Laura Waller
 - https://www.youtube.com/watch?v=nlMqwWDLnfA&t=1540s
+
 ##  Exposure: A White-Box Photo Post-Processing Framework
 #### ACM Transactions on Graphics (presented at SIGGRAPH 2018)
 [Yuanming Hu](http://taichi.graphics/me/)<sup>1,2</sup>, [Hao He](https://github.com/hehaodele)<sup>1,2</sup>, Chenxi Xu<sup>1,3</sup>, [Baoyuan Wang](https://sites.google.com/site/zjuwby/)<sup>1</sup>, [Stephen Lin](https://www.microsoft.com/en-us/research/people/stevelin/)<sup>1</sup>
@@ -31,7 +33,6 @@ https://github.com/elliottwu/DeepHDR
 - [code](https://epfml.github.io/attention-cnn/)
 
 #### Image Recognition 
-
 * End-to-End Object Detection with Transformers (ECCV 2020)
     * [Original Paper Link](https://arxiv.org/abs/2005.12872) / [Paper Review Video](https://www.youtube.com/watch?v=hCWUTvVrG7E) / [Summary PDF](/lecture_notes/DETR.pdf) / Code Practice
 * Searching for MobileNetV3 (ICCV 2019)
