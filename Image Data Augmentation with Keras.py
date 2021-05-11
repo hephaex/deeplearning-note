@@ -5,9 +5,6 @@
 
 # ### Importing Libraries
 
-# In[1]:
-
-
 import os
 import numpy as np
 import tensorflow as tf
@@ -19,9 +16,6 @@ print('Using Tensorflow',tf.__version__)
 
 
 # #### Instantiating
-
-# In[2]:
-
 
 generator = tf.keras.preprocessing.image.ImageDataGenerator(rotation_range=40)
 
