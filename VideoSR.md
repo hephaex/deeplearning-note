@@ -3,9 +3,11 @@
 **This list is maintained by:** **Wenhan Yang** **[[STRUCT]](http://www.icst.pku.edu.cn/struct/struct.html) PKU (PI: Prof. Jiaying Liu)**
 
 #### Video SR
- * Learned Temporal Dynamics [[PDF]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Robust_Video_Super-Resolution_ICCV_2017_paper.pdf)
+ * Learned Temporal Dynamics 
+   * [[PDF]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Robust_Video_Super-Resolution_ICCV_2017_paper.pdf)
    * Robust Video Super-Resolution with Learned Temporal Dynamics (ICCV2017), Ding Liu et al.
- * VESPCN [[PDF]](https://arxiv.org/pdf/1611.05250.pdf)
+ * VESPCN 
+   * [[PDF]](https://arxiv.org/pdf/1611.05250.pdf)
    * Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation (Arxiv2016), Jose Caballero et al.
  * Infimal Convolution [[PDF]](https://arxiv.org/pdf/1611.07767.pdf)
    * Multiframe Motion Coupling via Infimal Convolution Regularization for Video Super Resolution (Arxiv2016), Hendrik Dirks et al.
