@@ -1,12 +1,12 @@
 ## nccl
-
+depend on nccl
 ```
 wget https://developer.nvidia.com/compute/machine-learning/nccl/secure/v2.4/prod//nccl_2.4.8-1%2Bcuda10.1_x86_64.txz
 cd /usr/local 
 tar xvf nccl_2.4.8-1+cuda10.1_x86_64.txz
 ```
 
-## set mpi
+## set openmpi
 ```
 wget https://download.open-mpi.org/release/open-mpi/v3.1/openmpi-3.1.2.tar.bz2
 gunzip -c openmpi-3.1.2.tar.gz | tar xf -
