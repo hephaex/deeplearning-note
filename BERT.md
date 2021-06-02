@@ -1,5 +1,5 @@
 # BERT-related Papers
-This is a list of BERT-related papers. 
+a list of BERT-related papers. 
 Any feedback is welcome.
 
 ## Table of Contents
