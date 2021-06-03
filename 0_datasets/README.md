@@ -23,3 +23,6 @@ The region is home to about 2.5 million insect species, tens of thousands of pla
   - 그동안 마땅한 한글 데이터셋이 없어 답답했던 분들에게 큰 도움이 될 듯 합니다.
 ### kss dataset download**
 * [Korean-Single-Speech dataset](https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset): 12,853개(약 12시간)의 샘플로 구성된 한국어 여성 단일화자 발화 dataset입니다.
+
+### celeba-hq-dataset
+https://www.dropbox.com/s/f7pvjij2xlpff59/celeba_hq.zip?dl=0
