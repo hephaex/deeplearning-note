@@ -1,9 +1,5 @@
 Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis,
 
-# Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Surfaces
-
-Official PyTorch code (TBD) for NGLOD. For technical details, please refer to:
-
 **Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Surfaces**  
 [Towaki Takikawa*](https://tovacinni.github.io), [Joey Litalien*](https://joeylitalien.github.io), [Kangxue Xin](https://kangxue.org/), [Karsten Kreis](https://scholar.google.de/citations?user=rFd-DiAAAAAJ), [Charles Loop](https://research.nvidia.com/person/charles-loop), [Derek Nowrouzezahrai](http://www.cim.mcgill.ca/~derek/), [Alec Jacobson](https://www.cs.toronto.edu/~jacobson/), [Morgan McGuire](https://casual-effects.com/), and [Sanja Fidler](https://www.cs.toronto.edu/~fidler/)\
 In submission, 2021\
@@ -513,6 +509,8 @@ In submission, 2021\
 2018	9	Twin-GAN	Twin-GAN -- Unpaired Cross-Domain Image Translation with Weight-Sharing GANs	https://arxiv.org/abs/1809.00946	-			
 2018	9	WaveletGLCA-GAN	Global and Local Consistent Wavelet-domain Age Synthesis	https://arxiv.org/abs/1809.07764	-			
 
+## datasets
+[celeba](https://www.dropbox.com/s/d1kjpkqklf0uw77/celeba.zip)
 
 ##  Implemented GANs
 
