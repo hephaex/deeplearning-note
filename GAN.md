@@ -6,7 +6,7 @@ In submission, 2021\
 **[[Paper](https://arxiv.org/abs/2101.10994)] [[Bibtex](https://nv-tlabs.github.io/nglod/assets/nglod.bib)] [[Project Page](https://nv-tlabs.github.io/nglod/)]**
 
 | Year	|Month	|Abbr.	|Title|	Arxiv	|Official_Code	|
-|-- --|--   --|--   --|-- --|--   --|--- --|
+|:-----------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 
 2014	6	GAN	Generative Adversarial Networks	https://arxiv.org/abs/1406.2661	https://github.com/goodfeli/adversarial
 2014	11	CGAN	Conditional Generative Adversarial Nets	https://arxiv.org/abs/1411.1784	-			
