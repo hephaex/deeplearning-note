@@ -513,6 +513,7 @@ In submission, 2021\
 ## datasets
 [celeba](https://www.dropbox.com/s/d1kjpkqklf0uw77/celeba.zip)
 
+
 ##  Implemented GANs
 
 | Name| Venue | Architecture | G_type*| D_type*| Loss | EMA**|
