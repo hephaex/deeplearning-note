@@ -5,18 +5,18 @@ Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis
 In submission, 2021\
 **[[Paper](https://arxiv.org/abs/2101.10994)] [[Bibtex](https://nv-tlabs.github.io/nglod/assets/nglod.bib)] [[Project Page](https://nv-tlabs.github.io/nglod/)]**
 
-| Year	|Month	|Abbr.	|Title|	Arxiv	|Official_Code	|Watches	|Stars	|Forks|
-|-- --|--   --|--   --|-- --|--   --|----           --|----     --|--   --|-- --|
+| Year	|Month	|Abbr.	|Title|	Arxiv	|Official_Code	|
+|-- --|--   --|--   --|-- --|--   --|--- --|
 
-2014	6	GAN	Generative Adversarial Networks	https://arxiv.org/abs/1406.2661	https://github.com/goodfeli/adversarial	108	1736	666
+2014	6	GAN	Generative Adversarial Networks	https://arxiv.org/abs/1406.2661	https://github.com/goodfeli/adversarial
 2014	11	CGAN	Conditional Generative Adversarial Nets	https://arxiv.org/abs/1411.1784	-			
-2015	6	LAPGAN	Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks	https://arxiv.org/abs/1506.05751	https://github.com/facebook/eyescream	52	581	138
+2015	6	LAPGAN	Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks	https://arxiv.org/abs/1506.05751	https://github.com/facebook/eyescream	
 2015	11	CatGAN	Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks	https://arxiv.org/abs/1511.06390v2	-			
-2015	11	DCGAN	Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks	https://arxiv.org/abs/1511.06434	https://github.com/Newmu/dcgan_code	168	2849	581
+2015	11	DCGAN	Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks	https://arxiv.org/abs/1511.06434	https://github.com/Newmu/dcgan_code	
 2015	12	VAE-GAN	Autoencoding beyond pixels using a learned similarity metric	https://arxiv.org/abs/1512.09300	-			
-2016	2	GRAN	Generating images with recurrent adversarial networks	https://arxiv.org/abs/1602.05110	https://github.com/jiwoongim/GRAN	7	104	31
+2016	2	GRAN	Generating images with recurrent adversarial networks	https://arxiv.org/abs/1602.05110	https://github.com/jiwoongim/GRAN
 2016	3	S^2GAN	Generative Image Modeling using Style and Structure Adversarial Networks	https://arxiv.org/abs/1603.05631v2	-			
-2016	4	MGAN	Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks	https://arxiv.org/abs/1604.04382	https://github.com/chuanli11/MGANs	23	241	43
+2016	4	MGAN	Precomputed Real-Time Texture Synthesis with Markovian Generative Adversarial Networks	https://arxiv.org/abs/1604.04382	https://github.com/chuanli11/MGANs
 2016	5	BiGAN	Adversarial Feature Learning	https://arxiv.org/abs/1605.09782v7	-			
 2016	5	GAN-CLS	Generative Adversarial Text to Image Synthesis	https://arxiv.org/abs/1605.05396	https://github.com/reedscot/icml2016	39	677	155
 2016	6	ALI	Adversarially Learned Inference	https://arxiv.org/abs/1606.00704	https://github.com/IshmaelBelghazi/ALI	16	262	72
