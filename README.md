@@ -1,7 +1,7 @@
 # DeepLearning Note
 
 
-## RL 
+## RL (reinforce learning)
  * dream cv2 https://github.com/danijar/dreamerv2
 ## I-cloth
 
