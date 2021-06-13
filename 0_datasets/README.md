@@ -26,3 +26,6 @@ The region is home to about 2.5 million insect species, tens of thousands of pla
 
 ### celeba-hq-dataset
 https://www.dropbox.com/s/f7pvjij2xlpff59/celeba_hq.zip?dl=0
+
+### ARC Ukiyo-e Faces Dataset
+https://github.com/rois-codh/arc-ukiyoe-faces/
