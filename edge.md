@@ -6,3 +6,9 @@ MaskCam은 모든 AI 계산이 에지에서 수행되는 실시간으로 군중 
 * 젯팩버젼: JetPack 4.4.1 or 4.5
 * GitHub(소스코드): https://github.com/bdtinc/maskcam 
 * 논문: https://www.bdti.com/.../Developing-Prototype-Mask-Jetson...
+
+# Robottle
+RPLidar로 SLAM을 사용하여 환경지도를 구성하고 Jetson Nano Board의 GPU에서 실행되는 Deep Neural Network를 사용하여 병을 감지하여 장애물이있는 임의의 환경에서 병을 수집 할 수있는 자율 로봇입니다. Robottle은 EPFL의 학술 대회를 위해 설계되었습니다. 로봇은 10 분 동안 병으로 가득 찬 경기장에서 자동으로 병을 수집하고 경기장의 한 구석 인 재활용 경기장으로 가져와야합니다.
+* GitHub(소스코드): https://github.com/arthurBricq/ros_robottle
+* 데모 동영상: https://youtu.be/XJpJSuhSZN4
+* 논문: https://github.com/arth.../ros_robottle/blob/main/report.pdf
