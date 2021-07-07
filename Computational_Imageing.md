@@ -14,6 +14,9 @@ CCV'18: Deep High Dynamic Range Imaging with Large Foreground Motions
 [Deep High Dynamic Range Imaging with Large Foreground Motions](https://arxiv.org/abs/1711.08937), Shangzhe Wu, Jiarui Xu, Yu-Wing Tai, Chi-Keung Tang, in ECCV, 2018. More results can be found on our [project page](https://elliottwu.com/projects/hdr/). 
 https://github.com/elliottwu/DeepHDR
 
+## ResTS: Residual Deep interpretable architecture for plant disease detection
+https://www.sciencedirect.com/science/article/pii/S2214317321000482/pdfft?md5=6b049240ca4d7569bd16b2b05ce4e247&pid=1-s2.0-S2214317321000482-main.pdf
+
 ## General Light Microscopy 
 - https://www.ibiology.org/online-biology-courses/microscopy-series/
 
