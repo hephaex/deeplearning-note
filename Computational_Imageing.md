@@ -32,6 +32,11 @@ https://www.sciencedirect.com/science/article/pii/S2214317321000482/pdfft?md5=6b
 ## MIT Optics Class 
 - Prof.George Barbastathis (https://www.youtube.com/watch?v=IYBYmOVmICg)
 
+## VidLanKD: Improving Language Understanding via Video-Distilled Knowledge Transfer
+
+
+* Arxiv: https://arxiv.org/abs/2107.02681
+* https://github.com/zinengtang/VidLanKD
 ## attention-cnn
 - [code](https://epfml.github.io/attention-cnn/)
 
