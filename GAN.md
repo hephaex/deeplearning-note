@@ -512,6 +512,9 @@ In submission, 2021\
 2018	9	Twin-GAN	Twin-GAN -- Unpaired Cross-Domain Image Translation with Weight-Sharing GANs	https://arxiv.org/abs/1809.00946	-			
 2018	9	WaveletGLCA-GAN	Global and Local Consistent Wavelet-domain Age Synthesis	https://arxiv.org/abs/1809.07764	-			
 
+## mlp singer
+https://github.com/neosapience/mlp-singer.git
+
 ## datasets
 [celeba](https://www.dropbox.com/s/d1kjpkqklf0uw77/celeba.zip)
 
