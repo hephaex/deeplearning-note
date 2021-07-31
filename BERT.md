@@ -940,6 +940,8 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 27. [nouhadziri/DialogEntailment](https://github.com/nouhadziri/DialogEntailment), The implementation of the paper "Evaluating Coherence in Dialogue Systems using Entailment" https://arxiv.org/abs/1904.03371
 ![](https://img.shields.io/github/stars/nouhadziri/DialogEntailment.svg)
 
+## ko bert
+https://github.com/jeongukjae/KR-BERT-SimCSE
 
 ## BERT tutorials: 
 
