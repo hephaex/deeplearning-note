@@ -8,6 +8,13 @@ Project webpage: https://sites.google.com/site/yihsuantsai/research/cvpr17-harmo
 Contact: Yi-Hsuan Tsai (wasidennis at gmail dot com)
 https://github.com/wasidennis/DeepHarmonization
 
+## DETReg
+Researchers From Tel Aviv University, UC Berkeley and NVIDIA Introduce ‘DETReg’, A Novel Unsupervised AI For Object Detection
+Quick Read: https://www.marktechpost.com/.../researchers-from-tel.../
+Codes: https://github.com/amirbar/DETReg
+Project: https://www.amirbar.net/detreg/
+Paper: https://arxiv.org/pdf/2106.04550.pdf
+
 ## DeeoHDR
 
 CCV'18: Deep High Dynamic Range Imaging with Large Foreground Motions
