@@ -66,6 +66,11 @@ https://www.sciencedirect.com/science/article/pii/S2214317321000482/pdfft?md5=6b
 페이퍼: https://arxiv.org/pdf/2101.05022.pdf
 Github: https://github.com/naver-ai/relabel_imagenet
 
+## ML-HyperSim
+Quick Read: https://www.marktechpost.com/.../apples-machine-learning.../
+Paper: https://arxiv.org/pdf/2011.02523.pdf
+Codes: https://github.com/apple/ml-hypersim
+
 ### Video Frame Interpolation 
 * RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation
     * [paper link[(https://arxiv.org/pdf/2011.06294) 
