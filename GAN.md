@@ -544,3 +544,8 @@ https://github.com/neosapience/mlp-singer.git
 | [**FreezeD**](https://arxiv.org/abs/2002.10964) | CVPRW' 20 | - | - | - | - | - |
 
 https://github.com/ahmedfgad/GeneticAlgorithmPython
+
+### Facebook AI Introduces Multiscale Vision Transformers (MViT), A Transformer Architecture For Representation Learning From Visual Data
+Quick Read: https://www.marktechpost.com/.../facebook-ai-introduces.../
+Paper: https://arxiv.org/abs/2104.11227?
+Github: https://github.com/facebookresearch/SlowFast
