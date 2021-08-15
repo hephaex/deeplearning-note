@@ -8,11 +8,8 @@ In submission, 2021\
 | Year	|Month	|Abbr.	|Title|	Arxiv	|Official_Code	|
 
 2014	6	GAN	Generative Adversarial Networks	https://arxiv.org/abs/1406.2661	https://github.com/goodfeli/adversarial
-
 2014	11	CGAN	Conditional Generative Adversarial Nets	https://arxiv.org/abs/1411.1784
-
 2015	6	LAPGAN	Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks	https://arxiv.org/abs/1506.05751	https://github.com/facebook/eyescream	
-
 2015	11	CatGAN	Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks	https://arxiv.org/abs/1511.06390v2	-			
 2015	11	DCGAN	Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks	https://arxiv.org/abs/1511.06434	https://github.com/Newmu/dcgan_code	
 2015	12	VAE-GAN	Autoencoding beyond pixels using a learned similarity metric	https://arxiv.org/abs/1512.09300	-			
@@ -517,7 +514,6 @@ https://github.com/neosapience/mlp-singer.git
 
 ## datasets
 [celeba](https://www.dropbox.com/s/d1kjpkqklf0uw77/celeba.zip)
-
 
 ##  Implemented GANs
 
