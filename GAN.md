@@ -545,3 +545,9 @@ https://github.com/ahmedfgad/GeneticAlgorithmPython
 Quick Read: https://www.marktechpost.com/.../facebook-ai-introduces.../
 Paper: https://arxiv.org/abs/2104.11227?
 Github: https://github.com/facebookresearch/SlowFast
+
+
+### Facebook And TU Graz Introduces An Ultra-Compact AI Generator, ‘DONeRF’, Which Is 48x Faster Than NeRF
+Quick Read: https://www.marktechpost.com/.../facebook-and-tu-graz.../
+Paper:https://arxiv.org/pdf/2103.03231.pdf
+Github: https://github.com/facebookresearch/DONERF
