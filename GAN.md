@@ -5,6 +5,8 @@ Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis
 
 **[[Paper](https://arxiv.org/abs/2101.10994)] [[Bibtex](https://nv-tlabs.github.io/nglod/assets/nglod.bib)] [[Project Page](https://nv-tlabs.github.io/nglod/)]**
 
+
+** best paper of GAN 
 | Year	|Month	|Abbr.	|Title|	Arxiv	|Official_Code	|
 
 2014	6	GAN	Generative Adversarial Networks	https://arxiv.org/abs/1406.2661	https://github.com/goodfeli/adversarial
