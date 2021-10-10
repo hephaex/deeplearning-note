@@ -1,5 +1,6 @@
 # Delving deep into Generative Adversarial Networks (GANs) 	
 
+--- 
 
 ## A curated, quasi-exhaustive list of state-of-the-art publications and resources about Generative Adversarial Networks (GANs) and their applications.
 
@@ -1532,7 +1533,6 @@ https://github.com/neosapience/mlp-singer.git
 | [**ADAGAN**](https://arxiv.org/abs/2006.06676) | arXiv' 20 |  Big ResNet | cBN | PD/CL | Hinge | True |
 | [**ContraGAN**](https://arxiv.org/abs/2006.12681) | arXiv' 20 | Big ResNet | cBN | CL | Hinge | True |
 | [**FreezeD**](https://arxiv.org/abs/2002.10964) | CVPRW' 20 | - | - | - | - | - |
-
 
 https://github.com/ahmedfgad/GeneticAlgorithmPython
 
