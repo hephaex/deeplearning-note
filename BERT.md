@@ -66,7 +66,6 @@ Any feedback is welcome.
 - [Domain Adaptive Training BERT for Response Selection](https://arxiv.org/abs/1908.04812)
 - [BERT Goes to Law School: Quantifying the Competitive Advantage of Access to Large Legal Corpora in Contract Understanding](https://arxiv.org/abs/1911.00473)
 
-
 ### Slot filling
 - [BERT for Joint Intent Classification and Slot Filling](https://arxiv.org/abs/1902.10909)
 - [Multi-lingual Intent Detection and Slot Filling in a Joint BERT-based Model](https://arxiv.org/abs/1907.02884)
@@ -127,7 +126,6 @@ Any feedback is welcome.
 - [WikiCREM: A Large Unsupervised Corpus for Coreference Resolution](https://arxiv.org/abs/1908.08025) (EMNLP2019)
 - [Ellipsis and Coreference Resolution as Question Answering](https://arxiv.org/abs/1908.11141)
 - [Coreference Resolution as Query-based Span Prediction](https://arxiv.org/abs/1911.01746)
-
 
 ### Sentiment analysis
 - [Utilizing BERT for Aspect-Based Sentiment Analysis via Constructing Auxiliary Sentence](https://arxiv.org/abs/1903.09588) (NAACL2019)
