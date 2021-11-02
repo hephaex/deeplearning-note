@@ -1545,3 +1545,12 @@ Github: https://github.com/facebookresearch/SlowFast
 Quick Read: https://www.marktechpost.com/.../facebook-and-tu-graz.../
 Paper:https://arxiv.org/pdf/2103.03231.pdf
 Github: https://github.com/facebookresearch/DONERF
+
+
+## ACGAN
+Title: Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training
+Paper: https://arxiv.org/abs/2111.01118
+GitHub: https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
+해당 논문은 올해 Neurips 2021에 발표될 예정이며 내용을 정말 간단히 요약하자면 다음과 같습니다.
+요약:
+본 논문에서는 ACGAN 학습이 불안정한 원인으로 학습 초기에 뻗어나가는 특징맵과 분류자의 부정확한 예측을 주목했습니다. 이를 해결하기 위해 특징맵을 unit hypersphere에 사영하는 간단한 방법을 사용하였고, 이에 Contrastive learning 아이디어를 더해 D2D-CE로스를 제안하였습니다. Softmax 함수 대신 D2D-CE를 사용하는 ReACGAN은 CIFAR10, Tiny-ImageNet, CUB200, ImageNet, AFHQ에서 기존 모델대비 의미있는 성능향상을 보여주었고, 모델 아키텍처, Differentiable augmentations, 적대적 손실 함수, 하이퍼매개변수 변화에 강겅한 특징을 가지고 있습니다. 이를 StudioGAN 라이브러리를 통해 실험적으로 증명하였고, 특히 ACGAN 계열로는 처음으로 2048 배치 이미지넷 생성 실험에 성공했음을 리포트하였습니다.
