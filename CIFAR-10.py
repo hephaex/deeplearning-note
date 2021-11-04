@@ -6,7 +6,7 @@ from torch.utils.data import Dataset,DataLoader
 import torchvision.datasets as dsets
 import matplotlib.pyplot as plt
 
-batch_size = 100
+batch_size = 400
 train_data = dsets.CIFAR10(root='./cifar-10', train=True, download=False, transform=transforms.Compose([transforms.RandomHorizontalFlip(p=0.5), transforms.ToTensor(), transforms.RandomErasing(p=0.5, scale=(0.02, 0.4), ratio=(0.33, 3.0))]))
 train_loader = DataLoader(train_data,batch_size=batch_size,shuffle=True)
 test_data = dsets.CIFAR10(root='./cifar-10', train=False, download=False, transform=transforms.Compose([transforms.ToTensor(),]))
