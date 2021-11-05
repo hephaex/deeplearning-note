@@ -1,3 +1,12 @@
+## RL (reinforce learning)
+ * dream cv2 https://github.com/danijar/dreamerv2
+## I-cloth
+
+
+https://min-tang.github.io/home/ICloth/
+
+## dreamerv2
+
 https://github.com/danijar/dreamerv2
 
 카카오 팀에서 내부적으로 사용하던 강화학습 프레임워크를 JORLDY라는 이름의 오픈소스 강화학습 프레임워크로 공개하게 되었습니다!! 저희 JORLDY는 다음과 같은 특징들을 가지고 있습니다!
