@@ -1,11 +1,5 @@
 # DeepLearning Note
 
-## RL (reinforce learning)
- * dream cv2 https://github.com/danijar/dreamerv2
-## I-cloth
-
-
-https://min-tang.github.io/home/ICloth/
 
 ## Pytorch
 Christian Perone
