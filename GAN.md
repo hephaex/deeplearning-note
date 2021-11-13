@@ -378,7 +378,7 @@ S/N|Paper|Year|Citations
 
 
 ### :package: Resources / Models (Descending order based on GitHub stars)
-S/N|Name|Repo|Stars
+|S/N|Name|Repo|Stars
 :---:|:---:|:---:|:---:
 |1|Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)|https://github.com/junyanz/CycleGAN|6383
 |2| :chart_with_upwards_trend: Image-to-image translation with conditional adversarial nets (pix2pix)|https://github.com/phillipi/pix2pix|4851
