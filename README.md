@@ -1,6 +1,5 @@
 # DeepLearning Note
 
-
 ## Pytorch
 Christian Perone
 ￼ - 발표자료: https://speakerdeck.com/perone/pytorch-under-the-hood
