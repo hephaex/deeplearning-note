@@ -1562,3 +1562,8 @@ huggingface gradio demo: https://huggingface.co/spaces/akhaliq/AnimeGANv2
 한글 폰트 생성 프로젝트를 진행했습니다. 10글자 내외를 입력하면 해당 글씨체의 스타일대로 폰트를 생성합니다. 생성가능한 글자는 상용한글 + 영어알파벳으로 2,420글자입니다. 
 https://github.com/MINED30/HAN2HAN
 더 많은 예시와 모델 구조 설명이 있습니다. 
+
+## Microsoft Researchers Unlock New Avenues In Image-Generation Research With Manifold Matching Via Metric Learning
+Quick Read: https://www.marktechpost.com/.../microsoft-researchers.../
+Paper: https://arxiv.org/pdf/2106.10777.pdf
+Github:https://github.com/dzld00/pytorch-manifold-matching
