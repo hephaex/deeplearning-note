@@ -23,6 +23,7 @@ https://github.com/NVlabs/stylegan
 ### :link: Contents
 * [ Desnapify](Desnapify is a deep convolutional generative adversarial network (DCGAN) trained to remove Snapchat filters from selfie images.GitHub by Inderpreet Singh: https://github.com/ipsingh06/ml-desnapify)
 
+
 #artificialintelligence #deeplearning #generativeadversarialnetworks #machinelearning #technologydeep convolutional generative adversarial network (DCGAN) trained to remove Snapchat filters from selfie images.
 
 GitHub by Inderpreet Singh: https://github.com/ipsingh06/ml-desnapify
