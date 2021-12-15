@@ -1003,11 +1003,11 @@ MIT
 
 
 |Year	|Month	|Abbr.	|Title|	Arxiv	|Official_Code	
-:---:|:---:|:---:|:---:|:---:|:---:|:---:
+:---:|:---:|:---:|:---:|:---:|:---:
 2014	6	GAN	Generative Adversarial Networks	https://arxiv.org/abs/1406.2661	https://github.com/goodfeli/adversarial
 2014	11 CGAN	Conditional Generative Adversarial Nets	https://arxiv.org/abs/1411.1784
 2015	6	LAPGAN	Deep Generative Image Models using a Laplacian Pyramid of Adversarial Networks	https://arxiv.org/abs/1506.05751	https://github.com/facebook/eyescream	
-2015	11 CatGAN	Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks	https://arxiv.org/abs/1511.06390v2	-			
+2015	11 CatGAN	Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks	https://arxiv.org/abs/1511.06390v2	
 2015	11 DCGAN	Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks	https://arxiv.org/abs/1511.06434	https://github.com/Newmu/dcgan_code	
 2015	12	VAE-GAN	Autoencoding beyond pixels using a learned similarity metric	https://arxiv.org/abs/1512.09300	-			
 2016	2	GRAN	Generating images with recurrent adversarial networks	https://arxiv.org/abs/1602.05110	https://github.com/jiwoongim/GRAN
@@ -1021,7 +1021,7 @@ MIT
 2016	6	Improved GAN	Improved Techniques for Training GANs	https://arxiv.org/abs/1606.03498	https://github.com/openai/improved-gan	143	1462	445
 2016	6	InfoGAN	InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets	https://arxiv.org/abs/1606.03657v1	https://github.com/openai/InfoGAN	100	666	211
 2016	7	SketchGAN	Adversarial Training For Sketch Retrieval	https://arxiv.org/abs/1607.02748	-			
-2016	9	Context-RNN-GAN	Contextual RNN-GANs for Abstract Reasoning Diagram Generation	https://arxiv.org/abs/1609.09444	-			
+2016	9	Context-RNN-GAN	Contextual RNN-GANs for Abstract Reasoning Diagram Generation	https://arxiv.org/abs/1609.09444	-	
 2016	9	EBGAN	Energy-based Generative Adversarial Network	https://arxiv.org/abs/1609.03126v4	-			
 2016	9	IAN	Neural Photo Editing with Introspective Adversarial Networks	https://arxiv.org/abs/1609.07093	https://github.com/ajbrock/Neural-Photo-Editor	74	1753	152
 2016	9	iGAN	Generative Visual Manipulation on the Natural Image Manifold	https://arxiv.org/abs/1609.03552v2	https://github.com/junyanz/iGAN	151	2984	425
