@@ -1574,3 +1574,11 @@ Github:https://github.com/dzld00/pytorch-manifold-matching
 Quick Read: https://www.marktechpost.com/.../ai-researchers-propose.../
 Paper: https://arxiv.org/pdf/2112.05143v1.pdf
 Github: https://github.com/wpeebles/gangealing
+
+## generative manifold learning!
+https://yilundu.github.io/gem/
+
+We show how to capture the manifold of any signal modality (including cross-modal ones), by representing each signal as a neural field. We can then traverse the latent space between signals and generate new samples!
+
+Such an approach enables our latent manifold to capture the underlying structure in different signal modalities, enabling us to inpaint images as well as generate audio or image hallucinations.
+
