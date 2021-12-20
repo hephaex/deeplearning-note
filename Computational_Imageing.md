@@ -80,3 +80,7 @@ Codes: https://github.com/apple/ml-hypersim
     * [paper link[(https://arxiv.org/pdf/2011.06294) 
 https://github.com/hzwer/arXiv2020-RIFE
 
+## MIT Researchers Propose Patch-Based Inference to Reduce the Memory Usage for Tiny Deep Learning
+Quick Read: https://www.marktechpost.com/.../mit-researchers-propose.../
+Paper: https://arxiv.org/abs/2110.15352
+Project: https://mcunet.mit.edu/
