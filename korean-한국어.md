@@ -55,3 +55,8 @@
 |내가 사랑했던 그 사람 맞아?|사랑했던 그 사람의 다른 모습이 보인거예요. 그 사람 맞아요.|2|
 |내가 생각하는 만큼 걔도 날 생각할까?|확신이 없나보네요.|2|
 |내가 생각했던 사람이 맞는지 확신이 안들어|새로운 모습을 봤나봐요.|2|
+
+## KoBigBird
+* Longer Sequence - 최대 512개의 token을 다룰 수 있는 BERT의 8배인 최대 4096개의 token 커버
+* Computational Efficiency - Full attention이 아닌 Sparse Attention을 이용하여 O(n)으로 개선
+Github: https://github.com/monologg/KoBigBird
