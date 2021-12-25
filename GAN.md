@@ -961,10 +961,6 @@ S/N|Paper|Year|Citations
 - Matconvnet by Andrea Vedaldi  [Matlab]: [[homepage]](http://www.vlfeat.org/matconvnet/) [[github]](https://github.com/vlfeat/matconvnet) 	
 ----
 
-License
-
-MIT
-
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -1581,4 +1577,8 @@ https://yilundu.github.io/gem/
 We show how to capture the manifold of any signal modality (including cross-modal ones), by representing each signal as a neural field. We can then traverse the latent space between signals and generate new samples!
 
 Such an approach enables our latent manifold to capture the underlying structure in different signal modalities, enabling us to inpaint images as well as generate audio or image hallucinations.
+
+# License
+
+MIT
 
