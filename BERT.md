@@ -955,3 +955,8 @@ https://github.com/jeongukjae/KR-BERT-SimCSE
 
 2. [dragen1860/TensorFlow-2.x-Tutorials](https://github.com/dragen1860/TensorFlow-2.x-Tutorials), TensorFlow 2.x version's Tutorials and Examples, including CNN, RNN, GAN, Auto-Encoders, FasterRCNN, GPT, BERT examples, etc. TF 2.0。,
 ![](https://img.shields.io/github/stars/dragen1860/TensorFlow-2.x-Tutorials.svg)
+
+## 한국어 sentence bert 모델
+- 깃허브에 sentence-transformers 다국어 모델과의 벤치마크 성능 비교를 기재해두었습니다) ko-sentence-transformers 라이브러리를 설치하시면 허깅페이스 허브에서 바로 다운받아 사용 가능합니다. 
+- 허깅페이스 모델: https://huggingface.co/jhgan/ko-sbert-multitask
+- 깃허브 저장소: https://github.com/jhgan00/ko-sentence-transformers
