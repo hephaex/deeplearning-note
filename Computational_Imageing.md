@@ -84,3 +84,9 @@ https://github.com/hzwer/arXiv2020-RIFE
 Quick Read: https://www.marktechpost.com/.../mit-researchers-propose.../
 Paper: https://arxiv.org/abs/2110.15352
 Project: https://mcunet.mit.edu/
+
+## 시카고 대학과 텔아비브 대학의 연구진은 ‘텍스트2메쉬’를 소개했다: 텍스트 대상에 따라 3D 메쉬의 색과 기하학을 모두 바꾸는 소설 프레임워크
+논문 요약: https://www.marktechpost.com/.../researchers-from-the.../
+페이퍼: https://arxiv.org/pdf/2112.03221.pdf
+GitHub: https://github.com/threedle/text2mesh
+프로젝트 페이지: https://threedle.github.io/text2mesh/
