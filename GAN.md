@@ -5,7 +5,7 @@
 ## A curated, quasi-exhaustive list of state-of-the-art publications and resources about Generative Adversarial Networks (GANs) and their applications.
 
 ### Background
-Generative models are models that can learn to create data that is similar to data that we give them. One of the most promising approaches of those models are Generative Adversarial Networks (GANs), a branch of unsupervised machine learning implemented by a system of two neural networks competing against each other in a zero-sum game framework. They were first introduced by Ian Goodfellow et al. in 2014. This repository aims at presenting an elaborate list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.
+ Generative models are models that can learn to create data that is similar to data that we give them. One of the most promising approaches of those models are Generative Adversarial Networks (GANs), a branch of unsupervised machine learning implemented by a system of two neural networks competing against each other in a zero-sum game framework. They were first introduced by Ian Goodfellow et al. in 2014. This repository aims at presenting an elaborate list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GKalliatakis/Delving-deep-into-GANs/master/GAN2.gif?raw=true"/><br>
@@ -14,15 +14,9 @@ Generative models are models that can learn to create data that is similar to da
 
 ---
 
-### Style-GAN paper out
-Code and pre-trained models for StyleGAN - Official TensorFlow Implementation
-https://github.com/NVlabs/stylegan
-- code: [Puzer/stylergan-encoder](https://github.com/Puzer/stylegan-encoder)
-- code: [StackGAN](https://github.com/hanzhanggit/StackGAN)
 
 ### :link: Contents
 * [ Desnapify](Desnapify is a deep convolutional generative adversarial network (DCGAN) trained to remove Snapchat filters from selfie images.GitHub by Inderpreet Singh: https://github.com/ipsingh06/ml-desnapify)
-
 
 #artificialintelligence #deeplearning #generativeadversarialnetworks #machinelearning #technologydeep convolutional generative adversarial network (DCGAN) trained to remove Snapchat filters from selfie images.
 
@@ -1577,6 +1571,12 @@ https://yilundu.github.io/gem/
 We show how to capture the manifold of any signal modality (including cross-modal ones), by representing each signal as a neural field. We can then traverse the latent space between signals and generate new samples!
 
 Such an approach enables our latent manifold to capture the underlying structure in different signal modalities, enabling us to inpaint images as well as generate audio or image hallucinations.
+### Style-GAN paper out
+Code and pre-trained models for StyleGAN - Official TensorFlow Implementation
+https://github.com/NVlabs/stylegan
+- code: [Puzer/stylergan-encoder](https://github.com/Puzer/stylegan-encoder)
+- code: [StackGAN](https://github.com/hanzhanggit/StackGAN)
+
 
 # License
 
