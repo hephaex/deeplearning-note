@@ -90,3 +90,8 @@ Project: https://mcunet.mit.edu/
 페이퍼: https://arxiv.org/pdf/2112.03221.pdf
 GitHub: https://github.com/threedle/text2mesh
 프로젝트 페이지: https://threedle.github.io/text2mesh/
+
+## : A New Neural Network-Based Method To Build Animatable 3D Models From Videos
+Quick Read: https://www.marktechpost.com/.../meta-ai-and-cmu.../
+Paper: https://arxiv.org/pdf/2112.12761.pdf
+Project: https://banmo-www.github.io/
