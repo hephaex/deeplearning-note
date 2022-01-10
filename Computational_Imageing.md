@@ -110,3 +110,8 @@ Authors: Eric R. Chan, Connor Lin, Matthew A. Chan, Koki Nagano, Boxiao (Leo) Pa
 Quick Read: https://www.marktechpost.com/.../apple-ml-researchers.../
 Paper: https://arxiv.org/pdf/2111.08897.pdf
 Github: https://github.com/apple/ARKitScenes
+
+## Researchers From China Propose A Pale-Shaped Self-Attention (PS-Attention) And A General Vision Transformer Backbone, Called Pale Transformer
+Quick Read: https://www.marktechpost.com/.../researchers-from-china.../
+Paper: https://arxiv.org/pdf/2112.14000v1.pdf
+Github: https://github.com/BR-IDL/PaddleViT
