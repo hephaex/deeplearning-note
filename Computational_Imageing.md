@@ -105,3 +105,8 @@ Code: https://lnkd.in/dRf8S-4n
 Video: https://lnkd.in/d4hp2WAh
 Paper: https://lnkd.in/datCy3HN
 Authors: Eric R. Chan, Connor Lin, Matthew A. Chan, Koki Nagano, Boxiao (Leo) Pan, Shalini De Mello, Orazio Gallo, Leonidas Guibas, Jonathan Tremblay, Sameh Khamis, Tero Karras, Gordon Wetzstein
+
+## Apple ML Researchers Introduce ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data
+Quick Read: https://www.marktechpost.com/.../apple-ml-researchers.../
+Paper: https://arxiv.org/pdf/2111.08897.pdf
+Github: https://github.com/apple/ARKitScenes
