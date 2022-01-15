@@ -100,11 +100,11 @@ Project: https://banmo-www.github.io/
 " Current state-of-the-art GANs have seen immense progress, but they commonly operate in 2D and do not explicitly model the underlying 3D scenes. Recent work on 3D-aware GANs has begun to tackle the problem of multi-view-consistent image synthesis and, to a lesser extent, extraction of 3D shapes without being supervised on geometry or multi-view image collections. However, the image quality and resolution of existing 3D GANs have lagged far behind those of 2D GANs. One of the primary reasons for this gap is the computational inefficiency of previously employed 3D generators and neural rendering architectures.
 The authors of this paper introduce a novel generator architecture for unsupervised 3D representation learning from a collection of single-view 2D photographs that seeks to improve the computational efficiency of rendering while remaining true to 3D-grounded neural rendering.
 For this purpose, the authors introduce an expressive hybrid explicit-implicit network architecture that, together with other design choices, synthesizes not only high-resolution multi-view-consistent images in real-time but also produces high-quality 3D geometry. By decoupling feature generation and neural rendering, their framework is able to leverage state-of-the-art 2D CNN generators, such as StyleGAN2, and inherit their efficiency and expressiveness."
-Project: https://lnkd.in/dCV3t4qG
-Code: https://lnkd.in/dRf8S-4n
-Video: https://lnkd.in/d4hp2WAh
-Paper: https://lnkd.in/datCy3HN
-Authors: Eric R. Chan, Connor Lin, Matthew A. Chan, Koki Nagano, Boxiao (Leo) Pan, Shalini De Mello, Orazio Gallo, Leonidas Guibas, Jonathan Tremblay, Sameh Khamis, Tero Karras, Gordon Wetzstein
+ - Project: https://lnkd.in/dCV3t4qG
+ - Code: https://lnkd.in/dRf8S-4n
+ - Video: https://lnkd.in/d4hp2WAh
+ - Paper: https://lnkd.in/datCy3HN
+ - Authors: Eric R. Chan, Connor Lin, Matthew A. Chan, Koki Nagano, Boxiao (Leo) Pan, Shalini De Mello, Orazio Gallo, Leonidas Guibas, Jonathan Tremblay, Sameh Khamis, Tero Karras, Gordon Wetzstein
 
 ## Apple ML Researchers Introduce ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data
 Quick Read: https://www.marktechpost.com/.../apple-ml-researchers.../
