@@ -115,3 +115,8 @@ Github: https://github.com/apple/ARKitScenes
 Quick Read: https://www.marktechpost.com/.../researchers-from-china.../
 Paper: https://arxiv.org/pdf/2112.14000v1.pdf
 Github: https://github.com/BR-IDL/PaddleViT
+
+## UNETR’: A Novel Architecture for Semantic Segmentation of Brain Tumors Using Multi-Modal MRI Images
+Quick Read: https://www.marktechpost.com/.../researchers-from-nvidia.../
+Paper: https://arxiv.org/pdf/2201.01266v1.pdf
+Github: https://github.com/.../research.../tree/master/SwinUNETR
