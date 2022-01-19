@@ -387,6 +387,9 @@ Those might be comprehensive tutorials on working example.
 .. _Creative Applications of Deep Learning with TensorFlow: https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow/info
 .. _Deep Learning with TensorFlow Tutorial: https://cognitiveclass.ai/courses/deep-learning-tensorflow/
 
+## Uber Releases V1.1 of Orbit: A Python Package to Perform Bayesian Time-Series Analysis and Forecasting
+Quick Read: https://www.marktechpost.com/.../uber-releases-v1-1-of.../
+Github: https://github.com/uber/orbit
 
 ## Books
 
