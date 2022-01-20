@@ -116,6 +116,11 @@ Quick Read: https://www.marktechpost.com/.../researchers-from-china.../
 Paper: https://arxiv.org/pdf/2112.14000v1.pdf
 Github: https://github.com/BR-IDL/PaddleViT
 
+## Meta AI and CMU Researchers Present ‘BANMo’: A New Neural Network-Based Method To Build Animatable 3D Models From Videos
+Quick Read: https://www.marktechpost.com/.../meta-ai-and-cmu.../
+Paper: https://arxiv.org/pdf/2112.12761.pdf
+Project: https://banmo-www.github.io/
+
 ## UNETR’: A Novel Architecture for Semantic Segmentation of Brain Tumors Using Multi-Modal MRI Images
 Quick Read: https://www.marktechpost.com/.../researchers-from-nvidia.../
 Paper: https://arxiv.org/pdf/2201.01266v1.pdf
