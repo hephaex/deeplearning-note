@@ -106,6 +106,11 @@ For this purpose, the authors introduce an expressive hybrid explicit-implicit n
  - Paper: https://lnkd.in/datCy3HN
  - Authors: Eric R. Chan, Connor Lin, Matthew A. Chan, Koki Nagano, Boxiao (Leo) Pan, Shalini De Mello, Orazio Gallo, Leonidas Guibas, Jonathan Tremblay, Sameh Khamis, Tero Karras, Gordon Wetzstein
 
+## Researchers at Meta and the University of Texas at Austin Propose ‘Detic’: A Method to Detect Twenty-Thousand Classes using Image-Level Supervision
+Quick Read: https://www.marktechpost.com/.../researchers-at-meta-and.../
+Paper: https://arxiv.org/pdf/2201.02605v2.pdf
+Github: https://github.com/facebookresearch/Detic
+
 ## Apple ML Researchers Introduce ARKitScenes: A Diverse Real-World Dataset For 3D Indoor Scene Understanding Using Mobile RGB-D Data
 Quick Read: https://www.marktechpost.com/.../apple-ml-researchers.../
 Paper: https://arxiv.org/pdf/2111.08897.pdf
