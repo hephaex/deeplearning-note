@@ -130,3 +130,12 @@ Project: https://banmo-www.github.io/
 Quick Read: https://www.marktechpost.com/.../researchers-from-nvidia.../
 Paper: https://arxiv.org/pdf/2201.01266v1.pdf
 Github: https://github.com/.../research.../tree/master/SwinUNETR
+
+## 비전 기반 제스처 제어 드론
+젯슨나노2GB에 단안카메라로 제스쳐 모양에 따라 드론이 스탠드 후버링은 물론 좌/우로 제어가 되네요!
+* 공헌자(저자): A FINDELAIR
+* 데모 동영상: https://youtu.be/FZAUPmKiSXg 
+* GitHub: https://github.com/ArthurFDLR/drone-gesture-control 
+* 프로젝트 보고서: https://github.com/.../blob/main/.github/Project_Report.pdf 
+* 데브토크: https://forums.developer.nvidia.com/.../vision.../187072 
+
