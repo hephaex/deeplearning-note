@@ -139,3 +139,8 @@ Github: https://github.com/.../research.../tree/master/SwinUNETR
 * 프로젝트 보고서: https://github.com/.../blob/main/.github/Project_Report.pdf 
 * 데브토크: https://forums.developer.nvidia.com/.../vision.../187072 
 
+## Google AI Introduces ‘StylEx’: A New Approach For A Visual Explanation Of Classifiers
+Quick Read: https://www.marktechpost.com/.../google-ai-introduces.../
+Paper: https://arxiv.org/pdf/2104.13369.pdf
+Project: https://explaining-in-style.github.io/
+Github: https://github.com/google/explaining-in-style
