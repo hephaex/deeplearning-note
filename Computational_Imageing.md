@@ -1,7 +1,5 @@
 # Computational Vision
-
-Computational Imaging is a the process of indirectly forming images from measurements using algorithms that rely on a significant amount of computing. In contrast to traditional imaging, computational imaging systems involve a tight integration of the sensing system and the computation in order to form the images of interest. The ubiquitous availability of fast computing platforms (such as multi-core CPUs and GPUs), the advances in algorithms and modern sensing hardware is resulting in imaging systems with significantly enhanced capabilities. Computational Imaging systems cover a broad range of applications include computational microscopy,[1] tomographic imaging, MRI, ultrasound imaging, computational photography, Synthetic Aperture Radar (SAR), seismic imaging etc. The integration of the sensing and the computation in computational imaging systems allows for accessing information which was otherwise not possible.
-
+ Computational Imaging is a the process of indirectly forming images from measurements using algorithms that rely on a significant amount of computing. In contrast to traditional imaging, computational imaging systems involve a tight integration of the sensing system and the computation in order to form the images of interest. The ubiquitous availability of fast computing platforms (such as multi-core CPUs and GPUs), the advances in algorithms and modern sensing hardware is resulting in imaging systems with significantly enhanced capabilities. Computational Imaging systems cover a broad range of applications include computational microscopy,[1] tomographic imaging, MRI, ultrasound imaging, computational photography, Synthetic Aperture Radar (SAR), seismic imaging etc. The integration of the sensing and the computation in computational imaging systems allows for accessing information which was otherwise not possible.
 
 ## satellite-image-deep-learning
 https://github.com/robmarkcole/satellite-image-deep-learning
@@ -20,7 +18,6 @@ Project: https://www.amirbar.net/detreg/
 Paper: https://arxiv.org/pdf/2106.04550.pdf
 
 ## DeeoHDR
-
 CCV'18: Deep High Dynamic Range Imaging with Large Foreground Motions
 [Deep High Dynamic Range Imaging with Large Foreground Motions](https://arxiv.org/abs/1711.08937), Shangzhe Wu, Jiarui Xu, Yu-Wing Tai, Chi-Keung Tang, in ECCV, 2018. More results can be found on our [project page](https://elliottwu.com/projects/hdr/). 
 https://github.com/elliottwu/DeepHDR
@@ -44,8 +41,6 @@ https://www.sciencedirect.com/science/article/pii/S2214317321000482/pdfft?md5=6b
 - Prof.George Barbastathis (https://www.youtube.com/watch?v=IYBYmOVmICg)
 
 ## VidLanKD: Improving Language Understanding via Video-Distilled Knowledge Transfer
-
-
 * Arxiv: https://arxiv.org/abs/2107.02681
 * https://github.com/zinengtang/VidLanKD
 ## attention-cnn
