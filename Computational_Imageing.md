@@ -140,3 +140,9 @@ Quick Read: https://www.marktechpost.com/.../google-ai-introduces.../
 Paper: https://arxiv.org/pdf/2104.13369.pdf
 Project: https://explaining-in-style.github.io/
 Github: https://github.com/google/explaining-in-style
+
+## Meta AI Research Proposes ‘OMNIVORE’: 
+A Single Vision (Computer Vision) Model For Many Different Visual Modalities
+Quick Read: https://www.marktechpost.com/2022/01/30/meta-ai-research-proposes-omnivore-a-single-vision-computer-vision-model-for-many-different-visual-modalities/
+Paper: https://arxiv.org/abs/2201.08377
+Github: https://github.com/facebookresearch/omnivore
