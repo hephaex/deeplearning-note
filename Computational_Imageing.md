@@ -146,3 +146,9 @@ A Single Vision (Computer Vision) Model For Many Different Visual Modalities
 Quick Read: https://www.marktechpost.com/2022/01/30/meta-ai-research-proposes-omnivore-a-single-vision-computer-vision-model-for-many-different-visual-modalities/
 Paper: https://arxiv.org/abs/2201.08377
 Github: https://github.com/facebookresearch/omnivore
+
+## SegFormer, a new semantic segmentation method has been proposed. 
+You can read about it in the link below: https://arxiv.org/abs/2105.15203
+I have prepared a python script which can be used to train the SegFormer model or alternatively you can download the model that I have trained and use it for the inference. The details for training and testing the model for semantic segmentation using SegFormer are available at my GitHub Repository. 
+https://github.com/.../Sematic_Segmentation_With_SegFormer 
+The sample inference from a test image is shown below:
