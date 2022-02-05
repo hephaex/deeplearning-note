@@ -1,16 +1,16 @@
 # DeepLearning Note
 
 ## SoA
-2017.06.12. Attention Is All You Need: https://arxiv.org/abs/1706.03762
-2019.02.14. GPT-2, Better Language Models and Their Implications: https://openai.com/blog/better-language-models
-2020.06.11. GPT-3, OpenAI API: https://openai.com/blog/openai-api
-2021.01.05. DALL·E: Creating Images from Text: https://openai.com/blog/dall-e
-2021.06.29. Introducing GitHub Copilot: your AI pair programmer: https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer?fbclid=IwAR0Pzbeq6zYs4-gRL1eMlts6NnIwIfMtpwdpK_dmKiMzXt52a6Fe1Fwoc1Y
-2021.08.10. OpenAI Codex: https://openai.com/blog/openai-codex
-2021.10.29. Solving Math Word Problems: https://openai.com/blog/grade-school-math
-2021.12.31. A Neural Network Solves and Generates Mathematics Problems by Program Synthesis: https://arxiv.org/abs/2112.15594
-2022.02.02. Solving (Some) Formal Math Olympiad Problems: https://openai.com/blog/formal-math
-2022.02.02. Competitive programming with AlphaCode:https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode?fbclid=IwAR1E9sSTt3XiEXn70d2YO8bx8ruBNKArzLhJ8WuZwpclXCK58qihhzgjeVE
+- 2017.06.12. Attention Is All You Need: https://arxiv.org/abs/1706.03762
+- 2019.02.14. GPT-2, Better Language Models and Their Implications: https://openai.com/blog/better-language-models
+- 2020.06.11. GPT-3, OpenAI API: https://openai.com/blog/openai-api
+- 2021.01.05. DALL·E: Creating Images from Text: https://openai.com/blog/dall-e
+- 2021.06.29. Introducing GitHub Copilot: your AI pair programmer: https://github.blog/2021-06-29-introducing-github-copilot-ai-pair-programmer?fbclid=IwAR0Pzbeq6zYs4-gRL1eMlts6NnIwIfMtpwdpK_dmKiMzXt52a6Fe1Fwoc1Y
+- 2021.08.10. OpenAI Codex: https://openai.com/blog/openai-codex
+- 2021.10.29. Solving Math Word Problems: https://openai.com/blog/grade-school-math
+- 2021.12.31. A Neural Network Solves and Generates Mathematics Problems by Program Synthesis: https://arxiv.org/abs/2112.15594
+- 2022.02.02. Solving (Some) Formal Math Olympiad Problems: https://openai.com/blog/formal-math
+- 2022.02.02. Competitive programming with AlphaCode:https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode?fbclid=IwAR1E9sSTt3XiEXn70d2YO8bx8ruBNKArzLhJ8WuZwpclXCK58qihhzgjeVE
 
 ## Pytorch
 Christian Perone
