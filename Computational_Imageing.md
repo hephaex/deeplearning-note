@@ -1,11 +1,11 @@
 # Computational Vision
  Computational Imaging is a the process of indirectly forming images from measurements using algorithms that rely on a significant amount of computing. In contrast to traditional imaging, computational imaging systems involve a tight integration of the sensing system and the computation in order to form the images of interest. The ubiquitous availability of fast computing platforms (such as multi-core CPUs and GPUs), the advances in algorithms and modern sensing hardware is resulting in imaging systems with significantly enhanced capabilities. Computational Imaging systems cover a broad range of applications include computational microscopy,[1] tomographic imaging, MRI, ultrasound imaging, computational photography, Synthetic Aperture Radar (SAR), seismic imaging etc. The integration of the sensing and the computation in computational imaging systems allows for accessing information which was otherwise not possible.
 
+
 ## satellite-image-deep-learning
 https://github.com/robmarkcole/satellite-image-deep-learning
 
 ## DeepHarmonization
-
 Project webpage: https://sites.google.com/site/yihsuantsai/research/cvpr17-harmonization 
 Contact: Yi-Hsuan Tsai (wasidennis at gmail dot com)
 https://github.com/wasidennis/DeepHarmonization
