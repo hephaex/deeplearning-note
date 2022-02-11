@@ -2,7 +2,7 @@
 
 We will present the tutorial in [Jupyter](jupyter.org) notebooks.  To
 run them on your machine, you will need a working TensorFlow
-installation (v0.10).
+installation (after v0.10).
 
 Follow these instructions, which assume you have Ubuntu Linux.  Other
 Linux distributions may not be supported.
