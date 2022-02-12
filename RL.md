@@ -17,3 +17,9 @@ https://github.com/danijar/dreamerv2
 - 구현한 알고리즘과 환경에 대한 성능 벤치마크 제공
 JORLDY의 깃허브 링크는 다음과 같습니다. 
 https://github.com/kakaoenterprise/JORLDY
+
+
+## Deepmind에서 새로운 강화학습 적용 사례를 발표했습니다!
+MuZero 알고리즘을 사용하여 유튜브의 비디오 압축 성능을 향상시킨 논문
+* 블로그: https://deepmind.com/.../MuZeros-first-step-from-research...
+* 논문: https://storage.googleapis.com/.../MuZero%20with%20self...
