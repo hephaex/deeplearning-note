@@ -116,3 +116,4 @@ Siemens CAD for PE
 
 ## 제논 환기 연구
  Xenon ventilation CT with a dual-energy technique of dual-source CT: initial experience. E.J. Chae, J.B. Seo, H.W. Goo, N. Kim, K.S. Song, S.D. Lee, S.J. Hong, and B. Krauss, Radiology(6.069), 2008. 248(2): p. 615-24. 18641254 (Cite 56)
+
