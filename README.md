@@ -12,6 +12,27 @@
 - 2022.02.02. Solving (Some) Formal Math Olympiad Problems: https://openai.com/blog/formal-math
 - 2022.02.02. Competitive programming with AlphaCode:https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode?fbclid=IwAR1E9sSTt3XiEXn70d2YO8bx8ruBNKArzLhJ8WuZwpclXCK58qihhzgjeVE
 
+## mook
+* Stanford CS229: Machine Learning
+* Applied Machine Learning
+* Practical Deep Learning for Coders (2020)
+* Machine Learning with Graphs (Stanford)
+* Probabilistic Machine Learning
+* Introduction to Deep Learning (MIT)
+* Deep Learning: CS 182
+* Deep Unsupervised Learning
+* NYU Deep Learning SP21
+* CS224N: Natural Language Processing with Deep Learning
+* CMU Neural Networks for NLP
+* CS224U: Natural Language Understanding
+* CMU Advanced NLP
+* Multilingual NLP
+* Advanced NLP
+* Deep Learning for Computer Vision
+* Deep Reinforcement Learning
+* Full Stack Deep Learning
+* AMMI Geometric Deep Learning Course (2021)
+
 ## Pytorch
 Christian Perone
 ￼ - 발표자료: https://speakerdeck.com/perone/pytorch-under-the-hood
