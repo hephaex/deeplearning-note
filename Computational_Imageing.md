@@ -121,6 +121,9 @@ Quick Read: https://www.marktechpost.com/.../meta-ai-and-cmu.../
 Paper: https://arxiv.org/pdf/2112.12761.pdf
 Project: https://banmo-www.github.io/
 
+## PyTorch-StudioGAN 
+깃허브 링크: https://github.com/POSTECH-CVLab/PyTorch-StudioGAN
+
 ## UNETR’: A Novel Architecture for Semantic Segmentation of Brain Tumors Using Multi-Modal MRI Images
 Quick Read: https://www.marktechpost.com/.../researchers-from-nvidia.../
 Paper: https://arxiv.org/pdf/2201.01266v1.pdf
