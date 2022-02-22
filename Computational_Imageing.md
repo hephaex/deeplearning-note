@@ -14,6 +14,11 @@ Project webpage: https://sites.google.com/site/yihsuantsai/research/cvpr17-harmo
 Contact: Yi-Hsuan Tsai (wasidennis at gmail dot com)
 https://github.com/wasidennis/DeepHarmonization
 
+## In a Latest Computer Vision Research, Waymo Researchers Propose Block-NeRF: A Method That Reconstructs Arbitrarily Large Environments Using NeRFs
+Quick Read: https://www.marktechpost.com/.../in-a-latest-computer.../
+Project: https://waymo.com/research/block-nerf/
+Paper: https://arxiv.org/pdf/2202.05263.pdf
+
 ## DETReg
 Researchers From Tel Aviv University, UC Berkeley and NVIDIA Introduce ‘DETReg’, A Novel Unsupervised AI For Object Detection
 Quick Read: https://www.marktechpost.com/.../researchers-from-tel.../
