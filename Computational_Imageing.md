@@ -6,6 +6,11 @@ Paper Summary: https://www.marktechpost.com/.../a-new-study-from-cmu.../
 Paper: https://arxiv.org/pdf/2201.09792v1.pdf
 Github: https://github.com/locuslab/convmixer
 
+## In a Latest Computer Vision Research, Waymo Researchers Propose Block-NeRF: A Method That Reconstructs Arbitrarily Large Environments Using NeRFs
+Quick Read: https://www.marktechpost.com/.../in-a-latest-computer.../
+Project: https://waymo.com/research/block-nerf/
+Paper: https://arxiv.org/pdf/2202.05263.pdf
+
 ## satellite-image-deep-learning
 https://github.com/robmarkcole/satellite-image-deep-learning
 
