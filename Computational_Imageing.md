@@ -31,6 +31,11 @@ Codes: https://github.com/amirbar/DETReg
 Project: https://www.amirbar.net/detreg/
 Paper: https://arxiv.org/pdf/2106.04550.pdf
 
+##  SegFormer,
+a new semantic segmentation method has been proposed. You can read about it in the link below: https://arxiv.org/abs/2105.15203
+The details for training and testing the model for semantic segmentation using SegFormer are available at my GitHub Repository. 
+https://github.com/.../Sematic_Segmentation_With_SegFormer 
+
 ## DeeoHDR
 CCV'18: Deep High Dynamic Range Imaging with Large Foreground Motions
 [Deep High Dynamic Range Imaging with Large Foreground Motions](https://arxiv.org/abs/1711.08937), Shangzhe Wu, Jiarui Xu, Yu-Wing Tai, Chi-Keung Tang, in ECCV, 2018. More results can be found on our [project page](https://elliottwu.com/projects/hdr/). 
