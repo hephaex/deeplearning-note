@@ -11,6 +11,11 @@ Quick Read: https://www.marktechpost.com/.../in-a-latest-computer.../
 Project: https://waymo.com/research/block-nerf/
 Paper: https://arxiv.org/pdf/2202.05263.pdf
 
+## Natural Scenes from a Single Image, https://arxiv.org/pdf/2012.09855.pdf
+Project link: https://infinite-nature.github.io/
+Code: https://github.com/google-research/go...
+Colab demo: https://colab.research.google.com/git...
+
 ## satellite-image-deep-learning
 https://github.com/robmarkcole/satellite-image-deep-learning
 
