@@ -6,6 +6,10 @@ Paper Summary: https://www.marktechpost.com/.../a-new-study-from-cmu.../
 Paper: https://arxiv.org/pdf/2201.09792v1.pdf
 Github: https://github.com/locuslab/convmixer
 
+## ByteDance의 연구원들은 MetaFormer를 소개합니다: CUB-200-2011과 NABirds에서 92.3%와 92.7%를 달성하는 미세한 인식을 위한 통합된 메타 프레임워크
+빠른 읽기: https://www.marktechpost.com/.../researchers-from.../
+종이: https://arxiv.org/pdf/2203.02751v1.pdf
+Github: https://github.com/dqshuai/metaformer
 
 ## Computer Vision Research, Waymo Researchers Propose Block-NeRF: A Method That Reconstructs Arbitrarily Large Environments Using NeRFs
 Quick Read: https://www.marktechpost.com/.../in-a-latest-computer.../
