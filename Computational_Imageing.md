@@ -99,6 +99,10 @@ Quick Read: https://www.marktechpost.com/.../apples-machine-learning.../
 Paper: https://arxiv.org/pdf/2011.02523.pdf
 Codes: https://github.com/apple/ml-hypersim
 
+## 딥페이스 드로잉: 스케치의 깊은 세대의 얼굴 이미지
+종이: http://geometrylearning.com/paper/DeepFaceDrawing.pdf
+비디오: https://www.youtube.com/watch?v=HSunooUTwKs
+
 ### Video Frame Interpolation 
 * RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation
     * [paper link[(https://arxiv.org/pdf/2011.06294) 
