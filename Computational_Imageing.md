@@ -188,3 +188,9 @@ You can read about it in the link below: https://arxiv.org/abs/2105.15203
 I have prepared a python script which can be used to train the SegFormer model or alternatively you can download the model that I have trained and use it for the inference. The details for training and testing the model for semantic segmentation using SegFormer are available at my GitHub Repository. 
 https://github.com/.../Sematic_Segmentation_With_SegFormer 
 The sample inference from a test image is shown below:
+
+##  Dynamic Shifting Network
+자율주행에 대한 온전한 인식을 제공하기 위한 최신 컴퓨터 비전 연구에서 연구자들은 DSN,  LiDAR 기반 판옵틱 세그먼트의 과제를 다루고 있다
+빠른 읽기: https://www.marktechpost.com/.../in-a-latest-computer.../
+종이: https://arxiv.org/pdf/2203.07186v1.pdf
+Github: https://github.com/hongfz16/DS-Net
