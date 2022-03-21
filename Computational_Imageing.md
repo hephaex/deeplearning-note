@@ -6,7 +6,20 @@ Paper Summary: https://www.marktechpost.com/.../a-new-study-from-cmu.../
 Paper: https://arxiv.org/pdf/2201.09792v1.pdf
 Github: https://github.com/locuslab/convmixer
 
-## ByteDance의 연구원들은 MetaFormer를 소개합니다: CUB-200-2011과 NABirds에서 92.3%와 92.7%를 달성하는 미세한 인식을 위한 통합된 메타 프레임워크
+## PyTorch implementations of our ICASSP 2021 paper "Real Versus Fake 4K - Authentic Resolution Assessment"
+github: https://github.com/rr8shah/TSARA
+datasets: https://zenodo.org/record/4526657
+comparing models: 
+ - FQPath: https://github.com/mahdihosseini/FQPath
+ - HVS-MaxPol: https://github.com/mahdihosseini/HVS-MaxPol
+ - Synthetic-MaxPol: https://github.com/mahdihosseini/Synthetic-MaxPol
+ - LPC-SI: https://ece.uwaterloo.ca/~z70wang/research/lpcsi/
+ - GPC: http://helios.mi.parisdescartes.fr/~moisan/sharpness/
+ - MLV: https://www.mathworks.com/matlabcentral/fileexchange/49991-maximum-local-variation-mlv-code-for-sharpness-assessment-of-images
+ - SPARISH: https://www.mathworks.com/matlabcentral/fileexchange/55106-sparish
+ 
+## ByteDance의 연구원들은 MetaFormer를 소개합니다: 
+CUB-200-2011과 NABirds에서 92.3%와 92.7%를 달성하는 미세한 인식을 위한 통합된 메타 프레임워크
 빠른 읽기: https://www.marktechpost.com/.../researchers-from.../
 종이: https://arxiv.org/pdf/2203.02751v1.pdf
 Github: https://github.com/dqshuai/metaformer
