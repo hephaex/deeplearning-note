@@ -16,6 +16,7 @@ Any feedback is welcome.
 - [Misc.](#misc)
 
 ## Downstream task
+
 ### QA, MC, Dialogue
 - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634)
 - [MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension](https://arxiv.org/abs/1905.13453) (ACL2019)
@@ -418,10 +419,6 @@ Any feedback is welcome.
 1. [arXiv:1810.04805](https://arxiv.org/abs/1810.04805), BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 , Authors: Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova
 
-<details>
-
-<summary><b> Click to see more </b></summary>
-
 2. [arXiv:1812.06705](https://arxiv.org/abs/1812.06705), Conditional BERT Contextual Augmentation, Authors: Xing Wu, Shangwen Lv, Liangjun Zang, Jizhong Han, Songlin Hu
 
 3. [arXiv:1812.03593](https://arxiv.org/pdf/1812.03593), SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering, Authors: Chenguang Zhu, Michael Zeng, Xuedong Huang
@@ -433,8 +430,6 @@ Any feedback is welcome.
 6. [arXiv:1902.02671](https://arxiv.org/pdf/1902.02671.pdf), BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning, Authors: Asa Cooper Stickland, Iain Murray
 
 7. [arXiv:1904.02232](https://arxiv.org/abs/1904.02232), BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis, Authors: Hu Xu, Bing Liu, Lei Shu, Philip S. Yu, [[code](https://github.com/howardhsu/BERT-for-RRC-ABSA)]
-
-</details>
 
 
 
@@ -449,27 +444,11 @@ Any feedback is welcome.
 
 ## implement of BERT besides tensorflow: 
 
-
-
-
 1. [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch),   Google AI 2018 BERT pytorch implementation,
 ![](https://img.shields.io/github/stars/codertimo/BERT-pytorch.svg)
 
 2. [huggingface/pytorch-pretrained-BERT](https://github.com/huggingface/pytorch-pretrained-BERT),   A PyTorch implementation of Google AI's BERT model with script to load Google's pre-trained models,
 ![](https://img.shields.io/github/stars/huggingface/pytorch-pretrained-BERT.svg)
-
-
-
-18. [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp), Gluon + MXNet implementation that reproduces BERT pretraining and finetuning on GLUE benchmark, SQuAD, etc,
-![](https://img.shields.io/github/stars/dmlc/gluon-nlp.svg)
-
-19. [dbiir/UER-py](https://github.com/dbiir/UER-py),  UER-py is a toolkit for pre-training on general-domain corpus and fine-tuning on downstream task. UER-py maintains model modularity and supports research extensibility. It facilitates the use of different pre-training models (e.g. BERT), and provides interfaces for users to further extend upon.  
-![](https://img.shields.io/github/stars/dbiir/UER-py.svg)
-
-<details>
- 
-<summary><b> Click to see more </b></summary>
-
 
 3. [Separius/BERT-keras](https://github.com/Separius/BERT-keras), Keras implementation of BERT with pre-trained weights, 
 ![](https://img.shields.io/github/stars/Separius/BERT-keras.svg)
@@ -515,8 +494,12 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 17. [nghuyong/ERNIE-Pytorch](https://github.com/nghuyong/ERNIE-Pytorch), ERNIE Pytorch Version,
 ![](https://img.shields.io/github/stars/nghuyong/ERNIE-Pytorch.svg)
 
-</details>
 
+18. [dmlc/gluon-nlp](https://github.com/dmlc/gluon-nlp), Gluon + MXNet implementation that reproduces BERT pretraining and finetuning on GLUE benchmark, SQuAD, etc,
+![](https://img.shields.io/github/stars/dmlc/gluon-nlp.svg)
+
+19. [dbiir/UER-py](https://github.com/dbiir/UER-py),  UER-py is a toolkit for pre-training on general-domain corpus and fine-tuning on downstream task. UER-py maintains model modularity and supports research extensibility. It facilitates the use of different pre-training models (e.g. BERT), and provides interfaces for users to further extend upon.  
+![](https://img.shields.io/github/stars/dbiir/UER-py.svg)
 
 ## improvement over BERT:
 1. [thunlp/ERNIE](https://github.com/https://github.com/thunlp/ERNIE), Source code and dataset for ACL 2019 paper "ERNIE: Enhanced Language Representation with Informative Entities", imporove bert with heterogeneous information fusion. 
