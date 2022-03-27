@@ -1,4 +1,4 @@
-## 2018
+
 | Title | Conf | Code | Stars |
 |:--------|:--------:|:--------:|:--------:|
 | [Video-to-Video Synthesis](https://arxiv.org/abs/1808.06601) | NIPS | [code](https://github.com/NVIDIA/vid2vid) | 5578 | 
@@ -1567,6 +1567,4 @@
 | [Collaborative Hashing](http://openaccess.thecvf.com/content_cvpr_2014/html/Liu_Collaborative_Hashing_2014_CVPR_paper.html) | CVPR | [code](https://github.com/27359794/lsh-collab-filtering) | 6 | 
 | [Tell Me What You See and I will Show You Where It Is](http://openaccess.thecvf.com/content_cvpr_2014/html/Xu_Tell_Me_What_2014_CVPR_paper.html) | CVPR | [code](https://github.com/MarkipTheMudkip/in-class-project-2) | 6 | 
 | [Salient Region Detection via High-Dimensional Color Transform](http://openaccess.thecvf.com/content_cvpr_2014/html/Kim_Salient_Region_Detection_2014_CVPR_paper.html) | CVPR | [code](https://github.com/jhkim89/Saliency-HDCT) | 6 | 
-
-## 2020
 | [Toon-Me](https://github.com/vijishmadhavan/Toon-Me) | CVPR | [code](https://github.com/vijishmadhavan/Toon-Me?fbclid=IwAR1KJ_wlorIRC-AQiiNf00GMLesjExFeDIRMep9HfU7WTEq1U0eR0qBe3nA) | 6 | 
