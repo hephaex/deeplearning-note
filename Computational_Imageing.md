@@ -1,6 +1,11 @@
 # Computational Vision
  Computational Imaging is a the process of indirectly forming images from measurements using algorithms that rely on a significant amount of computing. In contrast to traditional imaging, computational imaging systems involve a tight integration of the sensing system and the computation in order to form the images of interest. The ubiquitous availability of fast computing platforms (such as multi-core CPUs and GPUs), the advances in algorithms and modern sensing hardware is resulting in imaging systems with significantly enhanced capabilities. Computational Imaging systems cover a broad range of applications include computational microscopy,[1] tomographic imaging, MRI, ultrasound imaging, computational photography, Synthetic Aperture Radar (SAR), seismic imaging etc. The integration of the sensing and the computation in computational imaging systems allows for accessing information which was otherwise not possible.
 
+## Researchers from U Texas and Apple Propose a Novel Transformer-Based Architecture for Global Multi-Object Tracking
+Quick Read: https://www.marktechpost.com/.../researchers-from-u.../
+Paper: https://arxiv.org/pdf/2203.13250.pdf
+Github: https://github.com/xingyizhou/GTR
+
 ## A New Study from CMU and Bosch Center for AI Demonstrated a New Transformer Paradigm in Computer Vision
 Paper Summary: https://www.marktechpost.com/.../a-new-study-from-cmu.../
 Paper: https://arxiv.org/pdf/2201.09792v1.pdf
