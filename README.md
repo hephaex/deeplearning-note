@@ -12,6 +12,7 @@
 - 2022.02.02. Solving (Some) Formal Math Olympiad Problems: https://openai.com/blog/formal-math
 - 2022.02.02. Competitive programming with AlphaCode:https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode?fbclid=IwAR1E9sSTt3XiEXn70d2YO8bx8ruBNKArzLhJ8WuZwpclXCK58qihhzgjeVE
 
+
 ## mook
 * Stanford CS229: Machine Learning
 * Applied Machine Learning
