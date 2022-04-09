@@ -1,5 +1,8 @@
 # natural language processing
 
+## Flaxformer: transformer architectures in JAX/Flax
+* https://github.com/google/flaxformer
+
 ## Part-of-speech Tagging
 * (2000) [A Statistical Part-of-Speech Tagger](https://arxiv.org/pdf/cs/0003055.pdf)
   - **TLDR**: Seminal paper demonstrating a powerful HMM-based POS tagger. Many tips and tricks for building such classical systems included. 
