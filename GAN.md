@@ -21,6 +21,10 @@
 #artificialintelligence #deeplearning #generativeadversarialnetworks #machinelearning #technologydeep convolutional generative adversarial network (DCGAN) trained to remove Snapchat filters from selfie images.
 
 GitHub by Inderpreet Singh: https://github.com/ipsingh06/ml-desnapify
+* UCSD and NVIDIA AI Researchers Propose ‘CoordGAN’: a Novel Disentangled GAN Mode That Produces Dense Correspondence Maps Represented by a Novel Coordinate Space
+Quick Read: https://www.marktechpost.com/2022/04/10/ucsd-and-nvidia-ai-researchers-propose-coordgan-a-novel-disentangled-gan-mode-that-produces-dense-correspondence-maps-represented-by-a-novel-coordinate-space/
+Paper: https://arxiv.org/pdf/2203.16521.pdf
+Project: https://jitengmu.github.io/CoordGAN/
 
 #artificialintelligence #deeplearning #generativeadversarialnetworks #machinelearning #technology
 * [Opening Publication](#pushpin-opening-publication)
