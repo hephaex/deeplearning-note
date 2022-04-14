@@ -530,9 +530,6 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 2. [Y1ran/NLP-BERT--ChineseVersion](https://github.com/Y1ran/NLP-BERT--ChineseVersion), 
 ![](https://img.shields.io/github/stars/Y1ran/NLP-BERT--ChineseVersion.svg)
 
-<details>
- 
-<summary><b> Click to see more </b></summary>
 
 
 9. [yangbisheng2009/cn-bert](https://github.com/yangbisheng2009/cn-bert), 
@@ -606,7 +603,7 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 27. [1234560o/Bert-model-code-interpretation](https://github.com/1234560o/Bert-model-code-interpretation), 
 ![](https://img.shields.io/github/stars/1234560o/Bert-model-code-interpretation.svg)
 
-</details>
+
 
 
 ## domain specific BERT: 
