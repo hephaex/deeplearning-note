@@ -1,5 +1,6 @@
 # BERT-related Papers
 a list of BERT-related papers. 
+
 Any feedback is welcome.
 
 ## Table of Contents
@@ -16,7 +17,6 @@ Any feedback is welcome.
 - [Misc.](#misc)
 
 ## Downstream task
-
 ### QA, MC, Dialogue
 - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634)
 - [MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension](https://arxiv.org/abs/1905.13453) (ACL2019)
