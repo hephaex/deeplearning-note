@@ -13,3 +13,8 @@ Project Code: https://github.com/Ashishkumar-hub/Warehouse-Apparel-Detection-usi
 Quick Read: https://www.marktechpost.com/.../researchers-from-mit.../
 Paper: https://arxiv.org/pdf/2203.08414.pdf
 Github: https://github.com/mhamilton723/STEGO
+
+## UTokyo Researchers Introduce A Novel Synthetic Training Data Called Self-Blended Images (SBIs) To Detect Deepfakes
+Quick Read: https://www.marktechpost.com/.../utokyo-researchers.../
+Paper: https://arxiv.org/pdf/2204.08376.pdf
+Github: https://github.com/mapooon/SelfBlendedImages
