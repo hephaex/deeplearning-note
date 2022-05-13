@@ -18,3 +18,7 @@ Github: https://github.com/mhamilton723/STEGO
 Quick Read: https://www.marktechpost.com/.../utokyo-researchers.../
 Paper: https://arxiv.org/pdf/2204.08376.pdf
 Github: https://github.com/mapooon/SelfBlendedImages
+
+## Meta AI Introduces ‘Make-A-Scene’: A Deep Generative Technique Based On An Autoregressive Transformer For Text-To-Image Synthesis With Human Priors
+Paper Summary: https://www.marktechpost.com/.../meta-ai-introduces-make.../
+Paper: https://arxiv.org/pdf/2203.13131v1.pdf
