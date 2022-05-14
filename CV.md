@@ -22,3 +22,7 @@ Github: https://github.com/mapooon/SelfBlendedImages
 ## Meta AI Introduces ‘Make-A-Scene’: A Deep Generative Technique Based On An Autoregressive Transformer For Text-To-Image Synthesis With Human Priors
 Paper Summary: https://www.marktechpost.com/.../meta-ai-introduces-make.../
 Paper: https://arxiv.org/pdf/2203.13131v1.pdf
+
+## Bytedance Researchers Propose CLIP-GEN: A New Self-Supervised Deep Learning Generative Approach Based On CLIP And VQ-GAN To Generate Reliable Samples From Text Prompts
+Quick Read: https://www.marktechpost.com/.../bytedance-researchers.../
+Paper: https://arxiv.org/pdf/2203.00386v1.pdf
