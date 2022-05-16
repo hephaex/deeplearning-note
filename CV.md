@@ -26,3 +26,7 @@ Paper: https://arxiv.org/pdf/2203.13131v1.pdf
 ## Bytedance Researchers Propose CLIP-GEN: A New Self-Supervised Deep Learning Generative Approach Based On CLIP And VQ-GAN To Generate Reliable Samples From Text Prompts
 Quick Read: https://www.marktechpost.com/.../bytedance-researchers.../
 Paper: https://arxiv.org/pdf/2203.00386v1.pdf
+
+## Warehouse Apparel Detection using YOLOv5 end to end project
+Kindly Like and Share and subscribe to the YT channel !!
+Project Code: https://github.com/.../Warehouse-Apparel-Detection-using...
