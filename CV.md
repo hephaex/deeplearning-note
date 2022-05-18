@@ -33,5 +33,5 @@ Project Code: https://github.com/.../Warehouse-Apparel-Detection-using...
 
 ## Learning to Estimate Robust 3D Human Mesh from In-the-Wild Crowded Scenes / 3DCrowdNet
 https://arxiv.org/abs/2104.07300
-깃헙: https://github.com/hongsukchoi/3DCrowdNet_RELEASE
+github: https://github.com/hongsukchoi/3DCrowdNet_RELEASE
 
