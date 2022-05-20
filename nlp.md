@@ -13,6 +13,7 @@
   - **TLDR**: Proposes a number of powerful linguistic features for building a (then) SOTA POS-tagging system
 * (2015) [Bidirectional LSTM-CRF Models for Sequence Tagging](https://arxiv.org/abs/1508.01991)
   - **TLDR**: Proposes an element sequence-tagging model combining neural networks with conditional random fields, achieving SOTA in POS-tagging, NER, and chunking. 
+## https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 
 ## Parsing
 * (2003) [Accurate unlexicalized parsing](https://people.eecs.berkeley.edu/~klein/papers/unlexicalized-parsing.pdf) :bulb:
