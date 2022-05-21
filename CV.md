@@ -14,16 +14,19 @@ Quick Read: https://www.marktechpost.com/.../researchers-from-mit.../
 Paper: https://arxiv.org/pdf/2203.08414.pdf
 Github: https://github.com/mhamilton723/STEGO
 
-## UTokyo Researchers Introduce A Novel Synthetic Training Data Called Self-Blended Images (SBIs) To Detect Deepfakes
+## UTokyo Researchers Introduce 
+A Novel Synthetic Training Data Called Self-Blended Images (SBIs) To Detect Deepfakes
 Quick Read: https://www.marktechpost.com/.../utokyo-researchers.../
 Paper: https://arxiv.org/pdf/2204.08376.pdf
 Github: https://github.com/mapooon/SelfBlendedImages
 
-## Meta AI Introduces ‘Make-A-Scene’: A Deep Generative Technique Based On An Autoregressive Transformer For Text-To-Image Synthesis With Human Priors
+## Meta AI Introduces ‘Make-A-Scene’: 
+A Deep Generative Technique Based On An Autoregressive Transformer For Text-To-Image Synthesis With Human Priors
 Paper Summary: https://www.marktechpost.com/.../meta-ai-introduces-make.../
 Paper: https://arxiv.org/pdf/2203.13131v1.pdf
 
-## Bytedance Researchers Propose CLIP-GEN: A New Self-Supervised Deep Learning Generative Approach Based On CLIP And VQ-GAN To Generate Reliable Samples From Text Prompts
+## Bytedance Researchers Propose CLIP-GEN: 
+A New Self-Supervised Deep Learning Generative Approach Based On CLIP And VQ-GAN To Generate Reliable Samples From Text Prompts
 Quick Read: https://www.marktechpost.com/.../bytedance-researchers.../
 Paper: https://arxiv.org/pdf/2203.00386v1.pdf
 
@@ -35,7 +38,8 @@ Project Code: https://github.com/.../Warehouse-Apparel-Detection-using...
 https://arxiv.org/abs/2104.07300
 github: https://github.com/hongsukchoi/3DCrowdNet_RELEASE
 
-## Meta AI Research Proposes ‘OMNIVORE’: A Single Vision (Computer Vision) Model For Many Different Visual Modalities
+## Meta AI Research Proposes ‘OMNIVORE’: 
+A Single Vision (Computer Vision) Model For Many Different Visual Modalities
 Quick Read: https://www.marktechpost.com/2022/01/30/meta-ai-research-proposes-omnivore-a-single-vision-computer-vision-model-for-many-different-visual-modalities/
 Paper: https://arxiv.org/abs/2201.08377
 Github: https://github.com/facebookresearch/omnivore
