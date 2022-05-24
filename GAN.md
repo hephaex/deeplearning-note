@@ -36,7 +36,11 @@ Project: https://jitengmu.github.io/CoordGAN/
 * [Code / Resources / Models](#package-resources--models-descending-order-based-on-github-stars)
 * [Frameworks & Libraries](#electric_plug-frameworks--libraries-descending-order-based-on-github-stars)
 ---
-
+### In The Latest AI Research, CMU And Adobe Researchers Propose An Elegant Emsembling Mechanism For GAN Training That Improves FID by 1.5x to 2x On The Given Dataset
+Quick Read: https://www.marktechpost.com/.../in-the-latest-ai.../
+Paper: https://arxiv.org/pdf/2112.09130.pdf
+Github: https://github.com/nupurkmr9/vision-aided-gan
+Project: https://www.cs.cmu.edu/~vision-aided-gan/
 
 ### :pushpin: Opening Publication 	
 Generative Adversarial Nets (GANs) (2014) [[pdf]](https://arxiv.org/pdf/1406.2661v1.pdf)  [[presentation]](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf) [[code]](https://github.com/goodfeli/adversarial) [[video]](https://www.youtube.com/watch?v=HN9NRhm9waY)
