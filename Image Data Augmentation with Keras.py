@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Image data and augmentation using Keras
+## Image data and augmentation using Keras
 
-# ### Importing Libraries
+#### Importing Libraries
 
 import os
 import numpy as np
@@ -14,21 +14,15 @@ from matplotlib import pyplot as plt
 
 print('Using Tensorflow',tf.__version__)
 
-
 # #### Instantiating
 
 generator = tf.keras.preprocessing.image.ImageDataGenerator(rotation_range=40)
 
 
-# In[3]:
-
 
 image_path = 'S:/Project Final Year/Testing images/Images/4.jpg'
 path = 'S:/Project Final Year/Testing images'
 plt.imshow(plt.imread(image_path))
-
-
-# In[4]:
 
 
 x,y = next(generator.flow_from_directory('images'))
