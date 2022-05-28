@@ -14,8 +14,11 @@ MLOps는 데이터 세트를 선별하고 이를 분석하는 AI 모델을 구�
 
 
 따라서 MLOps는 기업의 성장에 따라 확장할 수 있는 강력한 AI 인프라가 필요합니다. 이를 위해 많은 회사에서 NVIDIA DGX 시스템, CUDA-X 및 NVIDIA 소프트웨어 허브인 NGC에서 사용할 수 있는 기타 소프트웨어 구성 요소를 사용합니다.
+
 NVIDIA의 Koumchatzky 팀은 자율주행 차량을 만들고 테스트하기 위한 플랫폼인 NVIDIA DRIVE 를 호스팅하는 MLOps 소프트웨어인 MagLev를 개발했습니다. MLOps 기반의 일부로 NVIDIA에서 개발한 구성 요소 집합인 NVIDIA Container Runtime 및 Apollo를 사용하여 거대한 클러스터에서 실행되는 Kubernetes 컨테이너를 관리하고 모니터링합니다.
+
 NVIDIA는 파트너의 소프트웨어 외에도 DGX 시스템을 기반으로 하는 AI 인프라 관리를 위한 주로 오픈 소스 도구 모음을 제공하며 이것이 MLOps의 기반입니다. 이러한 소프트웨어 도구에는 다음이 포함됩니다.
+
 개별 시스템 프로비저닝을 위한 Foreman 및 MAAS(Metal as a Service)클러스터 구성 관리를 위한 Ansible 및 Git 모니터링 및 보고를 위한 DCGM (Data Center GPU Manager) 및 NVSM(NVIDIA 시스템 관리) NVIDIA Container Runtime 은 GPU 인식 컨테이너를 시작하고 NVIDIA GPU Operator 는 Kubernetes에서 GPU 관리를 단순화합니다.
 Triton Inference Server 및 TensorRT를 사용하여 프로덕션 환경에 AI 모델 배포 그리고 DeepOps 배포하는 방법에 대한 스크립트와 지침은 위의 모든 요소를 조율합니다.
 
