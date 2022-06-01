@@ -1,5 +1,6 @@
 from __future__ import print_function
 # cifar100 implementation using KERAS
+
 import numpy as np
 np.random.seed(1337)  # for reproducibility
 
