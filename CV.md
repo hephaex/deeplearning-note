@@ -4,6 +4,10 @@
 - Code: https://github.com/SysCV/pcan
 - Paper: https://arxiv.org/abs/2106.11958
 
+
+## Dynamic Gender Classification
+code : https://github.com/CChenLi/Dynamic_Gender_Classification
+
 ## Warehouse Apparel Detection using YOLOv5 end to end project
 Kindly Like and Share and subscribe to the YT channel !!
 Project Code: https://github.com/Ashishkumar-hub/Warehouse-Apparel-Detection-using...
