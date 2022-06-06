@@ -2,7 +2,6 @@
 a list of BERT-related papers. 
 Any feedback is welcome.
 
-
 ## Table of Contents
 - [Downstream task](#downstream-task)
 - [Generation](#generation)
@@ -797,8 +796,6 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 ![](https://img.shields.io/github/stars/dmmiller612/lecture-summarizer.svg)
 
 
-
-
 ## BERT Text Generation Task: 
 1. [asyml/texar](https://github.com/asyml/texar), Toolkit for Text Generation and Beyond https://texar.io, Texar is a general-purpose text generation toolkit, has also implemented BERT here for classification, and text generation applications by combining with Texar's other modules.
 ![](https://img.shields.io/github/stars/asyml/texar.svg)
@@ -808,7 +805,6 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 3. [Tiiiger/bert_score](https://github.com/Tiiiger/bert_score), BERT score for language generation,
 ![](https://img.shields.io/github/stars/Tiiiger/bert_score.svg)
-
 
 
 ## BERT  Knowledge Graph Task : 
