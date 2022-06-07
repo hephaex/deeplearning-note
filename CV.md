@@ -4,7 +4,6 @@
 - Code: https://github.com/SysCV/pcan
 - Paper: https://arxiv.org/abs/2106.11958
 
-
 ## Dynamic Gender Classification
 code : https://github.com/CChenLi/Dynamic_Gender_Classification
 
