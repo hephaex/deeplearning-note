@@ -7,6 +7,12 @@
 ## Dynamic Gender Classification
 code : https://github.com/CChenLi/Dynamic_Gender_Classification
 
+## NVIDIA의 Efficient Geometry-aware 3D Generative Adversarial Networks(EG3D)
+code: https://github.com/NVlabs/eg3d
+paper: https://arxiv.org/abs/2112.07945
+page: https://nvlabs.github.io/eg3d/
+youtube: https://youtu.be/cXxEwI7QbKg
+
 ## Salesforce AI Research has proposed a new video-and-language representation learning framework called ALPRO. 
 This framework can be used for pre-training models to achieve state-of-the-art performance on tasks such as video-text retrieval and question answering.
 Quick Read: https://www.marktechpost.com/.../salesforce-ai-research.../
