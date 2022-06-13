@@ -4,6 +4,8 @@
 - Code: https://github.com/SysCV/pcan
 - Paper: https://arxiv.org/abs/2106.11958
 
+## DN-DETR: Accelerate DETR Training by Introducing Query DeNoising
+
 ## Dynamic Gender Classification
 code : https://github.com/CChenLi/Dynamic_Gender_Classification
 
