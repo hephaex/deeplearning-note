@@ -4,6 +4,11 @@
 - Code: https://github.com/SysCV/pcan
 - Paper: https://arxiv.org/abs/2106.11958
 
+## MPViT
+
+Arxiv👉 https://arxiv.org/abs/2112.11010
+Code👉 https://github.com/youngwanLEE/MPViT
+
 ## DN-DETR: Accelerate DETR Training by Introducing Query DeNoising
 
 ## DAB-DETR : Dynamic Anchor Boxes are Better Queries for DETR 
