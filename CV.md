@@ -5,7 +5,6 @@
 - Paper: https://arxiv.org/abs/2106.11958
 
 ## MPViT
-
 Arxiv👉 https://arxiv.org/abs/2112.11010
 Code👉 https://github.com/youngwanLEE/MPViT
 
