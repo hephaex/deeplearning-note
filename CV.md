@@ -67,7 +67,7 @@ A Single Vision (Computer Vision) Model For Many Different Visual Modalities
 Quick Read: https://www.marktechpost.com/2022/01/30/meta-ai-research-proposes-omnivore-a-single-vision-computer-vision-model-for-many-different-visual-modalities/
 Paper: https://arxiv.org/abs/2201.08377
 Github: https://github.com/facebookresearch/omnivore
-
+]
 ## 젯슨나노를 이용해서 녹색 이구아나의 외래 종의 실시간 탐지 및 모니터링
 공헌자(저자): NVIDIA(타이완)
 GitHub: https://github.com/.../Iguana-detection-on-Nvidia-Jetson...
