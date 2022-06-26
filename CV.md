@@ -10,6 +10,7 @@ Quick Read: https://www.marktechpost.com/.../stanford-and-tri-ai.../
 Paper: https://arxiv.org/pdf/2206.01720.pdf
 Project: https://stanfordvl.github.io/atp-revisit-video-lang/
 
+
 ## MPViT
 Arxiv👉 https://arxiv.org/abs/2112.11010
 Code👉 https://github.com/youngwanLEE/MPViT
