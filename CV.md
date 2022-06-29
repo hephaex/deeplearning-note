@@ -10,6 +10,11 @@ Quick Read: https://www.marktechpost.com/.../stanford-and-tri-ai.../
 Paper: https://arxiv.org/pdf/2206.01720.pdf
 Project: https://stanfordvl.github.io/atp-revisit-video-lang/
 
+## A New Technique to Train Diffusion Model in Latent Space Using Limited Computational Resources While Maintaining High-Resolution Quality
+Paper Summary: [https://www.marktechpost.com/.../a-new-technique-to.../
+](https://www.marktechpost.com/2022/06/28/a-new-technique-to-train-diffusion-model-in-latent-space-using-limited-computational-resources-while-maintaining-high-resolution-quality/?fbclid=IwAR1n777ssnw4C5oQ-TR8OcWug4jwXZ3uK-3LnCuFME2IgTi6VkqhoALBD_Y)
+Paper: https://arxiv.org/pdf/2112.10752.pdf
+Github: https://github.com/CompVis/latent-diffusion
 
 ## MPViT
 Arxiv👉 https://arxiv.org/abs/2112.11010
