@@ -1,5 +1,12 @@
 ## RL (reinforce learning)
  * dream cv2 https://github.com/danijar/dreamerv2
+
+
+## Connectomic comparison of mouse and human cortex
+
+The analysis of the human brain is a central goal of neuroscience. However, for methodological reasons, research has largely focused on model organisms, in particular the mouse. Now, neuroscientists gained novel insights on human neural circuitry using tissue obtained from neurosurgical interventions. Three-dimensional electron microscope data revealed a novel expanded network of interneurons in humans compared to mouse. The discovery of this prominent network component in the human cortex encourages further detailed analysis of its function in health and disease.
+
+http://sciencemission.com/site/index.php?page=news&type=view&id=technology%2Fconnectomic-comparison&filter=8%2C9%2C10%2C11%2C12%2C13%2C14%2C16%2C17%2C18%2C19%2C20%2C27
 ## I-cloth
 
 
