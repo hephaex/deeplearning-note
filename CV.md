@@ -5,6 +5,7 @@
 - Code: https://github.com/SysCV/pcan
 - Paper: https://arxiv.org/abs/2106.11958
 
+
 ## Stanford and TRI AI Researchers Propose the Atemporal Probe (ATP), A New ML Model For Video-Language Analysis
 Quick Read: https://www.marktechpost.com/.../stanford-and-tri-ai.../
 Paper: https://arxiv.org/pdf/2206.01720.pdf
