@@ -5,6 +5,11 @@
 - Code: https://github.com/SysCV/pcan
 - Paper: https://arxiv.org/abs/2106.11958
 
+## AI Researchers From China Introduce a New Vision GNN (ViG) Architecture to Extract Graph Level Feature for Visual Tasks
+Paper Summary: https://www.marktechpost.com/.../ai-researchers-from.../
+Paper: https://arxiv.org/pdf/2206.00272v1.pdf
+Github: https://github.com/huawei-noah/Efficient-AI-Backbones
+
 ## Researchers at Stanford have developed an Artificial Intelligence (AI) model,
 EG3D, that can generate random images of faces and other objects with high resolution together with underlying geometric structures
 [Quick Read: https://www.marktechpost.com/2022/07/04/researchers-at-stanford-have-developed-an-artificial-intelligence-ai-model-eg3d-that-can-generate-random-images-of-faces-and-other-objects-with-high-resolution-together-with-underlying-geometric-s/?fbclid=IwAR3s59QXgJsrYG0uIiDTIIQl784LAUe48NrfJ6Vk6kTVVOjjHAzod7DRAEc
