@@ -14,7 +14,10 @@ Youtube : https://youtu.be/WOwLquiFbPE## Interested in multiple object tracking 
 - Code: https://github.com/SysCV/pcan
 - Paper: https://arxiv.org/abs/2106.11958
 
-##
+## AI2’s PRIOR Team Introduces Unified-IO:
+The First Neural Model To Execute Various AI Tasks Spanning Classical Computer Vision, Image Synthesis, Vision-and-Language, and Natural Language Processing NLP
+Quick Read: https://www.marktechpost.com/.../ai2s-prior-team.../
+Demo: https://unified-io.allenai.org/
 
 ## AI Researchers From China Introduce a New Vision GNN (ViG) Architecture to Extract Graph Level Feature for Visual Tasks
 Paper Summary: https://www.marktechpost.com/.../ai-researchers-from.../
