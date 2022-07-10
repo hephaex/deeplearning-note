@@ -14,6 +14,14 @@ Youtube : https://youtu.be/WOwLquiFbPE## Interested in multiple object tracking 
 - Code: https://github.com/SysCV/pcan
 - Paper: https://arxiv.org/abs/2106.11958
 
+## yolo v7
+YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
+
+공헌자(저자): Chien-Yao Wang, Alexey Bochkovskiy, Hong-Yuan Mark Liao
+논문: https://arxiv.org/abs/2207.02696
+GitHub: https://github.com/wongkinyiu/yolov7
+초록: YOLOv7은 5FPS~160FPS 범위에서 속도와 정확도 모두에서 알려진 모든 객체 감지기를 능가하며 GPU V100에서 30FPS 이상의 알려진 모든 실시간 객체 감지기 중 가장 높은 정확도 56.8% AP를 가지고 있습니다. YOLOv7-E6 물체 감지기(56 FPS V100, 55.9% AP)는 변압기 기반 감지기인 SWIN-L Cascade-Mask R-CNN(9.2 FPS A100, 53.9% AP)보다 속도 509%, 정확도 2%, 컨볼루션 기반 검출기 ConvNeXt-XL Cascade-Mask R-CNN(8.6 FPS A100, 55.2% AP)은 속도 551%, AP 정확도 0.7% 향상 및 YOLOv7 성능 향상: YOLOR, YOLOX, Scaled-YOLOv4, YOLOv5, DETR, Deformable DETR, DINO-5scale-R50, ViT-Adapter-B 및 기타 여러 물체 감지기의 속도와 정확도. 또한 다른 데이터 세트나 사전 훈련된 가중치를 사용하지 않고 처음부터 MS COCO 데이터 세트에서만 YOLOv7을 훈련합니다.
+
 ## AI2’s PRIOR Team Introduces Unified-IO:
 The First Neural Model To Execute Various AI Tasks Spanning Classical Computer Vision, Image Synthesis, Vision-and-Language, and Natural Language Processing NLP
 Quick Read: https://www.marktechpost.com/.../ai2s-prior-team.../
