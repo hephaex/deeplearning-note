@@ -2,7 +2,6 @@
 Pybullet을 만드신 분으로도 유명한 Erwin Coumans님의 ICRA 22 Tutorial: Tools for Robotic Reinforcement Learning 발표 동영상입니다.
 강화학습을 로봇에 적용할 때 가장 많이 고민하는 시뮬레이터에 관한 좋은 발표입니다. 
 
-
 Website : https://araffin.github.io/tools-for-robotic-rl-icra2022/
 Slides : https://drive.google.com/.../19ImRxp8SfbTLtMDdFwYY.../view
 Youtube : https://youtu.be/WOwLquiFbPE## Interested in multiple object tracking and segmentation and self-driving?
