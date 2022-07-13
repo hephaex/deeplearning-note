@@ -1,7 +1,6 @@
 ## Accelerating physics simulators for Robotics Reinforcement Learning - Erwin Coumans @ ICRA22 | 2/8
 Pybullet을 만드신 분으로도 유명한 Erwin Coumans님의 ICRA 22 Tutorial: Tools for Robotic Reinforcement Learning 발표 동영상입니다.
 강화학습을 로봇에 적용할 때 가장 많이 고민하는 시뮬레이터에 관한 좋은 발표입니다. 
-
 Website : https://araffin.github.io/tools-for-robotic-rl-icra2022/
 Slides : https://drive.google.com/.../19ImRxp8SfbTLtMDdFwYY.../view
 Youtube : https://youtu.be/WOwLquiFbPE## Interested in multiple object tracking and segmentation and self-driving?
@@ -13,7 +12,6 @@ Youtube : https://youtu.be/WOwLquiFbPE## Interested in multiple object tracking 
 
 ## yolo v7
 YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
-
 공헌자(저자): Chien-Yao Wang, Alexey Bochkovskiy, Hong-Yuan Mark Liao
 논문: https://arxiv.org/abs/2207.02696
 GitHub: https://github.com/wongkinyiu/yolov7
