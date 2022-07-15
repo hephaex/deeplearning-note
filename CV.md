@@ -5,7 +5,12 @@ Website : https://araffin.github.io/tools-for-robotic-rl-icra2022/
 Slides : https://drive.google.com/.../19ImRxp8SfbTLtMDdFwYY.../view
 Youtube : https://youtu.be/WOwLquiFbPE## Interested in multiple object tracking and segmentation and self-driving?
 - Code released for our recent 
-- 
+
+## Researchers from China Propose DAT: a Deformable Vision Transformer to Compute Self-Attention in a Data-Aware Fashion
+Paper Summary: https://www.marktechpost.com/.../researchers-from-china.../
+Paper: https://openaccess.thecvf.com/.../Xia_Vision_Transformer...
+Github: https://github.com/LeapLabTHU/DAT
+
 ## NeurIPS2021 spotlight work PCAN-“Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation”.
 - PCAN uses test-time prototypes to memorize instance appearance and achieve impressive seg tracking accuracy on YT-VIS and BDD100K.
 - Project website: https://vis.xyz/pub/pcan/
