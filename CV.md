@@ -4,7 +4,6 @@ Pybullet을 만드신 분으로도 유명한 Erwin Coumans님의 ICRA 22 Tutoria
 Website : https://araffin.github.io/tools-for-robotic-rl-icra2022/
 Slides : https://drive.google.com/.../19ImRxp8SfbTLtMDdFwYY.../view
 Youtube : https://youtu.be/WOwLquiFbPE## Interested in multiple object tracking and segmentation and self-driving?
-- Code released for our recent 
 
 ## Researchers from China Propose DAT: a Deformable Vision Transformer to Compute Self-Attention in a Data-Aware Fashion
 Paper Summary: https://www.marktechpost.com/.../researchers-from-china.../
