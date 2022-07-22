@@ -10,6 +10,13 @@ Paper Summary: https://www.marktechpost.com/.../researchers-from-china.../
 Paper: https://openaccess.thecvf.com/.../Xia_Vision_Transformer...
 Github: https://github.com/LeapLabTHU/DAT
 
+## Alibaba AI Research Team Introduces ‘DCT-Net’
+A Novel Image Translation Architecture For Few-Shot Portrait Stylization
+Paper Summary: https://www.marktechpost.com/.../alibaba-ai-research.../
+Paper: https://arxiv.org/pdf/2207.02426v1.pdf
+Project: https://menyifang.github.io/projects/DCTNet/DCTNet.html
+Github link: https://github.com/menyifang/dct-net
+
 ## NeurIPS2021 spotlight work PCAN-“Prototypical Cross-Attention Networks for Multiple Object Tracking and Segmentation”.
 - PCAN uses test-time prototypes to memorize instance appearance and achieve impressive seg tracking accuracy on YT-VIS and BDD100K.
 - Project website: https://vis.xyz/pub/pcan/
