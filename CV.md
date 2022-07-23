@@ -30,6 +30,16 @@ YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object
 GitHub: https://github.com/wongkinyiu/yolov7
 초록: YOLOv7은 5FPS~160FPS 범위에서 속도와 정확도 모두에서 알려진 모든 객체 감지기를 능가하며 GPU V100에서 30FPS 이상의 알려진 모든 실시간 객체 감지기 중 가장 높은 정확도 56.8% AP를 가지고 있습니다. YOLOv7-E6 물체 감지기(56 FPS V100, 55.9% AP)는 변압기 기반 감지기인 SWIN-L Cascade-Mask R-CNN(9.2 FPS A100, 53.9% AP)보다 속도 509%, 정확도 2%, 컨볼루션 기반 검출기 ConvNeXt-XL Cascade-Mask R-CNN(8.6 FPS A100, 55.2% AP)은 속도 551%, AP 정확도 0.7% 향상 및 YOLOv7 성능 향상: YOLOR, YOLOX, Scaled-YOLOv4, YOLOv5, DETR, Deformable DETR, DINO-5scale-R50, ViT-Adapter-B 및 기타 여러 물체 감지기의 속도와 정확도. 또한 다른 데이터 세트나 사전 훈련된 가중치를 사용하지 않고 처음부터 MS COCO 데이터 세트에서만 YOLOv7을 훈련합니다.
 
+## akka-stream
+다이나믹 배치를 구현하고 있고 충분히 작은 모델이라면 10000 ~ 20000  requests / sec 수준의 응답 성능을 낼 수 있습니다.
+
+구현에 사용된 akka는 프레임워크가 아닌 고도의 동시성, 병렬성, 분산성을 가지고 있는 메세지 기반 어플레케이션 구축 툴킷으로 간주할 수 있습니다.
+충분히 생산성이 있는 언어를 베이스로 하고 있기 때문에 직접 서빙 데몬에서 monolithic 한 구조로 비지니스 코드를 내재화 하는것도 가능합니다. 
+예제의 코드량이 적고 추상화가 거의 없는 naive한 구현이기 때문에 동작에 관련한 거의 대부분의 요소를 블랙박스 없이 확인하고 동시에 환경 튜닝이 가능합니다.
+실제 예제의 사용성은 웹과 상호 작용을 하는 어플리케이션 보다는 검색, 추천, 대화 시스템등 다수의 모델을 컨트롤하는 기반 플랫폼 시스템에 적합합니다.
+https://github.com/go-noah/akka-dynamic-batch-serving/tree/main/akka-dynamic-batch-onnx-gpu-bert
+https://github.com/go-noah/akka-dynamic-batch-serving/tree/main/akka-dynamic-batch-tensorflow-gpu-bert
+
 ## AI2’s PRIOR Team Introduces Unified-IO:
 The First Neural Model To Execute Various AI Tasks Spanning Classical Computer Vision, Image Synthesis, Vision-and-Language, and Natural Language Processing NLP
 Quick Read: https://www.marktechpost.com/.../ai2s-prior-team.../
@@ -125,7 +135,7 @@ A Single Vision (Computer Vision) Model For Many Different Visual Modalities
 Quick Read: https://www.marktechpost.com/2022/01/30/meta-ai-research-proposes-omnivore-a-single-vision-computer-vision-model-for-many-different-visual-modalities/
 Paper: https://arxiv.org/abs/2201.08377
 Github: https://github.com/facebookresearch/omnivore
-]
+
 ## 젯슨나노를 이용해서 녹색 이구아나의 외래 종의 실시간 탐지 및 모니터링
 공헌자(저자): NVIDIA(타이완)
 GitHub: https://github.com/.../Iguana-detection-on-Nvidia-Jetson...
