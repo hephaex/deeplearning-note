@@ -77,7 +77,6 @@ Arxiv👉 https://arxiv.org/abs/2112.11010
 Code👉 https://github.com/youngwanLEE/MPViT
 
 ## DN-DETR: Accelerate DETR Training by Introducing Query DeNoising
-
 ## DAB-DETR : Dynamic Anchor Boxes are Better Queries for DETR 
 
 ## Dynamic Gender Classification
