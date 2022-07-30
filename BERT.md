@@ -15,6 +15,7 @@ Any feedback is welcome.
 - [Model compression](#model-compression)
 - [Misc.](#misc)
 
+
 ## Downstream task
 ### QA, MC, Dialogue
 - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634)
@@ -936,3 +937,7 @@ https://github.com/jeongukjae/KR-BERT-SimCSE
 - 깃허브에 sentence-transformers 다국어 모델과의 벤치마크 성능 비교를 기재해두었습니다) ko-sentence-transformers 라이브러리를 설치하시면 허깅페이스 허브에서 바로 다운받아 사용 가능합니다. 
 - 허깅페이스 모델: https://huggingface.co/jhgan/ko-sbert-multitask
 - 깃허브 저장소: https://github.com/jhgan00/ko-sentence-transformers
+- 
+## 논문 요약: https://www.marktechpost.com/.../researchers-from-china.../
+종이: https://arxiv.org/pdf/2207.07116v1.pdf
+Github: https://github.com/lightdxy/bootmae
