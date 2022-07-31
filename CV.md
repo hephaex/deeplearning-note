@@ -16,6 +16,10 @@ Paper: https://arxiv.org/pdf/2204.02389.pdf
 Github: https://github.com/rhgao/ObjectFolder
 Project: https://ai.stanford.edu/~rhgao/objectfolder2.0/
 
+## image classification
+https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch
+
+
 ## Alibaba AI Research Team Introduces ‘DCT-Net’
 A Novel Image Translation Architecture For Few-Shot Portrait Stylization
 Paper Summary: https://www.marktechpost.com/.../alibaba-ai-research.../
