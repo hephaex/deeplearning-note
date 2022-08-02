@@ -5,6 +5,18 @@ Website : https://araffin.github.io/tools-for-robotic-rl-icra2022/
 Slides : https://drive.google.com/.../19ImRxp8SfbTLtMDdFwYY.../view
 Youtube : https://youtu.be/WOwLquiFbPE## Interested in multiple object tracking and segmentation and self-driving?
 
+## DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation (CVPR 2022) 
+by Gwanghyun Kim, Taesung Kwon, Jong Chul Ye 
+
+한국어 개요: 텍스트 기반 이미지 편집 및 조작 태스크에서는 결과 이미지가 텍스트에 맞게 잘 변환됨과 동시에 기존 이미지의 물체의 identity를 잘 보존하여 원하지 않는 변화를 만들어내지 않아야 합니다. 본 연구에서는 High quality image synthesis와 near-perfect inversion이 가능한 Diffusion model을 이용하여 zero-shot 세팅으로 텍스트 기반 이미지 조작 방법을 제안합니다. 이를 통해 기존의 SOTA GAN inversion 기반의 방법보다 더 높은 품질의 이미지 조작 결과를 보여줄 뿐 아니라, 기존에 불가능 했던 high variable한 ImageNet 데이터셋의 이미지를 조작하는데 성공함으로써, 딥러닝 기반의 이미지조작의 광범위한 적용을 가능하게 했습니다.
+
+Abstract: Recently, GAN inversion methods combined with Contrastive Language-Image Pretraining (CLIP) enables zero-shot image manipulation guided by text prompts. However, their applications to diverse real images are still difficult due to the limited GAN inversion capability. Specifically, these approaches often have difficulties in reconstructing images with novel poses, views, and highly variable contents compared to the training data, altering object identity, or producing unwanted image artifacts. To mitigate these problems and enable faithful manipulation of real images, we propose a novel method, dubbed DiffusionCLIP, that performs text-driven image manipulation using diffusion models. Based on full inversion capability and high-quality image generation power of recent diffusion models, our method performs zero-shot image manipulation successfully even between unseen domains and takes another step towards general application by manipulating images from a widely varying ImageNet dataset. Furthermore, we propose a novel noise combination method that allows straightforward multi-attribute manipulation. Extensive experiments and human evaluation confirmed robust and superior manipulation performance of our methods compared to the existing baselines. 
+
+Source: https://openaccess.thecvf.com/.../Kim_DiffusionCLIP_Text...
+Slides: https://www.slideshare.net/.../diffusionclip-textguided...
+Video: https://youtu.be/YVCtaXw6fw8
+Code: https://github.com/gwang-kim/DiffusionCLIP.git
+
 ## Researchers from China Propose DAT: a Deformable Vision Transformer to Compute Self-Attention in a Data-Aware Fashion
 Paper Summary: https://www.marktechpost.com/.../researchers-from-china.../
 Paper: https://openaccess.thecvf.com/.../Xia_Vision_Transformer...
