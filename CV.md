@@ -5,6 +5,11 @@ Website : https://araffin.github.io/tools-for-robotic-rl-icra2022/
 Slides : https://drive.google.com/.../19ImRxp8SfbTLtMDdFwYY.../view
 Youtube : https://youtu.be/WOwLquiFbPE## Interested in multiple object tracking and segmentation and self-driving?
 
+## Researchers Propose Easter2.0, a Novel Convolutional Neural Network CNN-Based Architecture for the Task of End-to-End Handwritten Text Line Recognition that Utilizes Only 1D Convolutions
+Paper Summary: https://www.marktechpost.com/.../researchers-propose.../
+Paper: https://arxiv.org/pdf/2205.14879v1.pdf
+Github link: https://github.com/kartikgill/easter2
+
 ## DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation (CVPR 2022) 
 by Gwanghyun Kim, Taesung Kwon, Jong Chul Ye 
 한국어 개요: 텍스트 기반 이미지 편집 및 조작 태스크에서는 결과 이미지가 텍스트에 맞게 잘 변환됨과 동시에 기존 이미지의 물체의 identity를 잘 보존하여 원하지 않는 변화를 만들어내지 않아야 합니다. 본 연구에서는 High quality image synthesis와 near-perfect inversion이 가능한 Diffusion model을 이용하여 zero-shot 세팅으로 텍스트 기반 이미지 조작 방법을 제안합니다. 이를 통해 기존의 SOTA GAN inversion 기반의 방법보다 더 높은 품질의 이미지 조작 결과를 보여줄 뿐 아니라, 기존에 불가능 했던 high variable한 ImageNet 데이터셋의 이미지를 조작하는데 성공함으로써, 딥러닝 기반의 이미지조작의 광범위한 적용을 가능하게 했습니다.
