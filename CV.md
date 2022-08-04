@@ -32,7 +32,7 @@ Paper: https://arxiv.org/pdf/2204.02389.pdf
 Github: https://github.com/rhgao/ObjectFolder
 Project: https://ai.stanford.edu/~rhgao/objectfolder2.0/
 
-## image classification
+## image classification on small-datasets in Pytorch
 https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch
 
 
