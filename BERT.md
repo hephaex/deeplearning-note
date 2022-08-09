@@ -15,7 +15,6 @@ Any feedback is welcome.
 - [Model compression](#model-compression)
 - [Misc.](#misc)
 
-
 ## Downstream task
 ### QA, MC, Dialogue
 - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634)
