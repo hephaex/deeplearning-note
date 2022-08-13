@@ -22,6 +22,12 @@ Slides: https://www.slideshare.net/.../diffusionclip-textguided...
 Video: https://youtu.be/YVCtaXw6fw8
 Code: https://github.com/gwang-kim/DiffusionCLIP.git
 
+## NVIDIA AI Researchers Propose ‘MinVIS,’ 
+A Minimal Video Instance Segmentation (VIS) Framework That Achieves SOTA Performance With Neither Video-Based Architectures Nor Training Procedures
+Paper Summary: https://www.marktechpost.com/.../nvidia-ai-researchers.../
+Paper: https://arxiv.org/pdf/2208.02245v1.pdf
+Github link: https://github.com/nvlabs/minvis
+
 ## Researchers from China Propose DAT: a Deformable Vision Transformer to Compute Self-Attention in a Data-Aware Fashion
 Paper Summary: https://www.marktechpost.com/.../researchers-from-china.../
 Paper: https://openaccess.thecvf.com/.../Xia_Vision_Transformer...
