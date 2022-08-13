@@ -10,7 +10,6 @@ Paper Summary: https://www.marktechpost.com/.../researchers-propose.../
 Paper: https://arxiv.org/pdf/2205.14879v1.pdf
 Github link: https://github.com/kartikgill/easter2
 
-
 ## Researchers at Meta AI Develop Multiface: A Dataset for Neural Face Rendering
 Quick Read: https://www.marktechpost.com/.../researchers-at-meta-ai.../
 Paper: https://arxiv.org/pdf/2207.11243v1.pdf
