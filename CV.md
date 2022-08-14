@@ -15,6 +15,14 @@ Quick Read: https://www.marktechpost.com/.../researchers-at-meta-ai.../
 Paper: https://arxiv.org/pdf/2207.11243v1.pdf
 Github link: https://github.com/facebookresearch/multiface
 
+## Research From China Propose a Novel Context-Aware Vision Transformer (CA-ViT) For Ghost-Free High Dynamic Range Imaging
+They propose a novel vision transformer termed CA-ViT that can fully utilize both global and local picture context dependencies while outperforming its predecessors by a wide margin.
+They introduce a unique HDR-Transformer that can reduce processing costs, ghosting artifacts, and recreating high-quality HDR photos. This is the first Transformer-based HDR de-ghosting framework to be developed. 
+They undertake in-depth tests on three sample benchmark HDR datasets to compare HDR-performance Transformers to current state-of-the-art techniques.
+Quick Read: https://www.marktechpost.com/.../research-from-china.../
+Paper: https://arxiv.org/pdf/2208.05114v1.pdf
+Github link: https://github.com/megvii-research/HDR-Transformer
+
 ## DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation (CVPR 2022) 
 Abstract: Recently, GAN inversion methods combined with Contrastive Language-Image Pretraining (CLIP) enables zero-shot image manipulation guided by text prompts. However, their applications to diverse real images are still difficult due to the limited GAN inversion capability. Specifically, these approaches often have difficulties in reconstructing images with novel poses, views, and highly variable contents compared to the training data, altering object identity, or producing unwanted image artifacts. To mitigate these problems and enable faithful manipulation of real images, we propose a novel method, dubbed DiffusionCLIP, that performs text-driven image manipulation using diffusion models. Based on full inversion capability and high-quality image generation power of recent diffusion models, our method performs zero-shot image manipulation successfully even between unseen domains and takes another step towards general application by manipulating images from a widely varying ImageNet dataset. Furthermore, we propose a novel noise combination method that allows straightforward multi-attribute manipulation. Extensive experiments and human evaluation confirmed robust and superior manipulation performance of our methods compared to the existing baselines. 
 Source: https://openaccess.thecvf.com/.../Kim_DiffusionCLIP_Text...
