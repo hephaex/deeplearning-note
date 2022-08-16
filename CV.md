@@ -5,6 +5,11 @@ Website : https://araffin.github.io/tools-for-robotic-rl-icra2022/
 Slides : https://drive.google.com/.../19ImRxp8SfbTLtMDdFwYY.../view
 Youtube : https://youtu.be/WOwLquiFbPE## Interested in multiple object tracking and segmentation and self-driving?
 
+## Researchers Present A Survey Report on Using 100+ Transformer-based Methods in Computer Vision for Different 3D Vision Tasks
+Quick Read: https://www.marktechpost.com/.../researchers-present-a.../
+Paper:  https://arxiv.org/pdf/2208.04309v1.pdf
+Github link: https://github.com/lahoud/3d-vision-transformers
+
 
 ## Researchers Propose Easter2.0, a Novel Convolutional Neural Network CNN-Based Architecture for the Task of End-to-End Handwritten Text Line Recognition that Utilizes Only 1D Convolutions
 Paper Summary: https://www.marktechpost.com/.../researchers-propose.../
