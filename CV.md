@@ -78,6 +78,21 @@ GitHub: https://github.com/wongkinyiu/yolov7
 
 초록: YOLOv7은 5FPS~160FPS 범위에서 속도와 정확도 모두에서 알려진 모든 객체 감지기를 능가하며 GPU V100에서 30FPS 이상의 알려진 모든 실시간 객체 감지기 중 가장 높은 정확도 56.8% AP를 가지고 있습니다. YOLOv7-E6 물체 감지기(56 FPS V100, 55.9% AP)는 변압기 기반 감지기인 SWIN-L Cascade-Mask R-CNN(9.2 FPS A100, 53.9% AP)보다 속도 509%, 정확도 2%, 컨볼루션 기반 검출기 ConvNeXt-XL Cascade-Mask R-CNN(8.6 FPS A100, 55.2% AP)은 속도 551%, AP 정확도 0.7% 향상 및 YOLOv7 성능 향상: YOLOR, YOLOX, Scaled-YOLOv4, YOLOv5, DETR, Deformable DETR, DINO-5scale-R50, ViT-Adapter-B 및 기타 여러 물체 감지기의 속도와 정확도. 또한 다른 데이터 세트나 사전 훈련된 가중치를 사용하지 않고 처음부터 MS COCO 데이터 세트에서만 YOLOv7을 훈련합니다.
 
+
+## Diffusion Model
+Diffusion 입문
+https://lilianweng.github.io/.../2021-07-11-diffusion.../
+https://youtu.be/d_x92vpIWFM
+================================
+Diffusion Models Beat GANs on Image Synthesis
+확산 모델에 classifier를 추가해 다양성-품질 trade-off를 달성
+Classifier-Free Diffusion Guidance
+Classifier 없이 단일 확산 모델로 같은 목표 달성
+Cascaded Diffusion Models for High Fidelity Image Generation
+여러 해상도의 확산 모델이 포함된 계층적 cascading pipeline으로 이전보다 더 높은 해상도에서 고품질 샘플 생성
+Pretraining is All You Need for Image-to-Image Translation (PITI)
+사전 훈련된 확산 모델을 이용해 다양한 다운스트림 작업 입력 조건(e.g. semantic map + text)에서 Image-to-Image translation 수행
+
 ## akka-stream
 다이나믹 배치를 구현하고 있고 충분히 작은 모델이라면 10000 ~ 20000  requests / sec 수준의 응답 성능을 낼 수 있습니다.
 구현에 사용된 akka는 프레임워크가 아닌 고도의 동시성, 병렬성, 분산성을 가지고 있는 메세지 기반 어플레케이션 구축 툴킷으로 간주할 수 있습니다.
