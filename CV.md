@@ -5,6 +5,11 @@ Website : https://araffin.github.io/tools-for-robotic-rl-icra2022/
 Slides : https://drive.google.com/.../19ImRxp8SfbTLtMDdFwYY.../view
 Youtube : https://youtu.be/WOwLquiFbPE## Interested in multiple object tracking and segmentation and self-driving?
 
+## Salesforce AI Propose A Novel Framework That Trains An Open Vocabulary Object Detector With Pseudo Bounding-Box Labels Generated From Large-Scale Image-Caption Pairs
+Quick Read: https://www.marktechpost.com/.../salesforce-ai-propose-a.../
+Paper: https://arxiv.org/pdf/2111.09452.pdf
+GItHub link: https://arxiv.org/pdf/2111.09452.pdf
+
 ## Researchers Present A Survey Report on Using 100+ Transformer-based Methods in Computer Vision for Different 3D Vision Tasks
 Quick Read: https://www.marktechpost.com/.../researchers-present-a.../
 Paper:  https://arxiv.org/pdf/2208.04309v1.pdf
