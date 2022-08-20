@@ -2,6 +2,13 @@
  * dream cv2 https://github.com/danijar/dreamerv2
 
 
+## Accelerating physics simulators for Robotics Reinforcement Learning - Erwin Coumans @ ICRA22 | 2/8
+PyBullet을 만드신 분으로도 유명한 Erwin Coumans님의 ICRA 22 Tutorial
+강화학습을 로봇에 적용할 때 가장 많이 고민하는 시뮬레이터에 관한 좋은 발표입니다. 
+Website : https://araffin.github.io/tools-for-robotic-rl-icra2022/
+Slides : https://drive.google.com/.../19ImRxp8SfbTLtMDdFwYY.../view
+Youtube : https://youtu.be/WOwLquiFbPE## Interested in multiple object tracking and segmentation and self-driving?
+
 ## Connectomic comparison of mouse and human cortex
 
 The analysis of the human brain is a central goal of neuroscience. However, for methodological reasons, research has largely focused on model organisms, in particular the mouse. Now, neuroscientists gained novel insights on human neural circuitry using tissue obtained from neurosurgical interventions. Three-dimensional electron microscope data revealed a novel expanded network of interneurons in humans compared to mouse. The discovery of this prominent network component in the human cortex encourages further detailed analysis of its function in health and disease.
