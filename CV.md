@@ -1,9 +1,3 @@
-## Accelerating physics simulators for Robotics Reinforcement Learning - Erwin Coumans @ ICRA22 | 2/8
-Pybullet을 만드신 분으로도 유명한 Erwin Coumans님의 ICRA 22 Tutorial:
-강화학습을 로봇에 적용할 때 가장 많이 고민하는 시뮬레이터에 관한 좋은 발표입니다. 
-Website : https://araffin.github.io/tools-for-robotic-rl-icra2022/
-Slides : https://drive.google.com/.../19ImRxp8SfbTLtMDdFwYY.../view
-Youtube : https://youtu.be/WOwLquiFbPE## Interested in multiple object tracking and segmentation and self-driving?
 
 ## Salesforce AI Propose A Novel Framework That Trains An Open Vocabulary Object Detector With Pseudo Bounding-Box Labels Generated From Large-Scale Image-Caption Pairs
 Quick Read: https://www.marktechpost.com/.../salesforce-ai-propose-a.../
