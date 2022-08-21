@@ -2,6 +2,12 @@
  * dream cv2 https://github.com/danijar/dreamerv2
 
 
+## VPT 
+Blog: https://openai.com/blog/vpt/
+Paper: https://arxiv.org/abs/2206.11795
+Code & Model weights: https://github.com/openai/Video-Pre-T...
+
+
 ## Accelerating physics simulators for Robotics Reinforcement Learning - Erwin Coumans @ ICRA22 | 2/8
 PyBullet을 만드신 분으로도 유명한 Erwin Coumans님의 ICRA 22 Tutorial
 강화학습을 로봇에 적용할 때 가장 많이 고민하는 시뮬레이터에 관한 좋은 발표입니다. 
