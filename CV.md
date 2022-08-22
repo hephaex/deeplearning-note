@@ -1,3 +1,7 @@
+## Researchers at Apple Develop Texturify: A GAN-based Approach for Generating Textures on 3D Shape Surfaces
+Quick Read: https://www.marktechpost.com/.../researchers-at-apple.../
+Paper: https://nihalsid.github.io/texturify/static/Texturify.pdf
+Project: https://nihalsid.github.io/texturify/
 
 ## Salesforce AI Propose A Novel Framework That Trains An Open Vocabulary Object Detector With Pseudo Bounding-Box Labels Generated From Large-Scale Image-Caption Pairs
 Quick Read: https://www.marktechpost.com/.../salesforce-ai-propose-a.../
