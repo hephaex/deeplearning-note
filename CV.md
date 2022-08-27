@@ -3,6 +3,11 @@ Quick Read: https://www.marktechpost.com/.../researchers-at-apple.../
 Paper: https://nihalsid.github.io/texturify/static/Texturify.pdf
 Project: https://nihalsid.github.io/texturify/
 
+## Latest Computer Vision Research At Microsoft Explains How This Proposed Method Adapts The Pretrained Language Image Models To Video Recognition
+Paper Summary: https://www.marktechpost.com/.../latest-computer-vision.../
+Paper: https://arxiv.org/pdf/2208.02816v1.pdf
+Github: https://github.com/microsoft/VideoX/tree/master/X-CLIP
+
 ## Salesforce AI Propose A Novel Framework That Trains An Open Vocabulary Object Detector With Pseudo Bounding-Box Labels Generated From Large-Scale Image-Caption Pairs
 Quick Read: https://www.marktechpost.com/.../salesforce-ai-propose-a.../
 Paper: https://arxiv.org/pdf/2111.09452.pdf
