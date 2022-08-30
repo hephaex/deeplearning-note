@@ -1,3 +1,8 @@
+## Deepmind Researchers Introduce ‘Transframer’: 
+A General-Purpose AI Framework For Image Modelling And Computer Vision Tasks Based On Probabilistic Frame Prediction
+Quick Read: https://www.marktechpost.com/.../deepmind-researchers.../
+Paper: https://arxiv.org/pdf/2203.09494.pdf
+
 ## Researchers at Apple Develop Texturify: A GAN-based Approach for Generating Textures on 3D Shape Surfaces
 Quick Read: https://www.marktechpost.com/.../researchers-at-apple.../
 Paper: https://nihalsid.github.io/texturify/static/Texturify.pdf
