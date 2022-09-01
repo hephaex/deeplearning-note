@@ -1,3 +1,8 @@
+## Researchers from the Alibaba Group added their newly developed ‘YOLOX-PAI’ into EasyCV, which is an all-in-one Computer Vision Toolbox
+Quick Read: https://www.marktechpost.com/.../researchers-from-the.../
+Paper: https://arxiv.org/pdf/2208.13040v1.pdf
+Github link: https://github.com/alibaba/EasyCV
+
 ## Deepmind Researchers Introduce ‘Transframer’: 
 A General-Purpose AI Framework For Image Modelling And Computer Vision Tasks Based On Probabilistic Frame Prediction
 Quick Read: https://www.marktechpost.com/.../deepmind-researchers.../
