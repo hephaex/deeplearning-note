@@ -1,3 +1,9 @@
+## Apple Researchers Develop NeuMan
+A Novel Computer Vision Framework that can Generate Neural Human Radiance Field from a Single Video
+Quick Read: https://www.marktechpost.com/.../apple-researchers.../
+Paper: https://arxiv.org/pdf/2203.12575v1.pdf
+Github: https://github.com/apple/ml-neuman
+
 ## Researchers from the Alibaba Group added their newly developed ‘YOLOX-PAI’ into EasyCV, which is an all-in-one Computer Vision Toolbox
 Quick Read: https://www.marktechpost.com/.../researchers-from-the.../
 Paper: https://arxiv.org/pdf/2208.13040v1.pdf
