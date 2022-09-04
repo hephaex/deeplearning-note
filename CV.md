@@ -1,3 +1,8 @@
+## Microsoft Research Introduces a General-Purpose Multimodal Foundation Model ‘BEIT-3,’ that Achieves State-of-the-Art Transfer Performance on Both Vision and Vision Language Tasks
+Quick Read: https://www.marktechpost.com/.../microsoft-research.../
+Paper: https://arxiv.org/pdf/2208.10442.pdf
+Github: https://github.com/microsoft/unilm/tree/master/beit
+
 ## Apple Researchers Develop NeuMan
 A Novel Computer Vision Framework that can Generate Neural Human Radiance Field from a Single Video
 Quick Read: https://www.marktechpost.com/.../apple-researchers.../
