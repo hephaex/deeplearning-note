@@ -1,3 +1,8 @@
+## Researchers from McGill University and Microsoft Introduces Convolutional vision Transformer (CvT) that improves Vision Transformer (ViT) in Performance and Efficiency by Introducing Convolutions into ViT
+Paper Summary: https://www.marktechpost.com/.../researchers-from-mcgill.../
+Paper: https://openaccess.thecvf.com/.../Wu_CvT_Introducing...
+GIthub: https://github.com/microsoft/CvT
+
 ## Microsoft Research Introduces a General-Purpose Multimodal Foundation Model ‘BEIT-3,’ that Achieves State-of-the-Art Transfer Performance on Both Vision and Vision Language Tasks
 Quick Read: https://www.marktechpost.com/.../microsoft-research.../
 Paper: https://arxiv.org/pdf/2208.10442.pdf
