@@ -1,3 +1,9 @@
+## Latest Computer Vision Research at Google and Boston University Proposes ‘DreamBooth,’ 
+A Technique for Fine-Tuning a Text-to-Image Model with a very Limited Set of Images
+Paper Summary: https://www.marktechpost.com/.../latest-computer-vision.../
+Paper: https://arxiv.org/pdf/2208.12242.pdf?
+Project: https://dreambooth.github.io/
+
 ## Researchers from McGill University and Microsoft Introduces Convolutional vision Transformer (CvT) that improves Vision Transformer (ViT) in Performance and Efficiency by Introducing Convolutions into ViT
 Paper Summary: https://www.marktechpost.com/.../researchers-from-mcgill.../
 Paper: https://openaccess.thecvf.com/.../Wu_CvT_Introducing...
