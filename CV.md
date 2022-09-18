@@ -240,3 +240,4 @@ Github: https://github.com/facebookresearch/omnivore
 공헌자(저자): NVIDIA(타이완)
 GitHub: https://github.com/.../Iguana-detection-on-Nvidia-Jetson...
 블로그 링크: https://blogs.nvidia.com.tw/.../green-iguana-detection.../
+'
