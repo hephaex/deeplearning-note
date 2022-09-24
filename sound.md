@@ -5,6 +5,9 @@ Speaker Identification: https://paperswithcode.com/task/speaker-identification
 Speaker Separation: https://paperswithcode.com/task/speaker-separation,
 Speaker Profiling: https://paperswithcode.com/task/speaker-profiling
 
+## 음성인식 colab 실습 코드 공유
+colab link: https://bit.ly/3qYVQeC
+
 ## SMART-Single_Emotional_TTS: https://github.com/SMART-TTS/SMART-Single_Emotional_TTS
 Variable-length style embedding을 추출하여 반영하는 Unsupervised Style TTS 모델
 SMART-Multi-Speaker-Style-TTS: https://github.com/SMART-TTS/SMART-Multi-Speaker-Style-TTS
