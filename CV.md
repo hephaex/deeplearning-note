@@ -1,3 +1,9 @@
+## Researchers at Tencent Propose GFP-GAN that Leverages Rich and Diverse Priors Encapsulated in a Pretrained Face GAN for Blind Face Restoration
+Paper Summary: https://www.marktechpost.com/.../researchers-at-tencent.../
+Paper: https://arxiv.org/pdf/2101.04061v2.pdf
+Github link: https://github.com/TencentARC/GFPGAN
+
+
 ## Latest Computer Vision Research at Google and Boston University Proposes ‘DreamBooth,’ 
 A Technique for Fine-Tuning a Text-to-Image Model with a very Limited Set of Images
 Paper Summary: https://www.marktechpost.com/.../latest-computer-vision.../
