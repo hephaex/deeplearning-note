@@ -1,3 +1,9 @@
+## Salesforce AI Open-Sources ‘LAVIS,’ A Deep Learning Library For Language-Vision Research/Applications
+Quick Read: https://www.marktechpost.com/.../salesforce-ai-open.../
+Paper: https://arxiv.org/pdf/2209.09019.pdf
+Github link: https://github.com/salesforce/LAVIS
+
+
 ## Researchers at Tencent Propose GFP-GAN that Leverages Rich and Diverse Priors Encapsulated in a Pretrained Face GAN for Blind Face Restoration
 Paper Summary: https://www.marktechpost.com/.../researchers-at-tencent.../
 Paper: https://arxiv.org/pdf/2101.04061v2.pdf
