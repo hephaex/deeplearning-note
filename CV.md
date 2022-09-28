@@ -1,34 +1,27 @@
 ## Salesforce AI Open-Sources ‘LAVIS,’ A Deep Learning Library For Language-Vision Research/Applications
-Quick Read: https://www.marktechpost.com/.../salesforce-ai-open.../
 Paper: https://arxiv.org/pdf/2209.09019.pdf
 Github link: https://github.com/salesforce/LAVIS
 
-
 ## Researchers at Tencent Propose GFP-GAN that Leverages Rich and Diverse Priors Encapsulated in a Pretrained Face GAN for Blind Face Restoration
-Paper Summary: https://www.marktechpost.com/.../researchers-at-tencent.../
 Paper: https://arxiv.org/pdf/2101.04061v2.pdf
 Github link: https://github.com/TencentARC/GFPGAN
 
 
 ## Latest Computer Vision Research at Google and Boston University Proposes ‘DreamBooth,’ 
 A Technique for Fine-Tuning a Text-to-Image Model with a very Limited Set of Images
-Paper Summary: https://www.marktechpost.com/.../latest-computer-vision.../
 Paper: https://arxiv.org/pdf/2208.12242.pdf?
 Project: https://dreambooth.github.io/
 
 ## Researchers from McGill University and Microsoft Introduces Convolutional vision Transformer (CvT) that improves Vision Transformer (ViT) in Performance and Efficiency by Introducing Convolutions into ViT
-Paper Summary: https://www.marktechpost.com/.../researchers-from-mcgill.../
 Paper: https://openaccess.thecvf.com/.../Wu_CvT_Introducing...
 GIthub: https://github.com/microsoft/CvT
 
 ## Microsoft Research Introduces a General-Purpose Multimodal Foundation Model ‘BEIT-3,’ that Achieves State-of-the-Art Transfer Performance on Both Vision and Vision Language Tasks
-Quick Read: https://www.marktechpost.com/.../microsoft-research.../
 Paper: https://arxiv.org/pdf/2208.10442.pdf
 Github: https://github.com/microsoft/unilm/tree/master/beit
 
 ## Apple Researchers Develop NeuMan
 A Novel Computer Vision Framework that can Generate Neural Human Radiance Field from a Single Video
-Quick Read: https://www.marktechpost.com/.../apple-researchers.../
 Paper: https://arxiv.org/pdf/2203.12575v1.pdf
 Github: https://github.com/apple/ml-neuman
 
@@ -39,11 +32,9 @@ Github link: https://github.com/alibaba/EasyCV
 
 ## Deepmind Researchers Introduce ‘Transframer’: 
 A General-Purpose AI Framework For Image Modelling And Computer Vision Tasks Based On Probabilistic Frame Prediction
-Quick Read: https://www.marktechpost.com/.../deepmind-researchers.../
 Paper: https://arxiv.org/pdf/2203.09494.pdf
 
 ## Researchers at Apple Develop Texturify: A GAN-based Approach for Generating Textures on 3D Shape Surfaces
-Quick Read: https://www.marktechpost.com/.../researchers-at-apple.../
 Paper: https://nihalsid.github.io/texturify/static/Texturify.pdf
 Project: https://nihalsid.github.io/texturify/
 
