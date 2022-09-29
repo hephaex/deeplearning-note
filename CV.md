@@ -6,7 +6,6 @@ Github link: https://github.com/salesforce/LAVIS
 Paper: https://arxiv.org/pdf/2101.04061v2.pdf
 Github link: https://github.com/TencentARC/GFPGAN
 
-
 ## Latest Computer Vision Research at Google and Boston University Proposes ‘DreamBooth,’ 
 A Technique for Fine-Tuning a Text-to-Image Model with a very Limited Set of Images
 Paper: https://arxiv.org/pdf/2208.12242.pdf?
@@ -44,12 +43,10 @@ Paper: https://arxiv.org/pdf/2208.02816v1.pdf
 Github: https://github.com/microsoft/VideoX/tree/master/X-CLIP
 
 ## Salesforce AI Propose A Novel Framework That Trains An Open Vocabulary Object Detector With Pseudo Bounding-Box Labels Generated From Large-Scale Image-Caption Pairs
-Quick Read: https://www.marktechpost.com/.../salesforce-ai-propose-a.../
 Paper: https://arxiv.org/pdf/2111.09452.pdf
 GItHub link: https://arxiv.org/pdf/2111.09452.pdf
 
 ## Researchers Present A Survey Report on Using 100+ Transformer-based Methods in Computer Vision for Different 3D Vision Tasks
-Quick Read: https://www.marktechpost.com/.../researchers-present-a.../
 Paper:  https://arxiv.org/pdf/2208.04309v1.pdf
 Github link: https://github.com/lahoud/3d-vision-transformers
 
@@ -59,7 +56,6 @@ Paper: https://arxiv.org/pdf/2205.14879v1.pdf
 Github link: https://github.com/kartikgill/easter2
 
 ## Researchers at Meta AI Develop Multiface: A Dataset for Neural Face Rendering
-Quick Read: https://www.marktechpost.com/.../researchers-at-meta-ai.../
 Paper: https://arxiv.org/pdf/2207.11243v1.pdf
 Github link: https://github.com/facebookresearch/multiface
 
