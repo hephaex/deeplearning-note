@@ -1,3 +1,7 @@
+## Latest Computer Vision Research at Nanyang Technological University Introduces VToonify Framework for Style Controllable High-Resolution Video Toonification
+Paper: https://arxiv.org/pdf/2209.11224v2.pdf
+Github: https://github.com/williamyang1991/vtoonify
+
 ## Salesforce AI Open-Sources ‘LAVIS,’ A Deep Learning Library For Language-Vision Research/Applications
 Paper: https://arxiv.org/pdf/2209.09019.pdf
 Github link: https://github.com/salesforce/LAVIS
