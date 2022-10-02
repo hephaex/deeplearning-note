@@ -102,7 +102,6 @@ https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch
 
 ## Alibaba AI Research Team Introduces ‘DCT-Net’
 A Novel Image Translation Architecture For Few-Shot Portrait Stylization
-Paper Summary: https://www.marktechpost.com/.../alibaba-ai-research.../
 Paper: https://arxiv.org/pdf/2207.02426v1.pdf
 Project: https://menyifang.github.io/projects/DCTNet/DCTNet.html
 Github link: https://github.com/menyifang/dct-net
