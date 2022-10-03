@@ -67,7 +67,6 @@ Github link: https://github.com/facebookresearch/multiface
 They propose a novel vision transformer termed CA-ViT that can fully utilize both global and local picture context dependencies while outperforming its predecessors by a wide margin.
 They introduce a unique HDR-Transformer that can reduce processing costs, ghosting artifacts, and recreating high-quality HDR photos. This is the first Transformer-based HDR de-ghosting framework to be developed. 
 They undertake in-depth tests on three sample benchmark HDR datasets to compare HDR-performance Transformers to current state-of-the-art techniques.
-Quick Read: https://www.marktechpost.com/.../research-from-china.../
 Paper: https://arxiv.org/pdf/2208.05114v1.pdf
 Github link: https://github.com/megvii-research/HDR-Transformer
 
@@ -81,7 +80,6 @@ Code: https://github.com/gwang-kim/DiffusionCLIP.git
 
 ## NVIDIA AI Researchers Propose ‘MinVIS,’ 
 A Minimal Video Instance Segmentation (VIS) Framework That Achieves SOTA Performance With Neither Video-Based Architectures Nor Training Procedures
-Paper Summary: https://www.marktechpost.com/.../nvidia-ai-researchers.../
 Paper: https://arxiv.org/pdf/2208.02245v1.pdf
 Github link: https://github.com/nvlabs/minvis
 
