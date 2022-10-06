@@ -84,7 +84,6 @@ Paper: https://arxiv.org/pdf/2208.02245v1.pdf
 Github link: https://github.com/nvlabs/minvis
 
 ## Researchers from China Propose DAT: a Deformable Vision Transformer to Compute Self-Attention in a Data-Aware Fashion
-Paper Summary: https://www.marktechpost.com/.../researchers-from-china.../
 Paper: https://openaccess.thecvf.com/.../Xia_Vision_Transformer...
 Github: https://github.com/LeapLabTHU/DAT
 
