@@ -1,3 +1,8 @@
+## 텍스트(Text-to-Audio)를 기준으로 일반 오디오를 합성해서 만들어주는 "AudioGen: Textually Guided Audio Generation"도 등장했네요. 
+"남자가 키보드로 타이핑하면서 말하고 있다" 이렇게만 입력하면 이런 소리가 만들어진다는게 놀랍네요. 
+paper: https://felixkreuk.github.io/text2audio_arxiv.../paper.pdf
+sample: https://felixkreuk.github.io/text2audio_arxiv_samples/
+
 ## 화자 분리를 하는 관련 연구
 Speaker Recognition: https://paperswithcode.com/task/speaker-recognition
 Speaker Verification: https://paperswithcode.com/task/speaker-verification, https://paperswithcode.com/.../text-independent-speaker..., https://paperswithcode.com/.../text-dependent-speaker...
