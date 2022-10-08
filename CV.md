@@ -146,7 +146,6 @@ Quick Read: https://www.marktechpost.com/.../ai2s-prior-team.../
 Demo: https://unified-io.allenai.org/
 
 ## AI Researchers From China Introduce a New Vision GNN (ViG) Architecture to Extract Graph Level Feature for Visual Tasks
-Paper Summary: https://www.marktechpost.com/.../ai-researchers-from.../
 Paper: https://arxiv.org/pdf/2206.00272v1.pdf
 Github: https://github.com/huawei-noah/Efficient-AI-Backbones
 
