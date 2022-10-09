@@ -1,3 +1,8 @@
+## Google AI Introduces Frame Interpolation for Large Motion (FILM): A New Neural Network Architecture To Create High-Quality Slow-Motion Videos From Near-Duplicate Photos
+Paper: https://arxiv.org/pdf/2202.04901.pdf
+Github: https://github.com/google-research/frame-interpolation
+Project: https://film-net.github.io/
+
 ## Latest Computer Vision Research at Nanyang Technological University Introduces VToonify Framework for Style Controllable High-Resolution Video Toonification
 Paper: https://arxiv.org/pdf/2209.11224v2.pdf
 Github: https://github.com/williamyang1991/vtoonify
