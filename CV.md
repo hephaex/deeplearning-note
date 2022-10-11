@@ -93,7 +93,6 @@ Paper: https://openaccess.thecvf.com/.../Xia_Vision_Transformer...
 Github: https://github.com/LeapLabTHU/DAT
 
 ## Researchers From CMU And Stanford Develop OBJECTFOLDER 2.0: A Multisensory Object Dataset For Sim2Real Transfer
-Quick Read: https://www.marktechpost.com/.../researchers-from-cmu.../
 Paper: https://arxiv.org/pdf/2204.02389.pdf
 Github: https://github.com/rhgao/ObjectFolder
 Project: https://ai.stanford.edu/~rhgao/objectfolder2.0/
