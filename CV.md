@@ -204,7 +204,6 @@ Github: https://github.com/mhamilton723/STEGO
 
 ## UTokyo Researchers Introduce 
 A Novel Synthetic Training Data Called Self-Blended Images (SBIs) To Detect Deepfakes
-Quick Read: https://www.marktechpost.com/.../utokyo-researchers.../
 Paper: https://arxiv.org/pdf/2204.08376.pdf
 Github: https://github.com/mapooon/SelfBlendedImages
 
