@@ -1,3 +1,8 @@
+## Latest Computer Vision Research Proposes Lumos for Relighting Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation
+Paper: https://arxiv.org/pdf/2209.10510.pdf
+Demo: http://imaginaire.cc/Lumos/
+Project: https://deepimagination.cc/Lumos/
+
 ## Google AI Introduces Frame Interpolation for Large Motion (FILM): A New Neural Network Architecture To Create High-Quality Slow-Motion Videos From Near-Duplicate Photos
 Paper: https://arxiv.org/pdf/2202.04901.pdf
 Github: https://github.com/google-research/frame-interpolation
