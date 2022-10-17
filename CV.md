@@ -1,4 +1,4 @@
-## DeepMind Introduces the Perception Test, a New Multimodal Benchmark Using Real-World Videos to Help Evaluate the Perception Capabilities of a Machine Learning Model
+### DeepMind Introduces the Perception Test, a New Multimodal Benchmark Using Real-World Videos to Help Evaluate the Perception Capabilities of a Machine Learning Model
 Paper: https://storage.googleapis.com/.../perception_test_report...
 Github link: https://github.com/deepmind/perception_test
 
@@ -207,7 +207,6 @@ Project Code: https://github.com/Ashishkumar-hub/Warehouse-Apparel-Detection-usi
 
 ## Researchers From MIT and Cornell Develop STEGO 
 (Self-Supervised Transformer With Energy-Based Graph Optimization): A Novel AI Framework That Distills Unsupervised Features Into High-Quality Discrete Semantic Labels
-Quick Read: https://www.marktechpost.com/.../researchers-from-mit.../
 Paper: https://arxiv.org/pdf/2203.08414.pdf
 Github: https://github.com/mhamilton723/STEGO
 
