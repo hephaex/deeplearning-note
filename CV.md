@@ -1,3 +1,7 @@
+## DeepMind Introduces the Perception Test, a New Multimodal Benchmark Using Real-World Videos to Help Evaluate the Perception Capabilities of a Machine Learning Model
+Paper: https://storage.googleapis.com/.../perception_test_report...
+Github link: https://github.com/deepmind/perception_test
+
 ## Latest Computer Vision Research Proposes Lumos for Relighting Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation
 Paper: https://arxiv.org/pdf/2209.10510.pdf
 Demo: http://imaginaire.cc/Lumos/
