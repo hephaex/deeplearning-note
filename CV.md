@@ -169,7 +169,6 @@ Paper: https://openaccess.thecvf.com/content/CVPR2022/papers/Chan_Efficient_Geom
 Github: https://github.com/NVlabs/eg3d
 
 ## Stanford and TRI AI Researchers Propose the Atemporal Probe (ATP), A New ML Model For Video-Language Analysis
-Quick Read: https://www.marktechpost.com/.../stanford-and-tri-ai.../
 Paper: https://arxiv.org/pdf/2206.01720.pdf
 Project: https://stanfordvl.github.io/atp-revisit-video-lang/
 
