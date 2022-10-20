@@ -43,7 +43,6 @@ Paper: https://arxiv.org/pdf/2203.12575v1.pdf
 Github: https://github.com/apple/ml-neuman
 
 ## Researchers from the Alibaba Group added their newly developed ‘YOLOX-PAI’ into EasyCV, which is an all-in-one Computer Vision Toolbox
-Quick Read: https://www.marktechpost.com/.../researchers-from-the.../
 Paper: https://arxiv.org/pdf/2208.13040v1.pdf
 Github link: https://github.com/alibaba/EasyCV
 
@@ -56,7 +55,6 @@ Paper: https://nihalsid.github.io/texturify/static/Texturify.pdf
 Project: https://nihalsid.github.io/texturify/
 
 ## Latest Computer Vision Research At Microsoft Explains How This Proposed Method Adapts The Pretrained Language Image Models To Video Recognition
-Paper Summary: https://www.marktechpost.com/.../latest-computer-vision.../
 Paper: https://arxiv.org/pdf/2208.02816v1.pdf
 Github: https://github.com/microsoft/VideoX/tree/master/X-CLIP
 
