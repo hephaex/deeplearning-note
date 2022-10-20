@@ -1,4 +1,5 @@
-## Glad to share that our paper titled "Face Pyramid Vision Transformer" has been accepted to 33rd British Machine Vision Conference (BMVC) 2022, 21st - 24th November 2022, London, UK. Our paper and code are available at:
+## Face Pyramid Vision Transformer
+- 33rd British Machine Vision Conference (BMVC) 2022, 21st - 24th November 2022, London, UK. 
 [Project Page]: https://khawar-islam.github.io/fpvt/
 [Code: https]: https://github.com/khawar-islam/FPVT_BMVC22
 Highlights:
