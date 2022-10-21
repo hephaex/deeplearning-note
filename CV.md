@@ -74,7 +74,6 @@ Paper:  https://arxiv.org/pdf/2208.04309v1.pdf
 Github link: https://github.com/lahoud/3d-vision-transformers
 
 ## Researchers Propose Easter2.0, a Novel Convolutional Neural Network CNN-Based Architecture for the Task of End-to-End Handwritten Text Line Recognition that Utilizes Only 1D Convolutions
-Paper Summary: https://www.marktechpost.com/.../researchers-propose.../
 Paper: https://arxiv.org/pdf/2205.14879v1.pdf
 Github link: https://github.com/kartikgill/easter2
 
