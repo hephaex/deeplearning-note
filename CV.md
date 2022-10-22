@@ -200,7 +200,6 @@ youtube: https://youtu.be/cXxEwI7QbKg
 
 ## Salesforce AI Research has proposed a new video-and-language representation learning framework called ALPRO. 
 This framework can be used for pre-training models to achieve state-of-the-art performance on tasks such as video-text retrieval and question answering.
-Quick Read: https://www.marktechpost.com/.../salesforce-ai-research.../
 Paper: https://arxiv.org/pdf/2112.09583.pdf
 Github: https://github.com/salesforce/alpro
 
