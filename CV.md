@@ -243,7 +243,6 @@ Project: https://slot-attention-video.github.io/savi++/
 
 ## Meta AI Research Proposes ‘OMNIVORE’: 
 A Single Vision (Computer Vision) Model For Many Different Visual Modalities
-Quick Read: https://www.marktechpost.com/2022/01/30/meta-ai-research-proposes-omnivore-a-single-vision-computer-vision-model-for-many-different-visual-modalities/
 Paper: https://arxiv.org/abs/2201.08377
 Github: https://github.com/facebookresearch/omnivore
 
@@ -251,4 +250,3 @@ Github: https://github.com/facebookresearch/omnivore
 공헌자(저자): NVIDIA(타이완)
 GitHub: https://github.com/.../Iguana-detection-on-Nvidia-Jetson...
 블로그 링크: https://blogs.nvidia.com.tw/.../green-iguana-detection.../
-'
