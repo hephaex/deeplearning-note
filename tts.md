@@ -1,12 +1,12 @@
 # awesome-tts-samples
 
-List of TTS papers with audio samples provided by the authors. The last rows of each paper show the spectrogram inversion (vocoder) being used.
+List of TTS papers with audio samples provided by the authors. 
+The last rows of each paper show the spectrogram inversion (vocoder) being used.
 
 ## 2021 
-
 - [wavegad2](https://github.com/mindslab-ai/wavegrad2)
-## 2020
 
+## 2020
 - [Glow-TTS](https://arxiv.org/abs/2005.11129) - Glow-TTS: A Generative Flow for Text-to-Speech via Monotonic Alignment Search
   - https://jaywalnut310.github.io/glow-tts-demo
   - WaveGlow
