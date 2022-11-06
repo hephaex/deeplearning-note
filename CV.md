@@ -1,7 +1,7 @@
 ## Face Pyramid Vision Transformer
 - 33rd British Machine Vision Conference (BMVC) 2022, 21st - 24th November 2022, London, UK. 
-- [Project Page]: https://khawar-islam.github.io/fpvt/
-- [Code: https]: https://github.com/khawar-islam/FPVT_BMVC22
+- Project Page: https://khawar-islam.github.io/fpvt/
+- Code: https: https://github.com/khawar-islam/FPVT_BMVC22
 ### Highlights:
 A novel Face Pyramid Vision Transformer (FPVT) is proposed to learn a discriminative multi-scale facial representations for face recognition and verification. In FPVT, Face Spatial Reduction Attention (FSRA) and Dimensionality Reduction (FDR) layers are employed to make the feature maps compact, thus reducing the computations. An Improved Patch Embedding (IPE) algorithm is proposed to exploit the benefits of CNNs in ViTs (e.g., shared weights, local context, and receptive fields) to model lower-level edges to higher-level semantic primitives. Within FPVT framework, a Convolutional Feed-Forward Network (CFFN) is proposed that extracts locality information to learn low level facial information. The proposed FPVT is evaluated on seven benchmark datasets and compared with ten existing state-of-the-art methods, including CNNs, pure ViTs, and Convolutional ViTs. Despite fewer parameters, FPVT has demonstrated excellent performance over the compared methods. I am greatly thankful to my coauthors Arif Mahmood and Zaigham Zaheer for their supervision and guidance throughout the project.
 
