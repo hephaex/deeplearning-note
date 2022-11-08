@@ -11,7 +11,6 @@ Paper: https://storage.googleapis.com/.../perception_test_report...
 Github link: https://github.com/deepmind/perception_test
 
 ## Latest Computer Vision Research Proposes Lumos for Relighting Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation
-
 Paper: https://arxiv.org/pdf/2209.10510.pdf
 Demo: http://imaginaire.cc/Lumos/
 Project: https://deepimagination.cc/Lumos/
@@ -248,6 +247,5 @@ Paper: https://arxiv.org/abs/2201.08377
 Github: https://github.com/facebookresearch/omnivore
 
 ## 젯슨나노를 이용해서 녹색 이구아나의 외래 종의 실시간 탐지 및 모니터링
-공헌자(저자): NVIDIA(타이완)
 GitHub: https://github.com/.../Iguana-detection-on-Nvidia-Jetson...
 블로그 링크: https://blogs.nvidia.com.tw/.../green-iguana-detection.../
