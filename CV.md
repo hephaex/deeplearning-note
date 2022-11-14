@@ -241,7 +241,6 @@ github: https://github.com/hongsukchoi/3DCrowdNet_RELEASE
 
 ## Google AI Researchers Propose SAVi++: 
 An Object-Centric Video Model Trained To Predict Depth Signals From A Slot-Based Video Representation
-Quick Read: https://www.marktechpost.com/.../google-ai-researchers.../
 Paper: https://arxiv.org/pdf/2206.07764.pdf
 Project: https://slot-attention-video.github.io/savi++/
 
