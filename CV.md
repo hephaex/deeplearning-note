@@ -1,4 +1,4 @@
-## 3D Model Reconstruction DEMO.
+## 3D Model Reconstruction
 Images with a single camera can generate 3d model.
 https://kotai2003-faces.streamlit.app/
 
