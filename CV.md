@@ -7,7 +7,6 @@ https://kotai2003-faces.streamlit.app/
 - Project Page: https://khawar-islam.github.io/fpvt/
 - Code: https: https://github.com/khawar-islam/FPVT_BMVC22
 
-
 #### Highlights:
 A novel Face Pyramid Vision Transformer (FPVT) is proposed to learn a discriminative multi-scale facial representations for face recognition and verification. In FPVT, Face Spatial Reduction Attention (FSRA) and Dimensionality Reduction (FDR) layers are employed to make the feature maps compact, thus reducing the computations. An Improved Patch Embedding (IPE) algorithm is proposed to exploit the benefits of CNNs in ViTs (e.g., shared weights, local context, and receptive fields) to model lower-level edges to higher-level semantic primitives. Within FPVT framework, a Convolutional Feed-Forward Network (CFFN) is proposed that extracts locality information to learn low level facial information. The proposed FPVT is evaluated on seven benchmark datasets and compared with ten existing state-of-the-art methods, including CNNs, pure ViTs, and Convolutional ViTs. Despite fewer parameters, FPVT has demonstrated excellent performance over the compared methods. I am greatly thankful to my coauthors Arif Mahmood and Zaigham Zaheer for their supervision and guidance throughout the project.
 
@@ -182,8 +181,6 @@ Paper: https://arxiv.org/pdf/2206.01720.pdf
 Project: https://stanfordvl.github.io/atp-revisit-video-lang/
 
 ## A New Technique to Train Diffusion Model in Latent Space Using Limited Computational Resources While Maintaining High-Resolution Quality
-Paper Summary: [https://www.marktechpost.com/.../a-new-technique-to.../
-](https://www.marktechpost.com/2022/06/28/a-new-technique-to-train-diffusion-model-in-latent-space-using-limited-computational-resources-while-maintaining-high-resolution-quality/?fbclid=IwAR1n777ssnw4C5oQ-TR8OcWug4jwXZ3uK-3LnCuFME2IgTi6VkqhoALBD_Y)
 Paper: https://arxiv.org/pdf/2112.10752.pdf
 Github: https://github.com/CompVis/latent-diffusion
 
