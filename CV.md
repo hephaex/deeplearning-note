@@ -118,7 +118,6 @@ Project: https://ai.stanford.edu/~rhgao/objectfolder2.0/
 ## image classification on small-datasets in Pytorch
 https://github.com/Harry-KIT/Image-Classification-on-small-datasets-in-Pytorch
 
-
 ## Alibaba AI Research Team Introduces ‘DCT-Net’
 A Novel Image Translation Architecture For Few-Shot Portrait Stylization
 Paper: https://arxiv.org/pdf/2207.02426v1.pdf
@@ -185,8 +184,8 @@ Paper: https://arxiv.org/pdf/2112.10752.pdf
 Github: https://github.com/CompVis/latent-diffusion
 
 ## MPViT
-Arxiv👉 https://arxiv.org/abs/2112.11010
-Code👉 https://github.com/youngwanLEE/MPViT
+Arxiv https://arxiv.org/abs/2112.11010
+Code https://github.com/youngwanLEE/MPViT
 
 ## DN-DETR: Accelerate DETR Training by Introducing Query DeNoising
 ## DAB-DETR : Dynamic Anchor Boxes are Better Queries for DETR 
