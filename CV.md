@@ -14,6 +14,7 @@ A novel Face Pyramid Vision Transformer (FPVT) is proposed to learn a discrimina
 Paper: https://storage.googleapis.com/.../perception_test_report...
 Github link: https://github.com/deepmind/perception_test
 
+
 ## Latest Computer Vision Research Proposes Lumos for Relighting Portrait Images via a Virtual Light Stage and Synthetic-to-Real Adaptation
 Paper: https://arxiv.org/pdf/2209.10510.pdf
 Demo: http://imaginaire.cc/Lumos/
