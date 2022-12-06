@@ -113,7 +113,6 @@ https://www.sciencedirect.com/science/article/pii/S2214317321000482/pdfft?md5=6b
 Github: https://github.com/naver-ai/relabel_imagenet
 
 ## ML-HyperSim
-Quick Read: https://www.marktechpost.com/.../apples-machine-learning.../
 Paper: https://arxiv.org/pdf/2011.02523.pdf
 Codes: https://github.com/apple/ml-hypersim
 
