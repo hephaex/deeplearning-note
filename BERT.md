@@ -72,7 +72,6 @@ Any feedback is welcome.
 - [Multi-lingual Intent Detection and Slot Filling in a Joint BERT-based Model](https://arxiv.org/abs/1907.02884)
 - [A Comparison of Deep Learning Methods for Language Understanding](https://www.isca-speech.org/archive/Interspeech_2019/abstracts/1262.html) (Interspeech2019)
 
-
 ### Analysis
 - [Fine-grained Information Status Classification Using Discourse Context-Aware Self-Attention](https://arxiv.org/abs/1908.04755)
 - [GlossBERT: BERT for Word Sense Disambiguation with Gloss Knowledge](https://arxiv.org/abs/1908.07245) (EMNLP2019)
