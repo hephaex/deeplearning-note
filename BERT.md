@@ -521,16 +521,13 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 
 
 ## other resources for BERT: 
-
 1. [brightmart/bert_language_understanding](https://github.com/brightmart/bert_language_understanding), Pre-training of Deep Bidirectional Transformers for Language Understanding: pre-train TextCNN,
 ![](https://img.shields.io/github/stars/brightmart/bert_language_understanding.svg)
 
 2. [Y1ran/NLP-BERT--ChineseVersion](https://github.com/Y1ran/NLP-BERT--ChineseVersion), 
 ![](https://img.shields.io/github/stars/Y1ran/NLP-BERT--ChineseVersion.svg)
 
-
-
-9. [yangbisheng2009/cn-bert](https://github.com/yangbisheng2009/cn-bert), 
+3. [yangbisheng2009/cn-bert](https://github.com/yangbisheng2009/cn-bert), 
 ![](https://img.shields.io/github/stars/yangbisheng2009/cn-bert.svg)
 
 4. [JayYip/bert-multiple-gpu](https://github.com/JayYip/bert-multiple-gpu), A multiple GPU support version of BERT,
