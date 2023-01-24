@@ -2,7 +2,6 @@
 # coding: utf-8
 
 ## Image data and augmentation using Keras
-
 #### Importing Libraries
 
 import os
@@ -17,7 +16,6 @@ print('Using Tensorflow',tf.__version__)
 # #### Instantiating
 
 generator = tf.keras.preprocessing.image.ImageDataGenerator(rotation_range=40)
-
 
 
 image_path = 'S:/Project Final Year/Testing images/Images/4.jpg'
