@@ -1,5 +1,4 @@
-# 
-MLOps 란 무엇입니까?
+# MLOps 란 무엇입니까?
 
 공헌자(저자): RICK MERRITT
 원문: https://blogs.nvidia.com/blog/2020/09/03/what-is-mlops/
