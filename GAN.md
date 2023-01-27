@@ -440,6 +440,7 @@ S/N|Paper|Year|Citations
 |52|Improving Generative Adversarial Networks with Denoising Feature Matching|https://github.com/hvy/chainer-gan-denoising-feature-matching|15
 |53|Least Squares Generative Adversarial Networks|https://github.com/pfnet-research/chainer-LSGAN|9
 
+
 * 3D-ED-GAN - [Shape Inpainting using 3D Generative Adversarial Network and Recurrent Convolutional Networks](https://arxiv.org/abs/1711.06375) 
 * 3D-GAN - [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/abs/1610.07584) ([github](https://github.com/zck119/3dgan-release))
 * 3D-IWGAN - [Improved Adversarial Systems for 3D Object Generation and Reconstruction](https://arxiv.org/abs/1707.09557) ([github](https://github.com/EdwardSmith1884/3D-IWGAN))
@@ -1587,7 +1588,6 @@ Code and pre-trained models for StyleGAN - Official TensorFlow Implementation
 https://github.com/NVlabs/stylegan
 - code: [Puzer/stylergan-encoder](https://github.com/Puzer/stylegan-encoder)
 - code: [StackGAN](https://github.com/hanzhanggit/StackGAN)
-
 
 # License
 
