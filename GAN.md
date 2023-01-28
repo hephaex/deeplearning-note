@@ -12,6 +12,8 @@
   Image taken from http://multithreaded.stitchfix.com/blog/2016/02/02/a-fontastic-voyage/<br>
 </p>
 
+
+
 ---
 
 ##  InstructPix2Pix by University of California, Berkeley Learning to Follow Image Editing Instructions.
