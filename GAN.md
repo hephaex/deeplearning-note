@@ -994,7 +994,6 @@ S/N|Paper|Year|Citations
    [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
    [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
    
-   
    Liquid Warping GAN with Attention: A Unified Framework for Human Image Synthesis,
 
 **Neural Geometric Level of Detail: Real-time Rendering with Implicit 3D Surfaces**  
@@ -1004,7 +1003,6 @@ S/N|Paper|Year|Citations
 
 
 ** best paper of GAN 
-
 
 |Year	|Month	|Abbr.	|Title|	Arxiv	|Official_Code	
 :---:|:---:|:---:|:---:|:---:|:---:
