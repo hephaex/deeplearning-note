@@ -1568,12 +1568,10 @@ https://github.com/MINED30/HAN2HAN
 더 많은 예시와 모델 구조 설명이 있습니다. 
 
 ## Microsoft Researchers Unlock New Avenues In Image-Generation Research With Manifold Matching Via Metric Learning
-Quick Read: https://www.marktechpost.com/.../microsoft-researchers.../
 Paper: https://arxiv.org/pdf/2106.10777.pdf
 Github:https://github.com/dzld00/pytorch-manifold-matching
 
 ## AI Researchers Propose ‘GANgealing’: A GAN-Supervised Algorithm That Learns Transformations of Input Images to Bring Them into Better Joint Alignment
-Quick Read: https://www.marktechpost.com/.../ai-researchers-propose.../
 Paper: https://arxiv.org/pdf/2112.05143v1.pdf
 Github: https://github.com/wpeebles/gangealing
 
