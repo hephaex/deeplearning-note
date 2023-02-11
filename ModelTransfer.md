@@ -36,7 +36,8 @@ Th is able to convert models between frameworks and models on the framework.
 - **MMdnn** a comprehensive and cross-framework tool to convert
     - GitHub **https://github.com/microsoft/MMdnn**
     - PyPI **https://pypi.org/project/mmdnn/**
-- **torch2tflite** It uses ONNX and TF2 as bridge between Torch and TFLite
+- **torch2tflite** It uses ONNX and TF2 as bridge between Torch and TFLite'
+
     - GitHub **https://github.com/omerferhatt/torch2tflite**
 - **openvino2tensorflow** Tool to convert OpenVINO IR models to TensorFlow
     - GitHub **https://github.com/PINTO0309/openvino2tensorflow**
