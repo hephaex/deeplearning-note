@@ -20,8 +20,6 @@ The analysis of the human brain is a central goal of neuroscience. However, for 
 
 http://sciencemission.com/site/index.php?page=news&type=view&id=technology%2Fconnectomic-comparison&filter=8%2C9%2C10%2C11%2C12%2C13%2C14%2C16%2C17%2C18%2C19%2C20%2C27
 ## I-cloth
-
-
 https://min-tang.github.io/home/ICloth/
 
 ## dreamerv2
