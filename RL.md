@@ -1,6 +1,10 @@
 ## RL (reinforce learning)
 * dream cv2 https://github.com/danijar/dreamerv2
 
+## Evidence of a predictive coding hierarchy in the human brain listening to speech 
+https://www.nature.com/articles/s41562-022-01516-2
+이 논문에 의하면 인간 뇌가 언어를 생성하는 방식과 트랜스포머 모델이 언어를 생성하는 방식이 큰 틀에선 비슷하지만 구체적으로는 다르다는 것이다.
+인간의 뇌는 언어를 생성할 때 단순히 바로 다음에 올 단어를 순차적으로 예측하는 게 아니라 멀찍이는 좀 더 추상적인 의미론적인 개념을 예측하고 가까이는 개별 단어를 예측하는 식으로 계층적인 예측을 하는 식으로 작동한다는 것이다.
 
 ## VPT 
 Blog: https://openai.com/blog/vpt/
