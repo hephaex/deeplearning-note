@@ -37,7 +37,6 @@ Project: https://jitengmu.github.io/CoordGAN/
 * [Frameworks & Libraries](#electric_plug-frameworks--libraries-descending-order-based-on-github-stars)
 ---
 ### In The Latest AI Research, CMU And Adobe Researchers Propose An Elegant Emsembling Mechanism For GAN Training That Improves FID by 1.5x to 2x On The Given Dataset
-Quick Read: https://www.marktechpost.com/.../in-the-latest-ai.../
 Paper: https://arxiv.org/pdf/2112.09130.pdf
 Github: https://github.com/nupurkmr9/vision-aided-gan
 Project: https://www.cs.cmu.edu/~vision-aided-gan/
