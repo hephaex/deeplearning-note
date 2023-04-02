@@ -2,6 +2,7 @@
 
 --- 
 
+
 ## A curated, quasi-exhaustive list of state-of-the-art publications and resources about Generative Adversarial Networks (GANs) and their applications.
 
 ### Background
