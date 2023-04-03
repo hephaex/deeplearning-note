@@ -173,5 +173,3 @@ CPU의 이용 플래그 표
         return false;
     }
 ```
-
-Translated with www.DeepL.com/Translator (free version)
