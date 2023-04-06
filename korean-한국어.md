@@ -14,6 +14,9 @@
       - ChangWookJun / @changwookjun (changwookjun@gmail.com)  
       - Taekyoon  / @taekyoon (tgchoi03@gmail.com)  
       - JungHyun Cho  / @JungHyunCho (reniew2@gmail.com)  
+## 트위터의 추천 알고리즘
+https://github.com/twitter/the-algorithm
+
 
 ## 송영숙님 쳇봇 데이터
   - songys/Chatbot_data (https://github.com/songys/Chatbot_data)
