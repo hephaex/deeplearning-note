@@ -4,6 +4,11 @@
 대규모의 일반적인 텍스트 데이터에 사전 학습된 이른바 파운데이션 모델을 특정 도메인의 데이터로 파인튜닝해서 사용하는 방법이 일종의 표준이 된 것에 반하는 연구 결과입니다. 
 논문 https://arxiv.org/abs/2302.08091
 
+## Towards Healthy AI: Large Language Models Need Therapists Too
+
+이 논문에서는 AI 챗봇의 유해한 행동을 수정하고 인간의 가치에 부합하도록 개선하기 위해 심리치료를 통합하는 SafeguardGPT 프레임워크를 제안하고, 소셜 대화를 시뮬레이션하는 작업 사례를 통해 그 효과를 입증합니다.
+PDF: https://arxiv.org/pdf/2304.00416.pdf
+
 ## OpenAi's GPT-2
  - 345m 짜리 모델을 공개
  - 762m, 1.5b는 일부에게 공개
