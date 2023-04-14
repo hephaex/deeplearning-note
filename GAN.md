@@ -10,6 +10,7 @@
  This repository aims at presenting an elaborate list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.
 ---
 
+
 ##  InstructPix2Pix by University of California, Berkeley Learning to Follow Image Editing Instructions.
 Code https://huggingface.co/timbrooks/instruct-pix2pix#example
 Project https://www.timothybrooks.com/instruct-pix2pix/
@@ -365,7 +366,6 @@ S/N|Paper|Year|Citations
 - Learning Deep Generative Models by Russ Salakhutdinov [[pdf]](http://www.cs.toronto.edu/~rsalakhu/talk_Montreal_2016_Salakhutdinov.pdf) 	
 
 ----------
-
 ### :books: Courses / Tutorials / Blogs (Webpages unless other is stated)
 - NIPS 2016 Tutorial: Generative Adversarial Networks (2016) [[pdf]](https://arxiv.org/pdf/1701.00160.pdf)
 - [How to Train a GAN? Tips and tricks to make GANs work](https://github.com/soumith/ganhacks)
@@ -376,7 +376,6 @@ S/N|Paper|Year|Citations
 - [On the intuition behind deep learning & GANs—towards a fundamental understanding](https://blog.waya.ai/introduction-to-gans-a-boxing-match-b-w-neural-nets-b4e5319cc935)
 - [SimGANs - a game changer in unsupervised learning, self driving cars, and more](https://blog.waya.ai/simgans-applied-to-autonomous-driving-5a8c6676e36b)
 ----------
-
 
 ### :package: Resources / Models (Descending order based on GitHub stars)
 |S/N|Name|Repo|Stars
