@@ -19,6 +19,9 @@ model = tf.keras.models.Sequential([
 ```
 
 ## Alex net
+AlexNet은 2012년 인공지능 이미지 인식 대회에서 우승한 모델입니다. 4번째 AI의 봄, 딥러닝의 시작인 모델입니다. 현재 AI 붐/딥러닝 붐의 시발점이 된 모델이다.
+[AlexNet-CNN[(https://www.researchgate.net/figure/An-illustration-of-the-architecture-of-AlexNet-CNN-14_fig4_312188377)
+
 ```py
 def alexet(input_shape=(227, 227, 3), num_classes=1000):
     model = models.Sequential()
