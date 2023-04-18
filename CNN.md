@@ -1,6 +1,25 @@
+CNN을 tensorflow로 구현한 것을 정리합니다. 
 
-# Alex net
-'''python
+# CNN
+## CNN이란
+　CNN은 주로 이미지 인식이나 이미지 분류 등의 작업에 사용되는 신경망을 말합니다. 회귀층과 풀링층, 전결합층이라는 층을 가지고 있는 것이 특징입니다.
+　Convolutional Neural Network의 약자로, 우리말로는 컨볼루션 신경망이라고 한다.
+ 
+## CNN 구현
+tensorflow에 Conv2D가 있으므로 이를 사용한다.
+```py
+import tensorflow as tf
+
+model = tf.keras.models.Sequential([
+  tf.keras.layers.Conv2D(32, (3,3), activation='relu', input_shape=(28,28,1)),
+  tf.keras.layers.MaxPooling2D((2,2)),
+  tf.keras.layers.Flatten(),
+  tf.keras.layers.Dense(10, activation='softmax')
+])
+```
+
+## Alex net
+```py
 def alexet(input_shape=(227, 227, 3), num_classes=1000):
     model = models.Sequential()
 
@@ -30,5 +49,5 @@ def alexet(input_shape=(227, 227, 3), num_classes=1000):
     model.add(layers.Dense(num_classes, activation='softmax'))
 
     return model
-    '''
+```
     
