@@ -133,3 +133,15 @@ def identity_block(input_tensor, kernel_size, filters):
 
     return x
 ```
+
+# EfficientNet
+구글이 개발한 CNN으ㄹ 모델 최적화를 통해 계산 효율과 높은 정확도를 동시에 구현했다.
+
+```py
+import tensorflow as tf
+from tensorflow.keras.applications import EfficientNetB0
+
+model = EfficientNetB0(weights='imagenet')
+
+model.summary()
+```
