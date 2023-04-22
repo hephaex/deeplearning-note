@@ -10,7 +10,6 @@
  This repository aims at presenting an elaborate list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.
 ---
 
-
 ##  InstructPix2Pix by University of California, Berkeley Learning to Follow Image Editing Instructions.
 Code https://huggingface.co/timbrooks/instruct-pix2pix#example
 Project https://www.timothybrooks.com/instruct-pix2pix/
