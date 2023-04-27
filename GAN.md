@@ -13,7 +13,6 @@
 Code https://huggingface.co/timbrooks/instruct-pix2pix#example
 Project https://www.timothybrooks.com/instruct-pix2pix/
 For more: https://www.linkedin.com/in/ibrahim-sobh-phd-8681757/
-
 ### :link: Contents
 * [ Desnapify](Desnapify is a deep convolutional generative adversarial network (DCGAN) trained to remove Snapchat filters from selfie images.GitHub by Inderpreet Singh: https://github.com/ipsingh06/ml-desnapify)
 
