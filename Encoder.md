@@ -1,3 +1,5 @@
+# Encoder
+
 ## A Slot-Based Autoencoder Architecture, Called SLot Attention TransformEr (SLATE)
 Rutgers University’s AI Researchers Propose 
 Github: https://github.com/singhgautam/slate
