@@ -7,7 +7,6 @@
  One of the most promising approaches of those models are Generative Adversarial Networks (GANs), a branch of unsupervised machine learning implemented by a system of two neural networks competing against each other in a zero-sum game framework. 
  They were first introduced by Ian Goodfellow et al. in 2014. 
  This repository aims at presenting an elaborate list of the state-of-the-art works on the field of Generative Adversarial Networks since their introduction in 2014.
- 
 ---
 ##  InstructPix2Pix by University of California, Berkeley Learning to Follow Image Editing Instructions.
 Code https://huggingface.co/timbrooks/instruct-pix2pix#example
