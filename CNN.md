@@ -1,6 +1,5 @@
-CNN을 tensorflow로 구현한 것을 정리합니다. 
-
 # Convolutional Neural Network,CNN
+CNN을 tensorflow로 구현한 것을 정리합니다. 
 
 ## CNN이란
 　CNN은 주로 이미지 인식이나 이미지 분류 등의 작업에 사용되는 신경망을 말합니다. 회귀층과 풀링층, 전결합층이라는 층을 가지고 있는 것이 특징입니다.
