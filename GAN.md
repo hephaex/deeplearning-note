@@ -1,6 +1,16 @@
 # Delving deep into Generative Adversarial Networks (GANs) 	
 
 ---
+
+## music gan
+MusicGen: Simple and Controllable Music Generation (Meta, 2023.6)
+text-to-music, by Meta(facebook) 
+paper: https://arxiv.org/abs/2306.05284
+demo : https://ai.honu.io/papers/musicgen/
+github : https://github.com/facebookresearch/audiocraft
+(DeepL 번역)
+조건부 음악 생성이라는 과제를 해결합니다. 압축된 이산 음악 표현, 즉 토큰의 여러 스트림에서 작동하는 단일 언어 모델(LM)인 MusicGen을 소개합니다. 이전 작업과 달리 MusicGen은 효율적인 토큰 인터리빙 패턴과 함께 단일 단계 트랜스포머 LM으로 구성되므로 계층적 또는 업샘플링과 같은 여러 모델을 캐스케이딩할 필요가 없습니다. 이러한 접근 방식에 따라, 뮤직젠이 텍스트 설명이나 멜로디 특징에 따라 고품질 샘플을 생성하는 동시에 생성된 출력을 더 잘 제어할 수 있는 방법을 시연합니다. 자동 및 인간 연구를 모두 고려한 광범위한 경험적 평가를 수행하여 제안된 접근 방식이 표준 텍스트-음악 벤치마크에서 평가된 기준선보다 우수하다는 것을 보여줍니다. 절제 연구를 통해 뮤직젠을 구성하는 각 구성 요소의 중요성을 조명합니다. 음악 샘플은 보충 자료에서 확인할 수 있습니다.
+
 ## A curated, quasi-exhaustive list of state-of-the-art publications and resources about Generative Adversarial Networks (GANs) and their applications.
 ### Background
  Generative models are models that can learn to create data that is similar to data that we give them. 
