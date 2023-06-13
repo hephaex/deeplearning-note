@@ -8,6 +8,8 @@
 
 이 논문에서는 AI 챗봇의 유해한 행동을 수정하고 인간의 가치에 부합하도록 개선하기 위해 심리치료를 통합하는 SafeguardGPT 프레임워크를 제안하고, 소셜 대화를 시뮬레이션하는 작업 사례를 통해 그 효과를 입증합니다.
 PDF: https://arxiv.org/pdf/2304.00416.pdf
+## Segment Anything: 
+https://arxiv.org/abs/2304.02643
 
 ## OpenAi's GPT-2
  - 345m 짜리 모델을 공개
