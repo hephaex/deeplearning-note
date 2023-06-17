@@ -1,7 +1,6 @@
 # Delving deep into Generative Adversarial Networks (GANs) 	
 
 ---
-
 ## music gan
 MusicGen: Simple and Controllable Music Generation (Meta, 2023.6)
 text-to-music, by Meta(facebook) 
