@@ -1,4 +1,8 @@
 
+## BLIB-2
+BLIP-2: Scalable Pre-training of Multimodal Foundation Models for the World's First Open-source Multimodal Chatbot Dummy post
+https://github.com/salesforce/LAVIS
+
 ## Application Domains of Time Series Transformers
 
 ### Transformers in Forecasting
