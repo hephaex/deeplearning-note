@@ -4,8 +4,6 @@
  - [The 20BN-something-something Dataset](https://20bn.com/datasets/something-something/v2?fbclid=IwAR1tqL9dkZer-tlPSor2myI-4KLsvdOqTjuNQUGrjL7iIHMCUq-Mfxhda5w)
  - link https://korquad.github.io/
  - SQuAD(Stanford Question Answering Dataset)는 자연어처리 데이터셋으로 '컨텍스트/질문/대답'으로 이루어져 있습니다.
-   - 컨텍스트와 질문이 하나의 입력으로 들어가면 컨텍스트에서 질문에 대한 대답을 찾아 출력하도록 학습합니다. 
-   - 예를 들어, 다음과 같습니다.
 
 ### 컨텍스트
 ```text
