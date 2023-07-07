@@ -5,9 +5,10 @@
 - 논문 https://arxiv.org/abs/2302.08091
 
 ## LEDITS: Real Image Editing with DDPM Inversion and Semantic Guidance (23.7, HuggingFace)
-이미지에서 텍스트로 특정 물체를 추가 및 삭제하거나 스타일을 바꾸는 편집  
+이미지에서 텍스트로 특정 물체를 추가 및 삭제하거나 스타일을 바꾸
+
 첫번째 첨부 이미지는 직접 데모에서 해본 것, 원본 얼굴 이미지 넣고, "glasses" 와 "painting" 추가해 본 후 결과
-(수정 추가) 두번째 첨부 이미지는 권투 인물 사진 넣고 "Elon Musk" face 입력 결과. 이게 되네요. 
+(수정 추가) 두번째 첨부 이미지는 권투 인물 사진 넣고 "Elon Musk" face 입력 결과.  
 세번째 첨부 이미지는 논문에 있는 이미지
 paper: https://arxiv.org/abs/2307.00522
 project: https://editing-images-project.hf.space/index.html
