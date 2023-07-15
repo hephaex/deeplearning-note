@@ -13,7 +13,7 @@ DragGAN 에 이어 이를 Diffusion 모델에도 적용한 DragDiffusion 이 나
 - github : https://github.com/XingangPan/DragGAN
 
 ## MusicGen: Simple and Controllable Music Generation (Meta, 2023.6)
-text-to-music, by Meta(facebook) 
+- text-to-music, by Meta(facebook) 
  - paper: https://arxiv.org/abs/2306.05284
  - github : https://github.com/facebookresearch/audiocraft
 
