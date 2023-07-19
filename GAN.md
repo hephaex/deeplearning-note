@@ -3,7 +3,6 @@
 ---
 ## DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing
 DragGAN 에 이어 이를 Diffusion 모델에도 적용한 DragDiffusion 이 나왔습니다. DragGAN과 마찬가지로 이미지의 한 점을 움직이는 방식으로 생성 이미지의 편집이 가능합니다.
-
 - 논문 https://arxiv.org/abs//2306.14435
 
 ```초록
