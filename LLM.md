@@ -1,3 +1,9 @@
+## TokenFlow: Consistent Diffusion Features for Consistent Video Editing (23.7, Weizmann institute of science)
+일관된 비디오 편집을 위한 일관된 확산(Diffusion) 기능
+project : https://diffusion-tokenflow.github.io/
+paper: https://arxiv.org/abs/2307.10373
+code : https://github.com/omerbt/TokenFlow (comming soon)
+(deepl번역) 제너레이티브 AI 혁명은 최근 동영상으로 확장되고 있습니다. 그럼에도 불구하고 현재의 최첨단 비디오 모델은 시각적 품질과 생성된 콘텐츠에 대한 사용자 제어 측면에서 이미지 모델에 비해 여전히 뒤쳐져 있습니다. 이 연구에서는 텍스트 기반 비디오 편집 작업을 위해 텍스트-이미지 확산 모델의 힘을 활용하는 프레임워크를 제시합니다. 구체적으로, 소스 비디오와 타겟 텍스트 프롬프트가 주어지면 입력 비디오의 공간 레이아웃과 모션을 유지하면서 타겟 텍스트에 맞는 고품질 비디오를 생성하는 방법을 제시합니다. 이 방법은 확산 특징 공간에 일관성을 적용함으로써 편집된 비디오의 일관성을 얻을 수 있다는 핵심 관찰에 기반합니다. 모델에서 쉽게 사용할 수 있는 프레임 간 대응을 기반으로 확산 특징을 명시적으로 전파함으로써 이를 달성합니다. 따라서 프레임워크는 별도의 교육이나 미세 조정이 필요하지 않으며, 기성 텍스트-이미지 편집 방법과 함께 사용할 수 있습니다. 다양한 실제 동영상에 대한 최첨단 편집 결과를 시연합니다.
 
 ## HyperDreamBooth: HyperNetworks for Fast Personalization of Text-to-Image Models (23.7,  google)
 
