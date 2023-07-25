@@ -1,9 +1,12 @@
 ## FABRIC: Personalizing Diffusion Models with Iterative Feedback (23.7, ETH Zürich, Switzerland)
 디퓨전 이미지 생성에서 훈련없이 사용자의 피드백(좋아요,싫어요)으로 출력 결과를 원하는 방향으로 조정 가능
-아래 실제 실행해본 결과 그림 참조, 1. Image Gen. -> 2. Result Images Like/Unlike check -> 3. Re-Gen.(same prompt) -> 4. liked style Imgaes Gen.
-Paper: https://arxiv.org/abs/2307.10159
-Project: https://sd-fabric.github.io
-code: https://github.com/sd-fabric/fabric
+1. Image Gen. ->
+2. Result Images Like/Unlike check ->
+3. Re-Gen.(same prompt) ->
+4. liked style Imgaes Gen.
+- Paper: https://arxiv.org/abs/2307.10159
+- Project: https://sd-fabric.github.io
+- code: https://github.com/sd-fabric/fabric
 (deepl 번역) 이 연구에서는 사용자 경험과 출력 품질을 향상시키기 위해 반복적인 인간 피드백을 확산 기반 텍스트-이미지 모델에 통합하는 방법을 살펴봅니다. 광범위한 확산 모델에 적용할 수 있는 피드백 이미지 세트에 대한 확산 프로세스를 조건화하는 훈련이 필요 없는 접근 방식인 FABRIC(주의 기반 참조 이미지 컨디셔닝을 통한 피드백)을 소개합니다. 이 접근법을 엄격하게 평가하기 위한 포괄적인 평가 방법론을 제안하고, 여러 차례의 반복적인 피드백을 통해 생성 결과가 개선되어 사용자 선호도를 최적화한다는 사실을 입증합니다. 이 연구는 개인화된 콘텐츠 제작 및 커스터마이징에 잠재적으로 적용되어 텍스트-이미지 생성 연구의 발전에 기여할 수 있습니다.
 
 ## TokenFlow: Consistent Diffusion Features for Consistent Video Editing (23.7, Weizmann institute of science)
