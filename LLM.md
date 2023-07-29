@@ -1,3 +1,37 @@
+## SDXL 1.0 
+
+Stability AI 팀은 텍스트-이미지 생성 모델의 진화에서 다음 반복인 개방형 모델 SDXL 1.0으로 출시하게 된 것을 자랑스럽게 생각합니다. SDXL 0.9의 제한된 연구 전용 릴리스에 이어 SDXL의 정식 버전은 세계 최고의 개방형 이미지 생성 모델로 개선되었습니다.
+-Stability AI의 최고의 이미지 모델
+SDXL은 거의 모든 아트 스타일에서 고품질의 이미지를 생성하며 포토리얼리즘을 위한 최고의 오픈 모델입니다. 모델에 특정한 '느낌'을 부여하지 않고도 뚜렷한 이미지를 구현할 수 있어 스타일에 대한 절대적인 자유를 보장합니다. 특히 SDXL 1.0은 기본 1024x1024 해상도에서 이전 버전보다 더 나은 콘트라스트, 조명 및 그림자를 통해 생생하고 정확한 색상을 구현하도록 잘 조정되어 있습니다.
+또한 SDXL은 손과 텍스트 또는 공간적으로 배치된 구도(예: 전경의 개를 쫓는 배경의 여성)와 같이 이미지 모델로 렌더링하기 어려운 컨셉을 생성할 수 있습니다.
+-도전적인 컨셉과 스타일을 위한 더 나은 아트워크
+SDXL은 복잡하고 디테일하며 미학적으로 만족스러운 이미지를 몇 마디만 입력하면 만들 수 있습니다. 사용자는 더 이상 고품질 이미지를 얻기 위해 '걸작'과 같은 한정어를 호출할 필요가 없습니다. 또한 SDXL은 '붉은 광장'(유명한 장소)과 '붉은 사각형'(도형)과 같은 개념 간의 차이점을 이해할 수 있습니다.
+-더 간단한 언어로 지능화
+SDXL은 복잡하고 디테일하며 미학적으로 만족스러운 이미지를 몇 마디만 입력하면 만들 수 있습니다. 사용자는 더 이상 고품질 이미지를 얻기 위해 '걸작'과 같은 한정어를 호출할 필요가 없습니다. 또한 SDXL은 '붉은 광장'(유명한 장소)과 '붉은 사각형'(도형)과 같은 개념 간의 차이점을 이해할 수 있습니다.
+-가장 큰 오픈 이미지 모델
+SDXL 1.0은 35억 개의 파라미터 기본 모델과 66억 개의 파라미터 리파이너로 구성된 혁신적인 새 아키텍처를 기반으로 구축되어 오픈 액세스 이미지 모델 중 가장 많은 파라미터 수를 보유하고 있습니다. 전체 모델은 잠재적 확산을 위한 전문가 혼합 파이프라인으로 구성됩니다: 첫 번째 단계에서는 기본 모델이 (노이즈가 있는) 잠상을 생성한 다음 최종 노이즈 제거 단계에 특화된 정제 모델을 사용하여 추가로 처리합니다. 기본 모델은 독립형 모듈로도 사용할 수 있습니다. 이 2단계 아키텍처는 속도 저하나 과도한 컴퓨팅 리소스를 요구하지 않으면서도 강력한 이미지 생성을 가능하게 합니다. SDXL 1.0은 8GB VRAM이 탑재된 소비자용 GPU 또는 즉시 사용 가능한 클라우드 인스턴스에서 효과적으로 작동합니다.
+-미세 조정 및 고급 제어
+SDXL 1.0을 사용하면 사용자 지정 데이터에 맞게 모델을 미세 조정하는 것이 그 어느 때보다 쉬워집니다. 데이터 랭글링 없이도 사용자 지정 LoRA 또는 체크포인트를 생성할 수 있습니다. Stability AI 팀은 SDXL에 특화된 T2I / ControlNet을 통해 차세대 작업별 구조, 스타일 및 구성 제어를 구축하고 있습니다. 이러한 기능은 현재 베타 프리뷰 버전이지만 미세 조정에 대한 업데이트를 계속 지켜봐 주시기 바랍니다.
+SDXL의 이미지 제어 기능은 곧 출시될 예정입니다.
+
+Get started with SDXL
+There are several ways to get started with SDXL 1.0:
+-SDXL 1.0 is live on Clipdrop. Follow this link.
+-The weights of SDXL 1.0 and the associated source code have been released on the Stability AI GitHub page.
+https://github.com/Stability-AI/generative-models
+-SDXL 1.0 is also being released for API on the Stability AI Platform.
+-SDXL 1.0 is available on AWS Sagemaker and AWS Bedrock.
+-The Stable Foundation Discord is open for live testing of SDXL models.
+-DreamStudio has SDXL 1.0 available for image generation as well.
+
+https://stability.ai/.../stable-diffusion-sdxl-1...
+
+추가 : 바로 다운로드 받을 수 있는 곳
+SDXL 1.0 base
+https://huggingface.co/stabi.../stable-diffusion-xl-base-1.0
+SDXL 1.0 refiner
+https://huggingface.co/.../stable-diffusion-xl-refiner-1.0
+
 ## FABRIC: Personalizing Diffusion Models with Iterative Feedback (23.7, ETH Zürich, Switzerland)
 디퓨전 이미지 생성에서 훈련없이 사용자의 피드백(좋아요,싫어요)으로 출력 결과를 원하는 방향으로 조정 가능
 1. Image Gen. ->
