@@ -15,7 +15,7 @@ SDXL 1.0은 35억 개의 파라미터 기본 모델과 66억 개의 파라미터
 SDXL 1.0을 사용하면 사용자 지정 데이터에 맞게 모델을 미세 조정하는 것이 그 어느 때보다 쉬워집니다. 데이터 랭글링 없이도 사용자 지정 LoRA 또는 체크포인트를 생성할 수 있습니다. Stability AI 팀은 SDXL에 특화된 T2I / ControlNet을 통해 차세대 작업별 구조, 스타일 및 구성 제어를 구축하고 있습니다. 이러한 기능은 현재 베타 프리뷰 버전이지만 미세 조정에 대한 업데이트를 계속 지켜봐 주시기 바랍니다.
 SDXL의 이미지 제어 기능은 곧 출시될 예정입니다.
 
-Get started with SDXL
+### Get started with SDXL
 There are several ways to get started with SDXL 1.0:
 -SDXL 1.0 is live on Clipdrop. Follow this link.
 -The weights of SDXL 1.0 and the associated source code have been released on the Stability AI GitHub page.
