@@ -58,7 +58,6 @@ https://huggingface.co/.../stable-diffusion-xl-refiner-1.0
 따라서 프레임워크는 별도의 교육이나 미세 조정이 필요하지 않으며, 기성 텍스트-이미지 편집 방법과 함께 사용할 수 있습니다.
 다양한 실제 동영상에 대한 최첨단 편집 결과를 시연합니다.
 ```
-
 - project : https://diffusion-tokenflow.github.io/
 - paper: https://arxiv.org/abs/2307.10373
 - code : https://github.com/omerbt/TokenFlow (comming soon)
