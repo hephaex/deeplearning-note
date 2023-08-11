@@ -1,6 +1,4 @@
 ## StabilityAI 코딩 지원 AI StableCode
-https://stability.ai/.../stablecode-llm-generative-ai-coding
-
 Stability AI가 코딩을 위한 LLM 생성 AI 제품인 StableCode의 출시를 발표했습니다. 
 이 제품은 프로그래머의 일상 업무를 지원하는 동시에 기술을 한 단계 더 발전시킬 준비가 된 신규 개발자에게 훌륭한 학습 도구를 제공하도록 설계되었습니다.
 StableCode는 개발자의 코딩을 돕기 위해 세 가지 모델을 사용하여 개발자의 효율성을 높일 수 있는 독특한 방법을 제공합니다. 
