@@ -1,4 +1,5 @@
 ## StabilityAI 코딩 지원 AI StableCode
+```
 Stability AI가 코딩을 위한 LLM 생성 AI 제품인 StableCode의 출시를 발표했습니다. 
 이 제품은 프로그래머의 일상 업무를 지원하는 동시에 기술을 한 단계 더 발전시킬 준비가 된 신규 개발자에게 훌륭한 학습 도구를 제공하도록 설계되었습니다.
 StableCode는 개발자의 코딩을 돕기 위해 세 가지 모델을 사용하여 개발자의 효율성을 높일 수 있는 독특한 방법을 제공합니다. 
@@ -13,7 +14,7 @@ StableCode는 코딩에 대해 더 많이 배우고 싶은 분들에게 이상�
 Stability AI는 기술의 접근성을 높이는 것을 목표로 하며, StableCode는 이 목표를 향한 중요한 단계입니다. 
 모든 배경을 가진 사람들이 곧 AI를 사용하여 일상적인 문제를 해결하고 삶을 개선하는 코드를 만들 수 있게 될 것이며, 저희는 이를 실현하는 데 도움이 되고자 합니다.
 StableCode를 통해 향후 10억 명의 소프트웨어 개발자가 코딩을 배우는 동시에 전 세계 모든 사람들이 기술에 더 공정하게 접근할 수 있기를 바랍니다.
-
+```
 https://huggingface.co/stabi.../stablecode-instruct-alpha-3b
 
 ## Denoising MCMC for Accelerating Diffusion-Based Generative Models
