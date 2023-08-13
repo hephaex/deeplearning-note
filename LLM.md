@@ -19,9 +19,12 @@ https://huggingface.co/stabi.../stablecode-instruct-alpha-3b
 
 ## Denoising MCMC for Accelerating Diffusion-Based Generative Models
 Conference: ICML 2023 (Oral Paper)
+
 Author: Beomsu Kim (KAIST AI), Jong Chul Ye (KAIST AI)
+```
 한국어 개요: Diffusion model은 높은 퀄리티의 데이터를 생성할 수 있으나 생성 속도가 느리다는 단점이 있다. 본 연구에서는 Markov Chain Monte Carlo와 diffusion model을 합침으로써 생성 데이터의 퀄리티를 보존하며 생성 속도를 비약적으로 높일 수 있음을 보였다. 제안한 방법론을 통해 CIFAR10과 CelebA-HQ-256 데이터 생성에서 SOTA 성능을 달성하였으며, FFHQ-1024와 같은 고화질 이미지 생성 가속도 가능함을 실험적으로 보였다.
 Abstract : The sampling process of diffusion models can be interpreted as solving the reverse stochastic differential equation (SDE) or the ordinary differential equation (ODE) of the diffusion process, which often requires up to thousands of discretization steps to generate a single image. This has sparked a great interest in developing efficient integration techniques for reverse-S/ODEs. Here, we propose an orthogonal approach to accelerating score-based sampling: Denoising MCMC (DMCMC). DMCMC first uses MCMC to produce initialization points for reverse-S/ODE in the product space of data and diffusion time. Then, a reverse-S/ODE integrator is used to denoise the initialization points. Since MCMC traverses close to the data manifold, the cost of producing a clean sample for DMCMC is much less than that of producing a clean sample from noise. Denoising Langevin Gibbs, an instance of DMCMC, successfully accelerates all six reverse-S/ODE integrators considered in this work, and achieves state-of-the-art results: in the limited number of score function evaluation (NFE) setting on CIFAR10, we have 3.25 FID with 10 NFE and 2.49 FID with 16 NFE. On CelebA-HQ-256, we have 6.99 FID with 160 NFE, which beats the current best record of Kim et al. (2022) among score-based models, 7.16 FID with 4000 NFE.
+```
 Slides: https://www.slideshare.net/.../denoising-mcmc-for...
 Code: https://github.com/1202kbs/DMCMC
 Source: https://arxiv.org/abs/2209.14593
