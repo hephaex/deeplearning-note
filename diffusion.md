@@ -12,6 +12,25 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 ## Papers
 ## Image Generation
+## 2022년 8월, Stable Diffusion 발표로 세상을 놀라게 했던 그때로부터 딱 1년 지났네요.
+22년8월10일 Stable Diffusion 런치 발표, 
+22년8월22일 Stable Diffusion 모델 오픈 배포를 시작했습니다.
+이전에 Dall-E 가 있었고 Midjourney 가 막 오픈베타를 시작하긴 했지만 스테이블 디퓨전의 테스트 이미지들이 꽤 놀라움을 주었습니다.
+저도 Dall-E 테스트해 보고 페북에 테스트 이미지 올리기도 했었지만 막대한 비용이 들어가는 이런 LLM 이나 생성모델들이 구글등에서도 오픈하지 않는 상황에서 오픈 모델이 나올지는 생각도 못했읍니다.
+이로부터 채 일주일이 지나지 않아 오픈의 힘으로 많은 곳에서 이를 활용한 것들이 쏟아지기 시작했고 SNS 와 뉴스로 들끓었습니다.
+"Stable Diffusion은 지금까지 나온 것중 가장 중요한 AI Art 모델"
+"Stable Diffusion 공개 1주일만에 벌어진 놀라운 일들"
+"Stability AI, 1억 1천만 달러 투자 유치"
+22년 9월 인공지능 그림 미술전 1위 논란이 터지면서 더욱더 이미지 생성은 화제가 되었습니다. (이 미술전에 사용된 것은 미드저니였습니다)
+오픈된 stable diffusion 을 애니메 이미지들로 파인튜닝한 waifu diffusion 등 파인튜닝 모델들이 나오기 시작하면서 더욱 다양화되고 질 좋은 수정된 수 많은 모델들이 사람들로부터 만들어져 나오기 시작했습니다.
+이후 6개월 동안 기술적으로도 놀랍도록 발전되어 나갔습니다.
+DreamBooth, LoRA, xformers, ControlNet ...
+그러나 2023년 1월에는 무단 이미지 사용 혐의로 소송이 제기되기도 하였습니다.
+또한, 상용 미드저니의 놀라운 버전업과 화질 향상이 이어지는 반면
+stable diffusion 2.0, 2.1 버전이 나왔지만 1.5 보다 크게 향상을 보여주지는 못했고, 사람들 활용도 덜했으며, 기본 모델들보다 오히려 사람들이 파인튜닝한 모델들이 더 많이 활용되었습니다.
+2023년 7월에 고화질용 버전 SDXL 발표로 그동안 상용 미드저니 등에 품질이 떨어진다는 평을 듣던 것에서 다시 도약했다는 말을 듣기 시작했습니다.
+1년만에 놀랍도록 화질이나 기술적 측면에서 발전해 왔습니다.
+2023년에는 Gen-2, Pika Labs, Zeroscope 등 Text-to-Video 과 Text-to-3D 등이 나오면서 아마도 이런 것들을 준비하고 있는 것으로 보이며 추후에 이런 것들이 발표되지 않을까 싶습니다.
 
 **Bilateral Denoising Diffusion Models** \
 *Max W. Y. Lam, Jun Wang, Rongjie Huang, Dan Su, Dong Yu* \
