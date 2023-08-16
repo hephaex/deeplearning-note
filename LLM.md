@@ -1,3 +1,18 @@
+## 엔씨소프트, 자체 LLM VARCO 및 생성 AI VARCO Studio 발표
+출처 : https://ncsoft.github.io/ncresearch/varco-llm/
+
+VARCO LLM
+23년8.16 중형모델 1.3B, 6.4B,13B 오픈, 현재까지 공개된 유사한 크기 한국어 언어 모델보다 최고 성능
+9월 예정 13B 한국어/영어 동시 학습 모델, 페르소나 감정/의도, 내러티브/게임 퀘스트 생성 지원 모델
+11월 예정 52B
+24년3월 예정 100B 멀티모달 텍스트/그림 이해 응답 초거대 모델
+NC자체 인프라 활용 서비스 및 AWS 클라우드 SageMaker 인프라 서비스 제공
+VARCO Studio
+거대 언어모델을 활용하여 생성 AI를 보다 쉽게 활용하기 위한 도
+텍스트 생성 및 관리툴(VARCO Text), 이미지 생성툴(VARCO Art),디지털휴먼 생성 및 편집, 운영툴(VARCO Human) 로 구성
+현재 게임 콘텐츠 개발을 위한 도구로 사용중이며, 향후 일반인들도 사용할 수 있도록 할 예정
+VARCO 소개 설명 동영상 https://youtu.be/sCv4jql5URY
+
 ## StabilityAI 코딩 지원 AI StableCode
 ```
 Stability AI가 코딩을 위한 LLM 생성 AI 제품인 StableCode의 출시를 발표했습니다. 
