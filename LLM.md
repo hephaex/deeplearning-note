@@ -30,7 +30,6 @@ Code: https://github.com/1202kbs/DMCMC
 Source: https://arxiv.org/abs/2209.14593
 
 ## SDXL 1.0 
-
 Stability AI 팀은 텍스트-이미지 생성 모델의 진화에서 다음 반복인 개방형 모델 SDXL 1.0으로 출시하게 된 것을 자랑스럽게 생각합니다. SDXL 0.9의 제한된 연구 전용 릴리스에 이어 SDXL의 정식 버전은 세계 최고의 개방형 이미지 생성 모델로 개선되었습니다.
 
 - Stability AI의 최고의 이미지 모델
