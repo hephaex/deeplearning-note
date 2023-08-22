@@ -41,6 +41,7 @@ GitHub by Inderpreet Singh: https://github.com/ipsingh06/ml-desnapify
 Paper: https://arxiv.org/pdf/2203.16521.pdf
 Project: https://jitengmu.github.io/CoordGAN/
 
+
 #artificialintelligence #deeplearning #generativeadversarialnetworks #machinelearning #technology
 * [Opening Publication](#pushpin-opening-publication)
 * [Latest paper from Ian Goodfellow](#fire-latest-paper-from-ian-goodfellow)
