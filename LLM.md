@@ -6,11 +6,15 @@ OpenAI의 Whisper 성능을 앞서 최첨단 최고(state-of-the-art) 달성.
 - 101 languages for speech input.
 - 96 Languages for text input/output.
 - 35 languages for speech output.
+- 
 소개 : https://ai.meta.com/blog/seamless-m4t/
       https://ai.meta.com/resources/models-and-libraries/seamless-communication/
+  
 논문 : https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf
+
 데모 : https://seamless.metademolab.com/
       https://huggingface.co/spaces/facebook/seamless_m4t
+  
 github : https://github.com/facebookresearch/seamless_communication
 
 
