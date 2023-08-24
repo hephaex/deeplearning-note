@@ -1,3 +1,11 @@
+## VideoComposer: Compositional Video Synthesis with Motion Controllability (2306, Alibaba/Ant) 
+중국 알리바바(modelscope)  Image to video , video to video 
+논문 : https://arxiv.org/abs/2306.02018
+사이트 : https://modelscope.cn/models/damo/Image-to-Video/summary
+           https://modelscope.cn/models/damo/Video-to-Video/summary
+(내용:번역) 시각적 콘텐츠 제작의 높은 기준으로 제어 가능성을 추구하면서 맞춤형 이미지 합성 분야에서 괄목할 만한 발전이 이루어졌습니다. 그러나 제어 가능한 비디오 합성을 달성하는 것은 시간적 역동성의 큰 변화와 프레임 간 시간적 일관성의 요구 사항으로 인해 여전히 어려운 과제입니다. 본 연구에서는 합성 생성 패러다임에 기반하여 텍스트 조건, 공간 조건, 더 나아가 시간적 조건에 따라 유연하게 영상을 합성할 수 있는 비디오 컴포저(VideoComposer)를 제시합니다. 특히, 비디오 데이터의 특성을 고려하여 압축된 비디오의 모션 벡터를 명시적 제어 신호로 도입하여 시간적 동역학에 대한 가이드를 제공합니다. 또한 순차적 입력의 공간적, 시간적 관계를 효과적으로 통합하기 위한 통합 인터페이스 역할을 하는 시공간 조건 인코더(STC-encoder)를 개발하여 모델이 시간적 조건을 더 잘 활용하고 프레임 간 일관성을 높일 수 있도록 합니다. 광범위한 실험 결과에 따르면 VideoComposer는 텍스트 설명, 스케치 시퀀스, 참조 비디오 또는 단순히 손으로 만든 모션과 같은 다양한 형태로 합성된 비디오 내에서 공간 및 시간 패턴을 동시에 제어할 수 있는 것으로 나타났습니다.
+*이제 중국 알리바바는 text to image Zeroscope 에 이어 image to video, video to video 모두 갖추게 되었네요
+
 ## Meta, SeamlessM4T : 최초, 올인원, 음성/텍스트 multimodal 번역 모델
 최첨단 최고(state-of-the-art) 결과물로 이전 시스템의 한계를 극복하는 음성/텍스트 번역 및 트랜스크립션 모델.
 여러 언어간 교차 speech-to-text, speech-to-speech, text-to-speech, text-to-text, and speech recognition.  (예:영어 음성을 러시아 텍스트로, 영어 음성을 러시아 음성으로, 영어 텍스트를 러시아 음성으로, 영어 텍스트를 러시아 텍스트로...).
