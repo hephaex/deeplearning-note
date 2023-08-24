@@ -2,14 +2,15 @@
 최첨단 최고(state-of-the-art) 결과물로 이전 시스템의 한계를 극복하는 음성/텍스트 번역 및 트랜스크립션 모델.
 여러 언어간 교차 speech-to-text, speech-to-speech, text-to-speech, text-to-text, and speech recognition.  (예:영어 음성을 러시아 텍스트로, 영어 음성을 러시아 음성으로, 영어 텍스트를 러시아 음성으로, 영어 텍스트를 러시아 텍스트로...).
 OpenAI의 Whisper 성능을 앞서 최첨단 최고(state-of-the-art) 달성.
-📥 101 languages for speech input.
-⌨️ 96 Languages for text input/output.
-🗣️ 35 languages for speech output.
+
+- 101 languages for speech input.
+- 96 Languages for text input/output.
+- 35 languages for speech output.
 소개 : https://ai.meta.com/blog/seamless-m4t/
-        https://ai.meta.com/resources/models-and-libraries/seamless-communication/
+      https://ai.meta.com/resources/models-and-libraries/seamless-communication/
 논문 : https://dl.fbaipublicfiles.com/seamless/seamless_m4t_paper.pdf
 데모 : https://seamless.metademolab.com/
-        https://huggingface.co/spaces/facebook/seamless_m4t
+      https://huggingface.co/spaces/facebook/seamless_m4t
 github : https://github.com/facebookresearch/seamless_communication
 
 
