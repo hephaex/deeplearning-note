@@ -12,6 +12,12 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 ## Papers
 ## Image Generation
+## 많은 분들이 기다리시던 저희 #NAVER #AI_Lab 의 새로운  diffusion 기반의 controllable Text-to-Image 모델 DenseDiffusion 논문과 소스코드가 공개되었습니다. 이 연구는 AI Lab 생성모델팀 김윤지님이 주저자로, 이지영님, 김진화 님, 저 그리고 CycleGAN으로 유명한 생성모델분야 글로벌 최고 연구자 중 1명인 CMU의 Jun-Yan Zhu 교수가 함께 코웍한 연구로 오는 10월 파리에서 열리는 #ICCV23 에서 발표합니다.
+추가적인 훈련에 대한 오버헤드 없이 attention moderation 만으로 컨트롤이 강화되고 구체적으로 묘사된 의미의 텍스트 입력도 더욱 정확하게 이미지를 편집가능하므로 많은 분들이 활용해보시면 좋을 것 같네요.
+덧으로 Jun-Yan은 학회 제출때는 물론이고 Cam-ready version의 논문 퀄리티 향상을 위해 끝까지 정말 꼼꼼하게 코멘트하고 수정하는 모습을 보여주어 왜 최고의 연구자인지 다시한번 깨닫게 해주었네요 ㅎㅎ
+논문:   https://arxiv.org/abs/2308.12964
+github: https://github.com/naver-ai/DenseDiffusion
+
 ## 2022년 8월, Stable Diffusion 발표로 세상을 놀라게 했던 그때로부터 딱 1년 지났네요.
 22년8월10일 Stable Diffusion 런치 발표, 
 22년8월22일 Stable Diffusion 모델 오픈 배포를 시작했습니다.
