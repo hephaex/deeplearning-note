@@ -145,3 +145,11 @@ model = EfficientNetB0(weights='imagenet')
 
 model.summary()
 ```
+
+## Nougat: Neural Optical Understanding for Academic Documents (2308, Meta)
+메타, 과학 문서를 마크업 언어로 처리하기 위해 광학 문자 인식(OCR) 작업을 수행하는 시각적 변환기 모델인 Nougat(학술 문서를 위한 신경 광학 이해)
+프로젝트 : https://facebookresearch.github.io/nougat/
+논문 : https://arxiv.org/abs/2308.13418
+코드 : https://github.com/facebookresearch/nougat
+데모 : https://huggingface.co/spaces/ysharma/nougat 
+(내용:번역) 과학 지식은 주로 책과 과학 저널에 저장되며, 종종 PDF 형식으로 저장됩니다. 그러나 PDF 형식은 특히 수학적 표현의 경우 의미 정보가 손실되는 문제가 있습니다. 본 논문에서는 과학 문서를 마크업 언어로 처리하기 위해 광학 문자 인식(OCR) 작업을 수행하는 시각적 변환기 모델인 Nougat(학술 문서를 위한 신경 광학 이해)를 제안하고, 새로운 과학 문서 데이터 세트에 대한 모델의 효과를 입증합니다. 제안된 접근 방식은 사람이 읽을 수 있는 문서와 기계가 읽을 수 있는 텍스트 사이의 격차를 해소함으로써 디지털 시대에 과학 지식의 접근성을 향상시킬 수 있는 유망한 솔루션을 제공합니다. 과학 텍스트 인식에 대한 향후 작업을 가속화하기 위해 모델과 코드를 공개합니다.
