@@ -5,6 +5,19 @@
  Computational Imaging systems cover a broad range of applications include computational microscopy,[1] tomographic imaging, MRI, ultrasound imaging, computational photography, Synthetic Aperture Radar (SAR), seismic imaging etc. 
  The integration of the sensing and the computation in computational imaging systems allows for accessing information which was otherwise not possible.
 
+## 오브젝트 검출 모델은 주로 「Backbone」(모델의 기초가 되는 부분), 「Neck」(Backbone에서 추출된 특징을 고도로 변환하는 부분), 그리고 「Head」(물체의 카테고리나 위치를 구체적으로 결정하는 부분)의 세 부분으로 이루어져 있습니다.
+현재 모델에는 Neck 부분에서 정보를 성공적으로 통합할 수 없다는 문제가 있습니다. 특히 서로 다른 '계층'의 정보를 통합할 때 정보 손실이 발생하는 문제가 있다.
+이 문제를 해결하는 새로운 방법으로 "Gather-and-Distribute"(GD) 메커니즘이 제안되었습니다. 이 메커니즘은 서로 다른 계층의 정보를 전반적으로 수집하고 높은 계층에 분산함으로써 정보 통합을 효율적으로 실현합니다. 이것은 넥 부분의 성능을 크게 향상시킵니다.
+새로운 물체 검출 아키텍처인 Gold-YOLO는 이 GD 메커니즘을 도입하여 보다 높은 정밀도의 물체 검출을 실현하고 있습니다. 또한 Gold-YOLO는 ImageNet에서 사전 학습을 통해 모델 수렴 속도와 정확도를 크게 향상시킵니다.
+기존의 YOLO 모델과 비교해도 Gold-YOLO는 현저한 정밀도를 자랑합니다. 구체적으로 Gold-YOLO-S는 선행 연구의 YOLOv6-3.0-S보다 높은 AP(Average Precision)를 달성했습니다.
+
+5) 이미지와 문장을 “그대로” 입출력할 수 있는 생성 모델 「DreamLLM」 중간 표현 사용하지 않고
+DreamLLM: Synergistic Multimodal Comprehension and Creation : https://dreamllm.github.io/, Xi'an Jiaotong University외 
+"DreamLLM"이라는 새로운 기술은 다른 유사한 기술과 달리 이미지와 텍스트를 그대로 (원시 데이터) 형태로 입력으로 받아 동일한 형식으로 출력합니다. 예를 들어, 유명한 회화 그림과 '이 그림 설명'이라는 지시를 입력하면 DreamLLM은 정확한 설명을 생성할 수 있습니다.
+많은 AI 모델은 데이터(특히 이미지)를 처리할 때 이를 일부 중간 표현으로 변환합니다. 그러나 DreamLLM은 이러한 중간 표현을 만드는 대신 데이터를 원형으로 처리합니다. 이 접근법의 장점은 모델이 데이터의 본질을 보다 직접적으로 파악하고 보다 정밀한 결과를 출력할 가능성이 높다는 점입니다.
+게다가 DreamLLM은 인터넷 기사 등에서 텍스트와 이미지가 복잡하게 결합되어 있는 데이터라도 잘 이해하고 새로운 데이터를 유사한 형식으로 생성할 수 있습니다.
+일반적으로 이러한 복잡한 데이터를 분석하고 생성하는 것은 어렵지만 DreamLLM은 'token'이라는 마크를 사용하여 텍스트에서 이미지가 어디에 배치되어야 하는지 예측합니다.
+DreamLLM은 텍스트와 이미지의 이해 능력으로 높은 평가를 받았습니다. 구체적으로는 MMBench와 MM-Vet이라는 텍스트와 이미지의 조합을 평가하는 테스트로 고득점을 획득하고, MS-COCO라는 이미지 생성의 정확도를 측정하는 테스트에서도 낮은 에러율을 기록하고 있습니다.
 
 ## Nougat: Neural Optical Understanding for Academic Documents (2308, Meta)
 메타 논문. 수식 포함된 PDF -> LaTex/Markdown 문서 변환, 과학 문서를 마크업 언어로 처리하기 위해 광학 문자 인식(OCR) 작업을 수행하는 시각적 변환기 모델. 모델 및 코드도 공개
