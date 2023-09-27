@@ -1,11 +1,13 @@
 ## 2.6조 토큰으로 훈련된 130억 매개변수를 가진 다국어 모델 'Baichuan 2'
-Baichuan 2: Open Large-scale Language Models : https://arxiv.org/abs/2309.10305v2 , Baichuan
+Baichuan 2:
+ - Open Large-scale Language Models : https://arxiv.org/abs/2309.10305v2 , Baichuan
+```
 본 연구에서는 다국어를 지원하는 대규모 언어 모델 Baichuan 2를 소개합니다. Baichuan 2는 7B(70억 매개변수)와 13B(130억 매개변수)의 두 가지 모델을 보유하고 있으며, 전례 없는 규모인 2.6조 토큰에 의해 훈련되고 있다.
 이 대량의 훈련 데이터 덕분에 Baichuan 2는 일반적인 벤치마크 테스트로 이전 버전인 Baichuan 1보다 약 30% 높은 성능을 발휘합니다.
 특히 Baichuan 2는 수학 및 프로그래밍 문제에서도 높은 성능을 보이며 의료 및 법률과 같은 전문 영역에서도 우수한 성적을 달성하고 있습니다. Baichuan 2-7B-Chat과 Baichuan 2-13B-Chat이라는 인간의 지시에 따라 최적화된 채팅 모델도 공개되었습니다. 이러한 모델은 상호 작용과 컨텍스트 이해에 특히 우수합니다.
 이 모델은 공개된 벤치마크 테스트(MMLU, CMMLU, GSM8K, HumanEval 등)에서 같은 규모의 다른 오픈 소스 모델과 비교하여 동등하거나 그 이상의 성능을 보여줍니다. 또한 의료 및 법률 등 전문 분야에서도 높은 성적을 올리고 있습니다.
 이 평가 결과에서 Baichuan 2는 다국어 지원이지만 높은 성능과 광범위한 적용 가능성을 가지고 있음을 확인할 수 있습니다.
-
+```
 ## Dense Text-to-Image Generation with Attention Modulation (2308, naver)
 네이버, 이미지 레이아웃을 만들고 각 해당 영역에 텍스트 프롬프트를 표시하여 이미지 생성
  - (예 background: beach, blue skt,  segment1: girl, segment2: chair)
