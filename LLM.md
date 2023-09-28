@@ -1,3 +1,9 @@
+## LAVIE: HIGH-QUALITY VIDEO GENERATION WITH CASCADED LATENT DIFFUSION MODELS (2309, Shanghai AI Lab, Nanyang Technological University 외)
+
+고품질 텍스트-비디오(T2V, Text-to-Video) 생성 모델를 기본 T2V 모델, 시간 보간 모델, 비디오 초고해상도 모델로 구성된 계단식 비디오 잠복 확산 모델에서 작동하는 통합 비디오 생성 프레임워크 제안, 실험을 통해 LaVie가 양적, 질적으로 최첨단 성능을 달성
+
+project : [https://vchitect.github.io/LaVie-project/](https://vchitect.github.io/LaVie-project/?fbclid=IwAR2_AuNSz7ZqIklzCoNqoS1J2mWqf-E8q3Ox4ybcVyEtZGuVh3EiNOYKPnk)
+
 ## 2.6조 토큰으로 훈련된 130억 매개변수를 가진 다국어 모델 'Baichuan 2'
 Baichuan 2:
  - Open Large-scale Language Models : https://arxiv.org/abs/2309.10305v2 , Baichuan
