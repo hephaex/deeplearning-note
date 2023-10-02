@@ -4,6 +4,8 @@
 
 project : [https://vchitect.github.io/LaVie-project/](https://vchitect.github.io/LaVie-project/?fbclid=IwAR2_AuNSz7ZqIklzCoNqoS1J2mWqf-E8q3Ox4ybcVyEtZGuVh3EiNOYKPnk)
 
+
+
 ## 2.6조 토큰으로 훈련된 130억 매개변수를 가진 다국어 모델 'Baichuan 2'
 Baichuan 2:
  - Open Large-scale Language Models : https://arxiv.org/abs/2309.10305v2 , Baichuan
