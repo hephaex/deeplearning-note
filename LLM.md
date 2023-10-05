@@ -7,8 +7,7 @@ project : [https://vchitect.github.io/LaVie-project/](https://vchitect.github.io
 
 
 ## 2.6조 토큰으로 훈련된 130억 매개변수를 가진 다국어 모델 'Baichuan 2'
-Baichuan 2:
- - Open Large-scale Language Models : https://arxiv.org/abs/2309.10305v2 , Baichuan
+Baichuan 2: Open Large-scale Language Models : https://arxiv.org/abs/2309.10305v2 , Baichuan
 ```
 본 연구에서는 다국어를 지원하는 대규모 언어 모델 Baichuan 2를 소개합니다. Baichuan 2는 7B(70억 매개변수)와 13B(130억 매개변수)의 두 가지 모델을 보유하고 있으며, 전례 없는 규모인 2.6조 토큰에 의해 훈련되고 있다.
 이 대량의 훈련 데이터 덕분에 Baichuan 2는 일반적인 벤치마크 테스트로 이전 버전인 Baichuan 1보다 약 30% 높은 성능을 발휘합니다.
