@@ -7,6 +7,7 @@
 - 논문: https://arxiv.org/pdf/2308.16884.pdf
 - 코드: https://github.com/facebookresearch/belebele
 
-
 ## CVPR 2022 datasets
  - https://cvpr2022.thecvf.com/dataset-contributions
+## CVPR 2023 datasets
+ - https://cvpr2023.thecvf.com 
