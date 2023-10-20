@@ -3,6 +3,7 @@
 인공지능(AI)이 학습한 데이터 중 문제가 있는 일부분만 삭제할 수 있는 기술 공개. 데이터 저작권 문제로 골머리를 앓는 빅테크에 돌파구가 될 수 있다는 분석.
 벤처비트는 마이크로소프트(MS) 연구진이 대형언어모델(LLM)에서 특정 정보를 삭제하는 방법을 온라인 논문 사이트 아카이브(arXiv)에 게재했다고 소개
 MS 애저 연구원은 메타의 오픈 소스 LLM '라마 2 7B' 모델에 포함된 해리포터에 대한 모든 지식을 삭제하는 데 성공. 논문의 제목도 '해리 포터가 누구? 대략적인  LLM의 학습 취소법(Who’s Harry Potter? Approximate Unlearning in LLMs)'
+
 논문 : https://arxiv.org/abs/2310.02238
 
 ## LAVIE: HIGH-QUALITY VIDEO GENERATION WITH CASCADED LATENT DIFFUSION MODELS (2309, Shanghai AI Lab, Nanyang Technological University 외)
