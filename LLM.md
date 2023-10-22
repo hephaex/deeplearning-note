@@ -12,10 +12,9 @@ MS 애저 연구원은 메타의 오픈 소스 LLM '라마 2 7B' 모델에 포�
 
 project : [https://vchitect.github.io/LaVie-project/](https://vchitect.github.io/LaVie-project/?fbclid=IwAR2_AuNSz7ZqIklzCoNqoS1J2mWqf-E8q3Ox4ybcVyEtZGuVh3EiNOYKPnk)
 
-
-
 ## 2.6조 토큰으로 훈련된 130억 매개변수를 가진 다국어 모델 'Baichuan 2'
 Baichuan 2: Open Large-scale Language Models : https://arxiv.org/abs/2309.10305v2 , Baichuan
+
 ```
 본 연구에서는 다국어를 지원하는 대규모 언어 모델 Baichuan 2를 소개합니다. Baichuan 2는 7B(70억 매개변수)와 13B(130억 매개변수)의 두 가지 모델을 보유하고 있으며, 전례 없는 규모인 2.6조 토큰에 의해 훈련되고 있다.
 이 대량의 훈련 데이터 덕분에 Baichuan 2는 일반적인 벤치마크 테스트로 이전 버전인 Baichuan 1보다 약 30% 높은 성능을 발휘합니다.
@@ -23,13 +22,13 @@ Baichuan 2: Open Large-scale Language Models : https://arxiv.org/abs/2309.10305v
 이 모델은 공개된 벤치마크 테스트(MMLU, CMMLU, GSM8K, HumanEval 등)에서 같은 규모의 다른 오픈 소스 모델과 비교하여 동등하거나 그 이상의 성능을 보여줍니다. 또한 의료 및 법률 등 전문 분야에서도 높은 성적을 올리고 있습니다.
 이 평가 결과에서 Baichuan 2는 다국어 지원이지만 높은 성능과 광범위한 적용 가능성을 가지고 있음을 확인할 수 있습니다.
 ```
+
 ## Dense Text-to-Image Generation with Attention Modulation (2308, naver)
 네이버, 이미지 레이아웃을 만들고 각 해당 영역에 텍스트 프롬프트를 표시하여 이미지 생성
  - (예 background: beach, blue skt,  segment1: girl, segment2: chair)
  - 논문 : https://arxiv.org/abs/2308.12964
  - 소스 : https://github.com/naver-ai/DenseDiffusion
  - 내용:번역
-
 ```
 기존의 텍스트-이미지 확산 모델은 각 텍스트 프롬프트가 특정 이미지 영역에 대한 자세한 설명을 제공하는 고밀도 캡션이 주어지면 사실적인 이미지를 합성하는 데 어려움을 겪습니다.
 이러한 문제를 해결하기 위해 우리는 사전 학습된 텍스트-이미지 확산 모델을 조정하여 장면 레이아웃을 제어하면서 이러한 고밀도 캡션을 처리할 수 있는 학습이 필요 없는 방법인 DenseDiffusion을 제안합니다.
@@ -37,6 +36,7 @@ Baichuan 2: Open Large-scale Language Models : https://arxiv.org/abs/2309.10305v
 그런 다음 레이아웃 안내에 따라 특정 영역에 객체가 나타나도록 안내하는 주의 변조 방법을 개발합니다.
 추가적인 미세 조정이나 데이터 세트 없이도 자동 및 인간 평가 점수 모두에 대해 조밀한 캡션이 주어졌을 때 이미지 생성 성능을 개선합니다. 또한 레이아웃 조건에 따라 특별히 학습된 모델을 사용하여 유사한 품질의 시각적 결과를 얻을 수 있습니다.
 ```
+
 ## VideoComposer: Compositional Video Synthesis with Motion Controllability (2306, Alibaba/Ant) 
 중국 알리바바(modelscope)  Image to video , video to video 
 논문 : https://arxiv.org/abs/2306.02018
