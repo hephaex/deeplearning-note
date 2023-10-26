@@ -1,3 +1,17 @@
+## KoLLM-LogBook 
+해외에서 큰 주목을 받고 있는 "OpenHermes-2-Mistral-7B" 모델을 개발한 teknium의 "LLM-Logbook" 프로젝트의 한국어 버전입니다. 주요 목표는 Multiple-Choice Question Answering (MCQA)를 기반으로 한 언어모델 평가 방법론을 넘어서, 다양한 프롬프트에 대한 언어모델의 생성결과를 직접 비교하는 것으로 총 100개의 프롬프트와 서로 다른 언어 모델들의 답변을 기록하고 있습니다.
+KoLLM-LogBook에는 금융, 수학, 의학, 프로그래밍, 창작 글쓰기 등 총 15개 분야에서 제작한 100개의 프롬프트와 다양한 언어 모델들의 응답이 수록되어 있습니다. 최대한 다양한 분야에서 공을 들여 만든 프롬프트들이니 한번씩 보셔도 좋을 것 같습니다!
+현재 프로젝트에는 다음 4개의 모델 결과가 포함되어 있다.
+amphora/small-instruct
+kyujinpy/KoR-Orca-Platypus-13B
+krevas/LDCC-Instruct-Llama-2-ko-13B-v4
+gpt-3.5-turbo-0613
+Compare Models 페이지 에서는 동일 프롬프트에 대한 서로 다른 모델의 답변을 비교하실 수 있고
+Model Reports 페이지에서는 프롬프트 전체에 대한 개별 모델의 답변을 모아보실 수 있습니다.
+추가하고 싶으신 모델이 있으시거나 궁금하신 점이 있으시면 편하게 연락 부탁드립니다.
+github: https://github.com/guijinSON/KoLLM-LogBook/tree/main
+streamlit: https://kollm-logbook-qqw6uzf89xizxjilkihjsh.streamlit.app/
+
 ## 해리포터가 누구? MS, AI 학습 데이터 중 특정 정보 삭제 기술 공개
 저작권 문제 등에 큰 해결책 될 것
 인공지능(AI)이 학습한 데이터 중 문제가 있는 일부분만 삭제할 수 있는 기술 공개. 데이터 저작권 문제로 골머리를 앓는 빅테크에 돌파구가 될 수 있다는 분석.
