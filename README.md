@@ -12,30 +12,7 @@
 - 2022.02.02. Solving (Some) Formal Math Olympiad Problems: https://openai.com/blog/formal-math
 - 2022.02.02. Competitive programming with AlphaCode:https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode?fbclid=IwAR1E9sSTt3XiEXn70d2YO8bx8ruBNKArzLhJ8WuZwpclXCK58qihhzgjeVE
 
-## # AI for Time Series (AI4TS) Papers, Tutorials, and Surveys
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) 
-![Stars](https://img.shields.io/github/stars/qingsongedu/awesome-AI-for-time-series-papers)
-[![Visits Badge](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)](https://badges.pufler.dev/visits/qingsongedu/awesome-AI-for-time-series-papers)
-<!-- ![Forks](https://img.shields.io/github/forks/qingsongedu/awesome-AI-for-time-series-papers) -->
-
-A professionally curated list of papers (with available code), tutorials, and surveys on recent **AI for Time Series Analysis (AI4TS)**, including Time Series, Spatio-Temporal Data, Event Data, Sequence Data, Temporal Point Processes, etc., at the **Top AI Conferences and Journals**, which is **updated ASAP (the earliest time)** once the accepted papers are announced in the corresponding top AI conferences/journals. Hope this list would be helpful for researchers and engineers who are interested in AI for Time Series Analysis.
-
-The top conferences including:
-- Machine Learning: NeurIPS, ICML, ICLR
-- Data Mining: KDD
-- Artificial Intelligence: AAAI, IJCAI
-- Data Management: SIGMOD, VLDB, ICDE
-- Misc (selected): WWW, AISTAT, CIKM, ICDM, WSDM, SIGIR, ICASSP, CVPR, ICCV, etc.
-
-The top journals including (mainly for survey papers):
-CACM, PIEEE, TPAMI, TKDE, TNNLS, TITS, TIST, SPM, JMLR, JAIR, CSUR, DMKD, KAIS, IJF, arXiv(selected), etc.
-
-If you found any missed resources (paper/code) or errors, please feel free to open an issue or make a pull request. 
-
-For general **Recent AI Advances: Tutorials and Surveys in various areas (DL, ML, DM, CV, NLP, Speech, etc.)** at the **Top AI Conferences and Journals**, please check [This Repo](https://github.com/qingsongedu/awesome-AI-tutorials-surveys). 
-
+# AI for Time Series 
 ## Main Recent Update Note
 - [Jul. 05, 2023] Add papers accepted by KDD'23!
 - [Jun. 20, 2023] Add papers accepted by ICML'23!
