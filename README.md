@@ -13,6 +13,7 @@
 - 2022.02.02. Competitive programming with AlphaCode:https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode?fbclid=IwAR1E9sSTt3XiEXn70d2YO8bx8ruBNKArzLhJ8WuZwpclXCK58qihhzgjeVE
 
 # AI for Time Series 
+
 ## Main Recent Update Note
 - [Jul. 05, 2023] Add papers accepted by KDD'23!
 - [Jun. 20, 2023] Add papers accepted by ICML'23!
@@ -22,9 +23,9 @@
 - [Jun. 02, 2022] Add papers accepted by ICML'22, ICLR'22, AAAI'22, IJCAI'22!
 
 ## Table of Contents
-- [AI4TS Tutorials and Surveys](#AI4TS-Tutorials-and-Surveys)
-  * [AI4TS Tutorials](#AI4TS-Tutorials)
-  * [AI4TS Surveys](#AI4TS-Surveys)
+- [Tutorials and Surveys](#Tutorials-and-Surveys)
+  * [Tutorials](#Tutorials)
+  * [Surveys](#Surveys)
  
 - [AI4TS Papers 2023](#AI4TS-Papers-2023)
   * [NeurIPS 2023](#NeurIPS-2023), [ICML 2023](#ICML-2023), [ICLR 2023](#ICLR-2023)
@@ -51,8 +52,8 @@
   * [Misc 201X-2020](#Misc-201X-2020)
 
 
-## AI4TS Tutorials and Surveys
-### AI4TS Tutorials
+## Tutorials and Surveys
+### Tutorials
 
 * Robust Time Series Analysis and Applications: An Industrial Perspective, in *KDD* 2022. [\[Link\]](https://qingsongedu.github.io/timeseries-tutorial-kdd-2022/)
 * Time Series in Healthcare: Challenges and Solutions, in *AAAI* 2022. [\[Link\]](https://www.vanderschaar-lab.com/time-series-in-healthcare/)
@@ -68,7 +69,7 @@
 * Modeling and Applications for Temporal Point Processes, *KDD* 2019. [\[Link1\]](https://dl.acm.org/doi/10.1145/3292500.3332298) [\[Link2\]](https://thinklab.sjtu.edu.cn/TPP_Tutor_KDD19.html)
 
 
-### AI4TS Surveys
+### Surveys
 #### General Time Series Survey
 * Transformers in Time Series: A Survey, in *IJCAI* 2023. [\[paper\]](https://arxiv.org/abs/2202.07125) [\[GitHub Repo\]](https://github.com/qingsongedu/time-series-transformers-review)
 * Time series data augmentation for deep learning: a survey, in *IJCAI* 2021. [\[paper\]](https://arxiv.org/abs/2002.12478)
@@ -113,7 +114,7 @@
 
 
 
-## AI4TS Papers 2023
+## Papers 2023
 ### NeurIPS 2023
 
 
@@ -229,7 +230,7 @@
 
 
 
-## AI4TS Papers 2022
+## Papers 2022
 ### NeurIPS 2022
 #### Time Series Forecasting
 * FiLM: Frequency improved Legendre Memory Model for Long-term Time Series Forecasting [\[paper\]](https://arxiv.org/abs/2205.08897) [\[official code\]](https://github.com/DAMO-DI-ML/NeurIPS2022-FiLM)
@@ -452,7 +453,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 
 
 
-## AI4TS Papers 2021 
+## Papers 2021 
 
 ### NeurIPS 2021
 #### Time Series Forecasting
@@ -656,7 +657,7 @@ Electricity Smart Meter Data [\[paper\]](https://aaai-2022.virtualchair.net/post
 * Explainable Multivariate Time Series Classification: A Deep Neural Network Which Learns To Attend To Important Variables As Well As Informative Time Intervals, WSDM'21. [\[paper\]](https://arxiv.org/abs/2011.11631)  
 
 
-## AI4TS Papers 201X-2020 Selected
+## Papers 201X-2020 Selected
 
 ### NeurIPS 201X-2020
 
