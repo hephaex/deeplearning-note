@@ -1,7 +1,8 @@
 ## KoLLM-LogBook 
-해외에서 큰 주목을 받고 있는 "OpenHermes-2-Mistral-7B" 모델을 개발한 teknium의 "LLM-Logbook" 프로젝트의 한국어 버전입니다. 주요 목표는 Multiple-Choice Question Answering (MCQA)를 기반으로 한 언어모델 평가 방법론을 넘어서, 다양한 프롬프트에 대한 언어모델의 생성결과를 직접 비교하는 것으로 총 100개의 프롬프트와 서로 다른 언어 모델들의 답변을 기록하고 있습니다.
-KoLLM-LogBook에는 금융, 수학, 의학, 프로그래밍, 창작 글쓰기 등 총 15개 분야에서 제작한 100개의 프롬프트와 다양한 언어 모델들의 응답이 수록되어 있습니다. 최대한 다양한 분야에서 공을 들여 만든 프롬프트들이니 한번씩 보셔도 좋을 것 같습니다!
-현재 프로젝트에는 다음 4개의 모델 결과가 포함되어 있다.
+ 큰 주목을 받고 있는 "OpenHermes-2-Mistral-7B" 모델을 개발한 teknium의 "LLM-Logbook" 프로젝트의 한국어 버전입니다.
+ 주요 목표는 Multiple-Choice Question Answering (MCQA)를 기반으로 한 언어모델 평가 방법론을 넘어서, 다양한 프롬프트에 대한 언어모델의 생성결과를 직접 비교하는 것으로 총 100개의 프롬프트와 서로 다른 언어 모델들의 답변을 기록하고 있습니다.
+KoLLM-LogBook에는 금융, 수학, 의학, 프로그래밍, 창작 글쓰기 등 총 15개 분야에서 제작한 100개의 프롬프트와 다양한 언어 모델들의 응답이 수록되어 있습니다. 
+현재 프로젝트에는 다음 4개의 모델 결과가 포함
 amphora/small-instruct
 kyujinpy/KoR-Orca-Platypus-13B
 krevas/LDCC-Instruct-Llama-2-ko-13B-v4
