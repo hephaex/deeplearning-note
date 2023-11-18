@@ -10,6 +10,18 @@
 - 논문: https://arxiv.org/pdf/2308.16884.pdf
 - 코드: https://github.com/facebookresearch/belebele
 
+## RedPajama-Data-1T 데이터셋을 공개
+    * LLaMA 논문에 설명된 레시피에 따라서 생성한 1.2조개의 토큰으로 구성된 완전 개방형 데이터 셋
+    * HuggingFace를 통해 다운로드 가능. 전체 5TB(3TB로 압축하여 배포)
+    * 7개의 데이터 조각으로 구성 : 각각 전처리와 필터링하여 LLaMA 논문과 비슷한 갯수로 구성(전처리 방법 및 필터 역시 GitHub에 공개)
+        * CommonCrawl (878b) - 웹 크롤링 데이터
+        * C4 (175b) - Colossal, Cleaned version of Common Crawl
+        * GitHub (59b) - 라이센스와 품질로 필터링된 GitHub의 데이터
+        * arXiv (28b) - 과학 논문과 기사들 (boilerplate 제거)
+        * Books (26b) - 콘텐츠 유사성에 따라서 중복을 제거한 공개 서적 Corpus
+        * Wikipedia (24b) - 위키피디어의 일부 페이지들 (boilerplate 제거)
+        * StackExchange (20b) - 스택익스체인지의 일부 페이지들 (boilerplate 제거)
+        
 ## CVPR 2021 datasets
  - https://cvpr2021.thecvf.com
 
