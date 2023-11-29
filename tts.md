@@ -116,3 +116,13 @@ https://github.com/ibab/tensorflow-wavenet
 
 Tocotron의 한국어 구현
 https://github.com/carpedm20/multi-speaker-tacotron-tensorflow
+
+## 인간이 말하는 음성 합성으로 텍스트를 읽는 TTS 모델 「StyleTTS 2」 콜롬비아대의 연구자들 개발
+StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models (2311, Columbia University)
+논문 https://arxiv.org/abs/2306.07691v2 (2311)
+신형의 Text-to-Speech(TTS) 모델 「StyleTTS 2」는, 선행하는 「StyleTTS」를 기본으로 하고 있어, 보다 인간다운 음성 합성을 목표로 하고 있습니다.
+StyleTTS 2는 음성 스타일을 선택하는 확산 모델과 대규모 음성 언어 모델(Large Speech Language Model, SLM)을 결합한 적대적인 교육을 채택합니다. 이렇게 하면 참조 음성이 없어도 텍스트에 적합한 스타일의 음성을 자동으로 생성할 수 있어 다양한 음성 유형에 대응합니다.
+또한 Wav2Vec 2.0, HuBERT, WavLM과 같은 대규모 사전 훈련된 SLM이 사용되며, 이러한 조합은 합성된 음성의 자연성을 향상시키고 보다 인간적인 느낌을 제공합니다.
+StyleTTS 2에 의해 생성된 음성의 평가 결과는 다음과 같다. LJSpeech 데이터 세트는 네이티브 영어 화자의 평가로 인간의 녹음을 능가하는 점수를 받았습니다. 또한 VCTK 데이터 세트는 자연스러움과 참조 화자 간의 유사성 모두에서 인간 수준의 성능을 보여주었습니다.
+게다가 최첨단 기술인 'NaturalSpeech'에 비해 더 높은 점수를 얻었습니다. LibriTTS 데이터세트에서의 교육은 이전 공개 모델을 넘어서는 자연스러움을 보여주었으며, 데이터 양이 적은 업적을 달성했습니다.
+
