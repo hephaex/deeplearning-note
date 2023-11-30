@@ -518,7 +518,6 @@ PyTorch implementation of BERT in "BERT: Pre-training of Deep Bidirectional Tran
 ![](https://img.shields.io/github/stars/GaoPeng97/transformer-xl-chinese.svg)
  
 
-
 ## other resources for BERT: 
 1. [brightmart/bert_language_understanding](https://github.com/brightmart/bert_language_understanding), Pre-training of Deep Bidirectional Transformers for Language Understanding: pre-train TextCNN,
 ![](https://img.shields.io/github/stars/brightmart/bert_language_understanding.svg)
@@ -1012,4 +1011,6 @@ Github: https://github.com/lightdxy/bootmae
 * Self-attention for raw optical satellite time series classification, in *ISPRS Journal of Photogrammetry and Remote Sensing* 2020. [\[paper\]](https://arxiv.org/abs/1910.10536) [\[official code\]](https://github.com/marccoru/crop-type-mapping)
 * Self-supervised pretraining of transformers for satellite image time series classification, in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* 2020. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9252123)
 * Self-Supervised Transformer for Sparse and Irregularly Sampled Multivariate Clinical Time-Series, in *ACM TKDD* 2022. [\[paper\]](https://arxiv.org/abs/2107.14293) [\[official code\]](https://github.com/sindhura97/STraTS)
+
+
 
