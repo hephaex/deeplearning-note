@@ -1,6 +1,14 @@
 # Delving deep into Generative Adversarial Networks (GANs) 	
 
 ---
+
+## Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+놀랍네요!
+한장의 캐릭터 이미지와 포즈 애니메이션을 주면 아주 "일관된" 캐릭터 애니메이션이 생성됩니다.
+proj: https://humanaigc.github.io/animate-anyone/
+abs: https://arxiv.org/abs/2311.17117
+
+
 ## DragDiffusion: Harnessing Diffusion Models for Interactive Point-based Image Editing
 DragGAN 에 이어 이를 Diffusion 모델에도 적용한 DragDiffusion 이 나왔습니다. DragGAN과 마찬가지로 이미지의 한 점을 움직이는 방식으로 생성 이미지의 편집이 가능합니다.
 
