@@ -1,3 +1,6 @@
+## Information Retrieval:  Who wins, GPT-4-Turbo or a RAG based on GPT4?
+https://github.com/A-Roucher/LLM_vs_RAG_NeedleInAHaystack
+
 ## MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers
 
 드디어 나올 게 나오는군요.
