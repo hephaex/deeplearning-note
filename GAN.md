@@ -3,7 +3,6 @@
 ---
 
 ## Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
-놀랍네요!
 한장의 캐릭터 이미지와 포즈 애니메이션을 주면 아주 "일관된" 캐릭터 애니메이션이 생성됩니다.
 proj: https://humanaigc.github.io/animate-anyone/
 abs: https://arxiv.org/abs/2311.17117
