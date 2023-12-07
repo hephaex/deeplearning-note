@@ -1,3 +1,12 @@
+## MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers
+
+드디어 나올 게 나오는군요.
+
+3D 메쉬를 생성하는 모델입니다. GPT처럼 Transformer 의 디코드 부분만 사용했답니다.
+
+"MeshGPT는 학습된 기하학적 어휘에서 토큰을 생성하도록 훈련된 트랜스포머 모델에서 자동회귀적으로 샘플링하여 삼각형 메시를 생성합니다. 그런 다음 이러한 토큰을 트라이앵글 메시의 면으로 디코딩할 수 있습니다. 이 방법은 선명한 모서리와 높은 충실도가 특징인 깨끗하고 일관성 있으며 컴팩트한 메시를 생성합니다."
+
+프로젝트 https://nihalsid.github.io/mesh-gpt/
 ## Gemini 
 
 Welcome to the Gemini era
