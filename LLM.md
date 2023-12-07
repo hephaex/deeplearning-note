@@ -1,3 +1,28 @@
+## Gemini 테크니컬 리포트: https://storage.googleapis.com/.../gemini_1_report.pdf
+Welcome to the Gemini era
+https://deepmind.google/technologies/gemini
+Introducing Gemini: our largest and most capable AI model
+https://blog.google/technology/ai/google-gemini-ai/
+Enabling next-generation AI workloads: Announcing TPU v5p and AI Hypercomputer
+https://cloud.google.com/.../introducing-cloud-tpu-v5p...
+1. Testing Gemini: Finding connections: https://www.youtube.com/watch?v=Rn30RMhEBTs
+2. Hands-on with Gemini: Interacting with multimodal AI: https://www.youtube.com/watch?v=UIZAiXYceBI
+3. Gemini: Google’s newest and most capable AI model: https://www.youtube.com/watch?v=jV1vkHv4zq8
+4. Testing Gemini: Turning images into code: https://www.youtube.com/watch?v=NHLnjWTEZps
+5. Testing Gemini: Emoji Kitchen: https://www.youtube.com/watch?v=ki8kRJPXCW0
+6. Gemini: All you need to know in 90 seconds: https://www.youtube.com/watch?v=_TVnM9dmUSk
+7. Testing Gemini: Understanding environments: https://www.youtube.com/watch?v=JPwU1FNhMOA
+8. Gemini: Explaining reasoning in math and physics: https://www.youtube.com/watch?v=K4pX1VAxaAI
+9. Gemini: Excelling at competitive programming: https://www.youtube.com/watch?v=LvGmVmHv69s
+10. Testing Gemini: Fit check: https://www.youtube.com/watch?v=HP2pNdCRT5M
+11. Gemini: Processing and understanding raw audio: https://www.youtube.com/watch?v=D64QD7Swr3s
+12. Testing Gemini: Guess the movie: https://www.youtube.com/watch?v=aRyuMNwn02w
+13. Mark Rober takes Bard with Gemini Pro for a test flight: https://www.youtube.com/watch?v=mHZSrtl4zX0
+14. Gemini: Safety and responsibility at the core: https://www.youtube.com/watch?v=gi6J_WjjNhE
+15. Gemini: Reasoning about user intent to generate bespoke experiences: https://www.youtube.com/watch?v=v5tRc_5-8G4
+16. Gemini: Unlocking insights in scientific literature: https://www.youtube.com/watch?v=sPiOP_CB54A
+17. Using AI to Improve Students writing skills Quill.org x Google.org: https://www.youtube.com/watch?v=f0pMe4aFXx0
+
 ## Information Retrieval:  Who wins, GPT-4-Turbo or a RAG based on GPT4?
 https://github.com/A-Roucher/LLM_vs_RAG_NeedleInAHaystack
 
