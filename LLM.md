@@ -1,4 +1,5 @@
-## Gemini 테크니컬 리포트: https://storage.googleapis.com/.../gemini_1_report.pdf
+## Gemini 
+
 Welcome to the Gemini era
 https://deepmind.google/technologies/gemini
 Introducing Gemini: our largest and most capable AI model
