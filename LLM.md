@@ -1,3 +1,11 @@
+## MLC LLM
+
+Documentation | Blog | Discord
+
+Machine Learning Compilation for Large Language Models (MLC LLM) is a high-performance universal deployment solution that allows native deployment of any large language models with native APIs with compiler acceleration. The mission of this project is to enable everyone to develop, optimize and deploy AI models natively on everyone's devices with ML compilation techniques.
+
+https://github.com/mlc-ai/mlc-llm
+
 ## Pipegoose: end-to-end framework for training multi-modal MoE in a decentralized way. (DiLoCo)[https://arxiv.org/abs/2311.08105]를 replicate하는 오픈소스 프로젝트
 Repo: https://github.com/xrsrke/pipegoose
 
