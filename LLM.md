@@ -1,3 +1,6 @@
+## Pipegoose: end-to-end framework for training multi-modal MoE in a decentralized way. (DiLoCo)[https://arxiv.org/abs/2311.08105]를 replicate하는 오픈소스 프로젝트
+Repo: https://github.com/xrsrke/pipegoose
+
 ## MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers
 
 드디어 나올 게 나오는군요.
