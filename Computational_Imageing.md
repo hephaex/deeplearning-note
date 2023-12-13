@@ -4,6 +4,9 @@
  The ubiquitous availability of fast computing platforms (such as multi-core CPUs and GPUs), the advances in algorithms and modern sensing hardware is resulting in imaging systems with significantly enhanced capabilities. 
  Computational Imaging systems cover a broad range of applications include computational microscopy,[1] tomographic imaging, MRI, ultrasound imaging, computational photography, Synthetic Aperture Radar (SAR), seismic imaging etc. 
  The integration of the sensing and the computation in computational imaging systems allows for accessing information which was otherwise not possible.
+## Building advanced RAG includes having the LLM reason about the query, not just the final context.
+https://twitter.com/jerryjliu0/status/1734598198759759952
+https://github.com/.../que.../query_transform_cookbook.ipynb
 
 ## 오브젝트 검출 모델은 주로 「Backbone」(모델의 기초가 되는 부분), 「Neck」(Backbone에서 추출된 특징을 고도로 변환하는 부분), 그리고 「Head」(물체의 카테고리나 위치를 구체적으로 결정하는 부분)의 세 부분으로 이루어져 있습니다.
 현재 모델에는 Neck 부분에서 정보를 성공적으로 통합할 수 없다는 문제가 있습니다. 특히 서로 다른 '계층'의 정보를 통합할 때 정보 손실이 발생하는 문제가 있다.
