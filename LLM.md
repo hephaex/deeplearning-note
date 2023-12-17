@@ -1,8 +1,14 @@
+## Towards LangChain 0.1: LangChain-Core and LangChain-Community
+https://twitter.com/LangChainAI/status/1734641665556857148
+[https://blog.langchain.dev/the-new-langchain.../
+](https://blog.langchain.dev/the-new-langchain-architecture-langchain-core-v0-1-langchain-community-and-a-path-to-langchain-v0-1/?fbclid=IwAR2DDz1sTB97NaUt2PX-0nJuDG4g0oQ6LdBbJeww4BN8QRc51uSCmCyMvCY)
+
 ## MLC LLM
 
 Documentation | Blog | Discord
 
-Machine Learning Compilation for Large Language Models (MLC LLM) is a high-performance universal deployment solution that allows native deployment of any large language models with native APIs with compiler acceleration. The mission of this project is to enable everyone to develop, optimize and deploy AI models natively on everyone's devices with ML compilation techniques.
+Machine Learning Compilation for Large Language Models (MLC LLM) is a high-performance universal deployment solution that allows native deployment of any l
+arge language models with native APIs with compiler acceleration. The mission of this project is to enable everyone to develop, optimize and deploy AI models natively on everyone's devices with ML compilation techniques.
 
 https://github.com/mlc-ai/mlc-llm
 
