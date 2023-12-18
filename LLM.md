@@ -1,3 +1,8 @@
+## Starling-7b-alpha (@BanghuaZet al.) is a new 7B LLM that uses a brand-new reward model and policy optimization method. And it approaches GPT-4 in perf on MT Bench, MMLU, and more (beating Claude, 3.5, etc.)
+https://twitter.com/jerryjliu0/status/1735842203241759099
+[https://docs.llamaindex.ai/.../module.../models/llms.html...
+](https://docs.llamaindex.ai/en/latest/module_guides/models/llms.html?fbclid=IwAR3QgJYKlQ7cINcA5xHh4P9fue8jNPEs1f0w99ocizRV2bLupnCDn-zS4lA#open-source-llms)
+
 ## Local RAG on Windows
 https://twitter.com/llama_index/status/1736429047956349058
 https://github.com/marklysze/LlamaIndex-RAG-WSL-CUDA
