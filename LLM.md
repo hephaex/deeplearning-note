@@ -1,3 +1,7 @@
+## Local RAG on Windows
+https://twitter.com/llama_index/status/1736429047956349058
+https://github.com/marklysze/LlamaIndex-RAG-WSL-CUDA
+
 ## Towards LangChain 0.1: LangChain-Core and LangChain-Community
 https://twitter.com/LangChainAI/status/1734641665556857148
 [https://blog.langchain.dev/the-new-langchain.../
