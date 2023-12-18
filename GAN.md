@@ -1,6 +1,10 @@
 # Delving deep into Generative Adversarial Networks (GANs) 	
 
 ---
+## 4개의 샘플에서 텍스트로 동영상을 만들어보세요.
+https://twitter.com/taziku_co/status/1736163456196468956
+https://huggingface.co/papers/2312.09109
+
 
 ## Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 한장의 캐릭터 이미지와 포즈 애니메이션을 주면 아주 "일관된" 캐릭터 애니메이션이 생성됩니다.
