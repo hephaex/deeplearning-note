@@ -1,8 +1,6 @@
 # Transfer-related Papers
 a list of BERT-related papers. 
 Any feedback is welcome.
-
-
 ## Table of Contents
 - [Downstream task](#downstream-task)
 - [Generation](#generation)
