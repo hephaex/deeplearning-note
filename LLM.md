@@ -1,3 +1,15 @@
+## 업스테이지의 솔라 논문이 공개
+32층 기본 모델에서 시작하여, 이 모델의 일부를 복제하여 연결함으로써 48층의 확장 모델을 생성하는 방식 (Depth Up-Scaling 라고 명명)
+[모델 구조]
+1. 32 layer Llama 2 architecture with Mistral 7B pretrained weights
+2. 단순 복제하여 2개 세트 생성
+3. 첫번째 세트의 끝 8 layer, 두번째 세트의 처음 8 layer를 잘라냄 -> 24 layer * 2 model
+4. 합쳐서 48 layer (10.7 billion parameters)
+[학습 방법]
+1. Instruction Tuning: QA 포맷 학습 (오픈소스 + 합성 math QA 데이터)
+2. Alignment Tuning: DPO 기반 튜닝 ( {prompt, chosen, rejected} tuple로 만들어서 DPO 진행)
+3. Model Merging: 단순 weight 평균과 SLERP 활용
+ 
 ## Starling-7b-alpha (@BanghuaZet al.) is a new 7B LLM 
 uses a brand-new reward model and policy optimization method. And it approaches GPT-4 in perf on MT Bench, MMLU, and more (beating Claude, 3.5, etc.)
 https://twitter.com/jerryjliu0/status/1735842203241759099
