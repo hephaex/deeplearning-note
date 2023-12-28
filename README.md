@@ -1,5 +1,15 @@
 # DeepLearning Note
 
+## GNN
+[Tensorflow GNN v1.0]
+
+Google 에서 몇년 전부터 개발해오던 Tensorflow GNN 의 v1.0 이 몇일전에 릴리즈되었습니다.
+
+GPU 및 TPU에서 작동하며, Tutorial 을 위한 colab 또한 제공됩니다.
+
+https://github.com/tensorflow/gnn
+https://pypi.org/project/tensorflow-gnn/
+
 ## SoA
 - 2017.06.12. Attention Is All You Need: https://arxiv.org/abs/1706.03762
 - 2019.02.14. GPT-2, Better Language Models and Their Implications: https://openai.com/blog/better-language-models
