@@ -1,6 +1,8 @@
 # Various tools for model transformation
 Th is able to convert models between frameworks and models on the framework. 
-
+- **Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis**
+   - https://twitter.com/_akhaliq/status/1741666796770390207
+   - https://huggingface.co/papers/2312.17681
 - **onnx-tensorflow** Tool to convert ONNX to TensorFlow
     - GitHub **https://github.com/onnx/onnx-tensorflow**
     - PyPI **https://pypi.org/project/onnx-tf/**
