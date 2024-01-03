@@ -1014,5 +1014,13 @@ Github: https://github.com/lightdxy/bootmae
 * Self-supervised pretraining of transformers for satellite image time series classification, in *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* 2020. [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9252123)
 * Self-Supervised Transformer for Sparse and Irregularly Sampled Multivariate Clinical Time-Series, in *ACM TKDD* 2022. [\[paper\]](https://arxiv.org/abs/2107.14293) [\[official code\]](https://github.com/sindhura97/STraTS)
 
+### canvers-ko2en
+840만 번역쌍으로 bart 기반으로 튜닝이 되어 있습니다.
+GPU가 있다면, transformers 에서 flash attention 2 와 사용하실 수도 있고 ctranslate2 버전도 있어 cpu에서도 충분히 빠르게 모델을 사용할 수도 있습니다.
+저희 내부적인 전략이 영문 모델을 한글 튜닝하기 보다는 영문 모델을 기본으로 빠르게 follow-up 하되 앞뒤로 번역을 붙여서 쓰는 방식을 취하고 있는데, 관리차원에서 올린 모델중에 번역모델들이 꾸준하게 다운로드가 되고 있긴 하더라구요.
+https://huggingface.co/circulus/canvers-ko2en-v2
+https://huggingface.co/circulus/canvers-en2ko-v2
+https://huggingface.co/circulus/canvers-ko2en-ct2-v2
+https://huggingface.co/circulus/canvers-en2ko-ct2-v2
 
 
