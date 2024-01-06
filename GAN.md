@@ -1,7 +1,7 @@
 # Delving deep into Generative Adversarial Networks (GANs) 	
 
 ---
-## 4개의 샘플에서 텍스트로 동영상을 만들어보세요.
+## 텍스트로 동영상을 만들어보세요.
 https://twitter.com/taziku_co/status/1736163456196468956
 https://huggingface.co/papers/2312.09109
 
