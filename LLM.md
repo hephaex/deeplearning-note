@@ -1,4 +1,4 @@
-## 업스테이지의 솔라 논문이 공개
+## 업스테이지의 솔라 논문
 32층 기본 모델에서 시작하여, 이 모델의 일부를 복제하여 연결함으로써 48층의 확장 모델을 생성하는 방식 (Depth Up-Scaling 라고 명명)
 [모델 구조]
 1. 32 layer Llama 2 architecture with Mistral 7B pretrained weights
