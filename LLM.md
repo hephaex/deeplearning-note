@@ -1,3 +1,7 @@
+## Introducing DeepSeekMoE
+https://twitter.com/IntuitMachine/status/1747213671925702892
+https://github.com/deepseek-ai/DeepSeek-MoE
+
 ## Transformers are Multi-State RNNs
 논문 초록
 트랜스포머는 이전 세대의 최첨단 자연어 처리 모델인 순환 신경망(RNN)과 비교했을 때 개념적으로 다른 것으로 간주됩니다. 
