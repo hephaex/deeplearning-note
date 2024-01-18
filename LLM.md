@@ -1,3 +1,17 @@
+## Towards Conversational Diagnostic AI
+
+요약: 
+의료의 핵심은 의사와 환자 간의 대화이며, 숙련된 병력 청취는 정확한 진단, 효과적인 관리, 지속적인 신뢰의 토대가 됩니다. 진단 대화를 할 수 있는 인공지능(AI) 시스템은 접근성, 일관성, 치료의 질을 높일 수 있습니다. 하지만 임상의의 전문 지식에 근접하는 것은 매우 어려운 과제입니다. 여기에서는 진단 대화에 최적화된 대규모 언어 모델(LLM) 기반 AI 시스템인 AMIE(Articulate Medical Intelligence Explorer)를 소개합니다. AMIE는 다양한 질병 상태, 전문 분야 및 상황에 따라 학습을 확장하기 위해 자동화된 피드백 메커니즘을 갖춘 새로운 셀프 플레이 기반 시뮬레이션 환경을 사용합니다. 병력 청취, 진단 정확도, 관리 추론, 의사소통 기술, 공감 능력 등 임상적으로 의미 있는 성과 축을 평가하기 위한 프레임워크를 설계했습니다. 객관적 구조화 임상시험(OSCE) 방식으로 검증된 환자 행위자와의 텍스트 기반 상담에 대한 무작위 이중맹검 교차 연구를 통해 AMIE의 성과를 1차 진료 의사(PCP)의 성과와 비교했습니다. 이 연구에는 캐나다, 영국, 인도의 임상 제공자가 제공한 149개의 사례 시나리오, AMIE와 비교하기 위한 20개의 PCP, 전문 의사와 환자 배우의 평가가 포함되었습니다. 전문 의사가 평가한 32개 축 중 28개 축, 환자 행위자가 평가한 26개 축 중 24개 축에서 AMIE가 더 높은 진단 정확도와 우수한 성능을 보여주었습니다. 이번 연구에는 몇 가지 한계가 있으므로 적절한 주의를 기울여 해석해야 합니다. 임상의들은 익숙하지 않은 동기식 텍스트 채팅으로 제한되었으며, 이는 대규모의 LLM-환자 상호작용을 허용하지만 일반적인 임상 실습을 대표하지 않습니다. AMIE를 실제 환경에 적용하기 위해서는 더 많은 연구가 필요하지만, 이번 연구 결과는 대화형 진단 AI를 향한 이정표가 될 것입니다.
+
+Blog: https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html
+arXiv: https://arxiv.org/abs/2401.05654
+Browse: https://browse.arxiv.org/pdf/2401.05654.pdf
+PDF: https://arxiv.org/pdf/2401.05654.pdf  
+arXiv-vanity: https://www.arxiv-vanity.com/papers/2401.05654 
+Paper page: https://huggingface.co/papers/2401.05654 
+HTML : https://browse.arxiv.org/html/2401.05654v1 
+Papers with code: https://paperswithcode.com/paper/towards-conversational-diagnostic-ai
+
 ## Introducing DeepSeekMoE
 https://twitter.com/IntuitMachine/status/1747213671925702892
 https://github.com/deepseek-ai/DeepSeek-MoE
