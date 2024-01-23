@@ -13,9 +13,9 @@ AMIE는 다양한 질병 상태, 전문 분야 및 상황에 따라 학습을 �
 임상의들은 익숙하지 않은 동기식 텍스트 채팅으로 제한되었으며, 이는 대규모의 LLM-환자 상호작용을 허용하지만 일반적인 임상 실습을 대표하지 않습니다. 
 AMIE를 실제 환경에 적용하기 위해서는 더 많은 연구가 필요하지만, 이번 연구 결과는 대화형 진단 AI를 향한 이정표가 될 것입니다.
 
-Blog: https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html
+- Blog: https://blog.research.google/2024/01/amie-research-ai-system-for-diagnostic_12.html
 
-arXiv: https://arxiv.org/abs/2401.05654
+- arXiv: https://arxiv.org/abs/2401.05654
 
 Browse: https://browse.arxiv.org/pdf/2401.05654.pdf
 
