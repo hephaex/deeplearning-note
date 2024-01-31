@@ -1,3 +1,7 @@
+## Argmax presents WhisperKit
+https://twitter.com/_akhaliq/status/1752456473844527225
+https://huggingface.co/argmaxinc/whisperkit-coreml
+
 ## codelaama2
 quantized CodeLlama 70b Instruct to 4-bit with MLX
 [https://huggingface.co/.../CodeLlama-70b-Instruct-hf-4bit...
