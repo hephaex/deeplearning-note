@@ -1,3 +1,7 @@
+## codelaama2
+quantized CodeLlama 70b Instruct to 4-bit with MLX
+[https://huggingface.co/.../CodeLlama-70b-Instruct-hf-4bit...
+](https://huggingface.co/mlx-community/CodeLlama-70b-Instruct-hf-4bit-MLX?fbclid=IwAR0KYHovfFxB87OvVg55RLkIre4N0JfQbi0fPYbemZDJQ3K8Ka-fZnKM4sA)
 ## Towards Conversational Diagnostic AI
 
 의료의 핵심은 의사와 환자 간의 대화이며, 숙련된 병력 청취는 정확한 진단, 효과적인 관리, 지속적인 신뢰의 토대가 됩니다. 
