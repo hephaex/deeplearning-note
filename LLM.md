@@ -2,7 +2,6 @@
 https://huggingface.co/defog/sqlcoder-70b-alpha
 
 ## Argmax presents WhisperKit
-https://twitter.com/_akhaliq/status/1752456473844527225
 https://huggingface.co/argmaxinc/whisperkit-coreml
 
 ## codelaama2
