@@ -33,7 +33,6 @@ AMIE를 실제 환경에 적용하기 위해서는 더 많은 연구가 필요�
 - Papers with code: https://paperswithcode.com/paper/towards-conversational-diagnostic-ai
 
 ## Introducing DeepSeekMoE
-https://twitter.com/IntuitMachine/status/1747213671925702892
 https://github.com/deepseek-ai/DeepSeek-MoE
 
 ## Transformers are Multi-State RNNs
