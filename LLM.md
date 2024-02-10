@@ -1,3 +1,9 @@
+## MetaVoice-1B
+
+MetaVoice-1B is a 1.2B parameter base model trained on 100K hours of speech for TTS (text-to-speech). It has been built with the following priorities:
+
+https://github.com/metavoiceio/metavoice-src 
+
 ## CodeLlama-70B PostgreSQL、SQLCoder-70B。
 https://huggingface.co/defog/sqlcoder-70b-alpha
 
