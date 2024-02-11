@@ -1,3 +1,7 @@
+## The usual RAG approach struggles with retrieval accuracy when faced with massive indistinguishable documents comprising text, tables, and images.
+https://arxiv.org/pdf/2402.01767.pdf
+https://github.com/TebooNok/HiQA
+
 ## MetaVoice-1B
 
 MetaVoice-1B is a 1.2B parameter base model trained on 100K hours of speech for TTS (text-to-speech). It has been built with the following priorities:
