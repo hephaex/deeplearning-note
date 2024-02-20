@@ -1,4 +1,5 @@
-## Lumiere is a space-time diffusion research model that generates video from various inputs, including image-to-video. The model generates videos that start with the desired first frame & exhibit intricate coherent motion across the entire video duration.
+## Lumiere is a space-time diffusion research model 
+generates video from various inputs, including image-to-video. The model generates videos that start with the desired first frame & exhibit intricate coherent motion across the entire video duration.
 Website: https://lumiere-video.github.io/
 Paper: https://arxiv.org/abs/2401.12945
 YouTube: https://www.youtube.com/watch?v=wxLr02Dz2Sc
