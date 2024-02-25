@@ -1,12 +1,12 @@
-## Phind-70B 공개 - GPT-4 Turbo와 코드 품질 격차를 줄이면서 4배 빠른 실행 가능한 모델 (phind.com)
-초당 최대 80개의 토큰을 처리(GPT-4 Turbo는 초당 ~20토큰)
+## Phind-70B 공개 - GPT-4 Turbo와 코드 품질 격차를 줄이면서 4배 빠른 실행 가능한 모델 
+- 초당 최대 80개의 토큰을 처리(GPT-4 Turbo는 초당 ~20토큰)
 32K 토큰 윈도우를 지원
 CodeLlama-70B 모델 기반으로 추가적인 50B 토큰으로 파인튜닝됨
 HumanEval 에서 82.3%를 기록해서 81%인 GPT-4 Turbo(gpt-3-0125-preview)를 상회함
 Meta의 CRUXEval 에서는 59%로 GPT-4의 62%에 조금 못 미침
 코드생성 측면에서는 거의 GPT-4 Turbo와 동일하거나 일부 작업에서는 이를 능가
 GPT-4 Turbo 보다 덜 "Lazy" 해서 상세한 코드 예제를 생성하는데 주저하지 않음
-
+phind.com
 ## Lumiere is a space-time diffusion research model 
 generates video from various inputs, including image-to-video. The model generates videos that start with the desired first frame & exhibit intricate coherent motion across the entire video duration.
 Website: https://lumiere-video.github.io/
