@@ -1,3 +1,10 @@
+## Biye-gpt 
+https://byte-gpt.github.io/
+https://arxiv.org/abs/2402.19155
+byte level transformer (bGPT)
+tokenize 없이 byte 정보를 바로 모델이 넣고 prediction 하는 방식으로 동작하는 모델.. 그래서 vocab size는 256 + 1.
+공개된 코드 상으로는 sequence length는 512에 불과하지만 multimodal로 가는 과정
+
 ## Keyframer (Apple) 
 : LLM 의 코드 생성 기능을 활용하여 SVG 벡터 이미지를 코드로 변경하여 애니메이션화. 텍스트 프롬프트를 입력으로 영상을 생성하는 기존 생성 모델과는 다르게, 자연어와 이미지(SVG) 을 넣어주면 LLM 코드 생성 기능 활용하여 애니메이트 생성 
 
