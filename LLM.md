@@ -1,4 +1,4 @@
-## Biye-gpt 
+## Byte-gpt 
 https://byte-gpt.github.io/
 https://arxiv.org/abs/2402.19155
 byte level transformer (bGPT)
