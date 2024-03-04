@@ -1,3 +1,4 @@
+
 ## Byte-gpt 
 https://byte-gpt.github.io/
 https://arxiv.org/abs/2402.19155
@@ -60,6 +61,10 @@ https://huggingface.co/defog/sqlcoder-70b-alpha
 
 ## Argmax presents WhisperKit
 https://huggingface.co/argmaxinc/whisperkit-coreml
+
+## Awesome-Graph-LLM
+그래프 기반 기법과 LLM과 관련된 연구 논문의 큐레이션 목록 저장소.
+https://github.com/XiaoxinHe/Awesome-Graph-LLM
 
 ## codelaama2
 quantized CodeLlama 70b Instruct to 4-bit with MLX
