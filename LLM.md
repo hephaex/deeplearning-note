@@ -1,6 +1,9 @@
 ## Intel Extension for Transformers
-https://twitter.com/HaihaoShen/status/1765003980621619617
-https://github.com/intel/intel-extension-for-transformers
+Intel Extension for Transformers (https://github.com/intel/intel-extension-for-transformers) supports INT4 and low-bit inference on both CPUs and GPUs!
+📔Simple usage guide: https://github.com/intel/intel-extension-for-transformers/blob/main/docs/weightonlyquant.md 
+🔥All your need is to get an Intel GPU and run LLMs @huggingface
+ 
+ https://github.com/intel/intel-extension-for-transformers
 
 ## Byte-gpt 
 https://byte-gpt.github.io/
