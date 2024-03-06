@@ -1,3 +1,6 @@
+## Intel Extension for Transformers
+https://twitter.com/HaihaoShen/status/1765003980621619617
+https://github.com/intel/intel-extension-for-transformers
 
 ## Byte-gpt 
 https://byte-gpt.github.io/
