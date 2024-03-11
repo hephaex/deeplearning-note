@@ -1,3 +1,8 @@
+## DreamCraft3D
+GitHub_Link (https://github.com/deepseek-ai/DreamCraft3D)
+
+DreamCraft3D pioneers a groundbreaking approach to 3D content generation, overcoming consistency challenges with innovative techniques like score distillation and Bootstrapped Score Distillation. The alternating optimization strategy showcases a synergistic relationship between 3D scene representation and diffusion models, resulting in remarkable photorealistic renderings and a noteworthy leap in the state-of-the-art.
+
 ## Intel Extension for Transformers
 Intel Extension for Transformers (https://github.com/intel/intel-extension-for-transformers) supports INT4 and low-bit inference on both CPUs and GPUs!
 📔Simple usage guide: https://github.com/intel/intel-extension-for-transformers/blob/main/docs/weightonlyquant.md 
