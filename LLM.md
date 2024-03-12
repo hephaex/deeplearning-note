@@ -1,3 +1,7 @@
+## Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a Single GPU
+https://twitter.com/_akhaliq/status/1767393991727657262
+https://huggingface.co/papers/2403.06504
+
 ## Domain Expansion of Image Generators
 Domain Expansion of Image Generators offers a groundbreaking perspective on enhancing pretrained generative models. The ability to seamlessly integrate numerous new domains while preserving the original knowledge presents a transformative approach to model versatility and efficiency, potentially reshaping the landscape of generative model applications.
 GitHub_Link (https://github.com/adobe-research/domain-expansion)
