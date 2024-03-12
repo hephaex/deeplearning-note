@@ -1,3 +1,7 @@
+## Domain Expansion of Image Generators
+Domain Expansion of Image Generators offers a groundbreaking perspective on enhancing pretrained generative models. The ability to seamlessly integrate numerous new domains while preserving the original knowledge presents a transformative approach to model versatility and efficiency, potentially reshaping the landscape of generative model applications.
+GitHub_Link (https://github.com/adobe-research/domain-expansion)
+
 ## DreamCraft3D
 GitHub_Link (https://github.com/deepseek-ai/DreamCraft3D)
 
