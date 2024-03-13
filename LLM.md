@@ -1,3 +1,6 @@
+## Mixing Expert LLMs into a Mixture-of-Experts LLM
+https://huggingface.co/papers/2403.07816
+
 ## Visual Style Prompting with Swapping Self-Attention
 Official Pytorch implementation of "Visual Style Prompting with Swapping Self-Attention"
 GitHub_Link (https://github.com/naver-ai/Visual-Style-Prompting)
