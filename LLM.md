@@ -1,3 +1,7 @@
+## Visual Style Prompting with Swapping Self-Attention
+Official Pytorch implementation of "Visual Style Prompting with Swapping Self-Attention"
+GitHub_Link (https://github.com/naver-ai/Visual-Style-Prompting)
+
 ## Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a Single GPU
 https://twitter.com/_akhaliq/status/1767393991727657262
 https://huggingface.co/papers/2403.06504
