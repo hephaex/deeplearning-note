@@ -1,3 +1,5 @@
+## AutoRecon: Automated 3D Object Discovery and Reconstruction
+GitHub_Link (https://github.com/zju3dv/AutoRecon)
 ## Mixing Expert LLMs into a Mixture-of-Experts LLM
 https://huggingface.co/papers/2403.07816
 
