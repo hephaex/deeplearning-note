@@ -1,3 +1,6 @@
+## DE-Net: Dynamic Text-guided Image Editing Adversarial Networks
+GitHub_Link (https://github.com/tobran/DE-Net)
+
 ## AutoRecon: Automated 3D Object Discovery and Reconstruction
 GitHub_Link (https://github.com/zju3dv/AutoRecon)
 ## Mixing Expert LLMs into a Mixture-of-Experts LLM
