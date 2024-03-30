@@ -1,4 +1,15 @@
-## Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation
+## https://arxiv.org/pdf/2310.08754.pdf
+- 단일 언어 토크나이저를 기반으로 개발된 LLM의  다국어 성능이 비교적 낮은 점, 코딩 특화 토크나이저를 이용한 LLM의 코딩 능력을 개선한 점 등의 사례를 통해 토크나이저가 LLM의 성능에 큰 영향을 미친다는 것이 다시금 확인 되었습니다.
+- 토크나이저의 vocab size는 무작정 늘리는 것이 좋다기보단 추론 속도와 메모리 사용량을 종합적으로 고려해 최적의 값을 찾는 게 중요합니다.
+- 토크나이저 자체를 평가하는 지표(fertility, parity)와 LLM의 성능 지표 간에 강한 관계는 없는 것으로 나타났습니다.
+- 50B 이상의 모델들을 파인튜닝할 때는 토크나이저를 바꾸는 것이 LLM의 성능에 영향을 주지 않았다고 합니다.
+(Abstract translated with Claude Opus)
+- 토큰화는 현대 LLM의 과소 연구되고 종종 간과되는 구성 요소입니다. 대부분의 발표된 연구는 토큰화를 최적화하기 위한 절제(ablation)나 분석을 수행하지 않고, 종종 다른 모델에서 차용한 단일 토크나이저를 모든 실험에 사용합니다. 또한, 기본 모델을 fine-tuning할 때 토크나이저는 일반적으로 변경되지 않은 상태로 유지됩니다. 
+- 이 논문에서는 토크나이저의 크기, 사전 토큰화 정규 표현식 및 학습 데이터가 모델의 생성 속도, 유효 컨텍스트 크기, 메모리 사용량 및 다운스트림 성능에 상당한 영향을 미칠 수 있음을 보여줍니다. 
+- 우리는 전문화된 Byte-Pair Encoding 코드 토크나이저를 학습시키고, HumanEval 및 MBPP와 같은 코드 생성 작업에 대한 LLM의 성능에 미치는 토크나이저 설계의 영향에 대해 광범위한 절제(ablation)를 수행하며, 토크나이저 하이퍼 파라미터 선택 및 사전 학습된 LLM에서의 토크나이저 전환에 대한 권장 사항을 제공합니다. 
+- 우리는 처음부터 학습한 모델과 사전 학습된 모델에서 실험을 수행하여 광범위한 사용 사례에 대한 적용 가능성을 검증합니다. 우리는 500억 개 이상의 토큰으로 fine-tuning할 때, 사전 학습된 LLM의 토크나이저를 전문화하여 생성 속도와 유효 컨텍스트 크기에서 큰 이득을 얻을 수 있다는 것을 발견했습니다.
+-
+- ## Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation
 https://twitter.com/fly51fly/status/1773835840709697889
 https://arxiv.org/abs/2403.19319
 
