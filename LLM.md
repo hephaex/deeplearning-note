@@ -1,4 +1,5 @@
-## https://arxiv.org/pdf/2310.08754.pdf
+## Tokenizer Choice For LLM Training: Negligible or Crucial?
+https://arxiv.org/pdf/2310.08754.pdf
 - 단일 언어 토크나이저를 기반으로 개발된 LLM의  다국어 성능이 비교적 낮은 점, 코딩 특화 토크나이저를 이용한 LLM의 코딩 능력을 개선한 점 등의 사례를 통해 토크나이저가 LLM의 성능에 큰 영향을 미친다는 것이 다시금 확인 되었습니다.
 - 토크나이저의 vocab size는 무작정 늘리는 것이 좋다기보단 추론 속도와 메모리 사용량을 종합적으로 고려해 최적의 값을 찾는 게 중요합니다.
 - 토크나이저 자체를 평가하는 지표(fertility, parity)와 LLM의 성능 지표 간에 강한 관계는 없는 것으로 나타났습니다.
