@@ -1,3 +1,7 @@
+## Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation
+https://twitter.com/fly51fly/status/1773835840709697889
+https://arxiv.org/abs/2403.19319
+
 ## 대규모 언어 모델(LLM) 격투장
 스트리트 파이터 III에서 LLM이 실시간으로 서로 싸우게 했답니다.
 어떤 LLM이 최고의 파이터가 될까요?
