@@ -9,8 +9,8 @@ https://arxiv.org/pdf/2310.08754.pdf
 - 이 논문에서는 토크나이저의 크기, 사전 토큰화 정규 표현식 및 학습 데이터가 모델의 생성 속도, 유효 컨텍스트 크기, 메모리 사용량 및 다운스트림 성능에 상당한 영향을 미칠 수 있음을 보여줍니다. 
 - 우리는 전문화된 Byte-Pair Encoding 코드 토크나이저를 학습시키고, HumanEval 및 MBPP와 같은 코드 생성 작업에 대한 LLM의 성능에 미치는 토크나이저 설계의 영향에 대해 광범위한 절제(ablation)를 수행하며, 토크나이저 하이퍼 파라미터 선택 및 사전 학습된 LLM에서의 토크나이저 전환에 대한 권장 사항을 제공합니다. 
 - 우리는 처음부터 학습한 모델과 사전 학습된 모델에서 실험을 수행하여 광범위한 사용 사례에 대한 적용 가능성을 검증합니다. 우리는 500억 개 이상의 토큰으로 fine-tuning할 때, 사전 학습된 LLM의 토크나이저를 전문화하여 생성 속도와 유효 컨텍스트 크기에서 큰 이득을 얻을 수 있다는 것을 발견했습니다.
--
-- ## Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation
+
+## Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation
 https://twitter.com/fly51fly/status/1773835840709697889
 https://arxiv.org/abs/2403.19319
 
