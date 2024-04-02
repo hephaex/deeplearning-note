@@ -1,3 +1,6 @@
+## ComfyUI
+Node : https://github.com/chaojie/ComfyUI-AniPortrait 
+
 ## Tokenizer Choice For LLM Training: Negligible or Crucial?
 https://arxiv.org/pdf/2310.08754.pdf
 - 단일 언어 토크나이저를 기반으로 개발된 LLM의  다국어 성능이 비교적 낮은 점, 코딩 특화 토크나이저를 이용한 LLM의 코딩 능력을 개선한 점 등의 사례를 통해 토크나이저가 LLM의 성능에 큰 영향을 미친다는 것이 다시금 확인 되었습니다.
