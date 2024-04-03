@@ -1,3 +1,7 @@
+## Large Language Models Are Effective Temporal Learners
+https://twitter.com/_akhaliq/status/1775179607920017806
+https://huggingface.co/papers/2404.00308
+
 ## ComfyUI
 Node : https://github.com/chaojie/ComfyUI-AniPortrait 
 
