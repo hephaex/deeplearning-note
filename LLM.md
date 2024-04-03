@@ -1,3 +1,7 @@
+## InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction
+https://twitter.com/arankomats.../status/1774618885494342119
+https://arxiv.org/abs/2403.19652
+
 ## Google announces Streaming Dense Video Captioning
 https://twitter.com/_akhaliq/status/1775176791772008825
 https://huggingface.co/papers/2404.01297
