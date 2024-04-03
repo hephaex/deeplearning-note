@@ -1,3 +1,7 @@
+## Google announces Streaming Dense Video Captioning
+https://twitter.com/_akhaliq/status/1775176791772008825
+https://huggingface.co/papers/2404.01297
+
 ## Large Language Models Are Effective Temporal Learners
 https://twitter.com/_akhaliq/status/1775179607920017806
 https://huggingface.co/papers/2404.00308
