@@ -1,3 +1,6 @@
+## InstantID : Zero-shot Identity-Preserving Generation in Seconds
+gitHub_Link (https://github.com/InstantID/InstantID)
+
 ## InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction
 https://twitter.com/arankomats.../status/1774618885494342119
 https://arxiv.org/abs/2403.19652
