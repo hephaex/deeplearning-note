@@ -1,3 +1,6 @@
+## GPT beats diffusion
+GitHub_Link (https://github.com/FoundationVision/VAR)
+
 ## InstantID : Zero-shot Identity-Preserving Generation in Seconds
 gitHub_Link (https://github.com/InstantID/InstantID)
 
