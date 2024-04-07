@@ -1,3 +1,14 @@
+## Llama2, Mistral 모델의 FP8
+Friendli AI 에서 Llama2, Mistral 모델의 FP8 모델 체크포인트를 공개했습니다. 
+
+[https://huggingface.co/FriendliAI/Mistral-7B-Instruct-v0.2-fp8](https://huggingface.co/FriendliAI/Mistral-7B-Instruct-v0.2-fp8)
+
+[https://huggingface.co/FriendliAI/Llama-2-7b-chat-hf-fp8](https://huggingface.co/FriendliAI/Llama-2-7b-chat-hf-fp8)
+
+[https://huggingface.co/FriendliAI/Llama-2-13b-chat-hf-fp8](https://huggingface.co/FriendliAI/Llama-2-13b-chat-hf-fp8)
+
+[https://huggingface.co/FriendliAI/Llama-2-70b-chat-hf-fp8](https://huggingface.co/FriendliAI/Llama-2-70b-chat-hf-fp8)
+
 ## Retrieval-based-Voice-Conversion
 https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/tree/main
 
