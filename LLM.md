@@ -1,3 +1,8 @@
+## StructLDM: Structured Latent Diffusion for 3D Human Generation (2404, S-Lab Nanyang Technological University)
+
+site : https://taohuumd.github.io/projects/StructLDM/
+paper : https://arxiv.org/abs/2404.01241
+
 ## Llama2, Mistral 모델의 FP8
 Friendli AI 에서 Llama2, Mistral 모델의 FP8 모델 체크포인트를 공개했습니다. 
 
