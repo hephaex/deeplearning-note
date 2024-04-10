@@ -1,5 +1,5 @@
-## StructLDM: Structured Latent Diffusion for 3D Human Generation (2404, S-Lab Nanyang Technological University)
-
+## StructLDM: Structured Latent Diffusion for 3D Human Generation 
+(2404, S-Lab Nanyang Technological University)
 site : https://taohuumd.github.io/projects/StructLDM/
 paper : https://arxiv.org/abs/2404.01241
 
