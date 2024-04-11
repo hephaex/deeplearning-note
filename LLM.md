@@ -1,3 +1,6 @@
+## WonderJourney: Going from Anywhere to Everywhere
+GitHub_Link (https://github.com/KovenYu/WonderJourney)
+
 ## StructLDM: Structured Latent Diffusion for 3D Human Generation 
 (2404, S-Lab Nanyang Technological University)
 site : https://taohuumd.github.io/projects/StructLDM/
