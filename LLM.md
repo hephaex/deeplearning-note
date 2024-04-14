@@ -1,6 +1,16 @@
 ## NEW EULER SMEA DYN SAMPLER!!! ]
 
+A1111 , ComfyUI 에서 사용할 수 있다고 합니다.
+git : https://github.com/Koishi-Star/Euler-Smea-Dyn-Sampler
 .
+주요내용 >
+우수한 이미지를 생성하도록 설계된 오일러의 접근 방식을 기반으로 한 샘플링 방법입니다.
+SMEA 샘플러는 대형 이미지를 생성할 때 발생하는 구조적 및 사지 붕괴를 크게 완화할 수 있으며, 상당 부분 우수한 손 묘사를 생성할 수 있습니다(완벽하지는 않지만 기존 샘플링 방법보다 우수함).
+SMEA 샘플러는 대부분의 이미지 크기를 수용하도록 설계되었으며 특히 큰 이미지에서 탁월한 성능을 발휘합니다. 또한 훈련 데이터가 충분하지 않은 색다른 크기의 이미지 생성도 지원합니다(예: SDXL에서 512x512 실행, SD1.5에서 823x1216 실행, 640x960 실행 등).
+SMEA 샘플러는 SD1.5에서 매우 잘 작동하지만 SDXL에서는 그 효과가 뚜렷하지 않습니다.
+계산 리소스 소비 측면에서 Euler dy는 Euler a와 거의 동일하지만 Euler SMEA Dy 샘플러는 약 1.25배 더 많은 계산 리소스를 소비합니다.
+
+
 This is really good, isn't it? Just using the sampler update, you can get good results at non-standard resolutions with SD15. It's available for use in A1111 and ComfyUI.
 git : https://github.com/Koishi-Star/Euler-Smea-Dyn-Sampler
 .
