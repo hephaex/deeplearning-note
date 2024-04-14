@@ -1,3 +1,15 @@
+## NEW EULER SMEA DYN SAMPLER!!! ]
+
+.
+This is really good, isn't it? Just using the sampler update, you can get good results at non-standard resolutions with SD15. It's available for use in A1111 and ComfyUI.
+git : https://github.com/Koishi-Star/Euler-Smea-Dyn-Sampler
+.
+A sampling method based on Euler's approach, designed to generate superior imagery.
+The SMEA sampler can significantly mitigate the structural and limb collapse that occurs when generating large images, and to a great extent, it can produce superior hand depictions (not perfect, but better than existing sampling methods).
+The SMEA sampler is designed to accommodate the majority of image sizes, with particularly outstanding performance on larger images. It also supports the generation of images in unconventional sizes that lack sufficient training data (for example, running 512x512 in SDXL, 823x1216 in SD1.5, as well as 640x960, etc.).
+The SMEA sampler performs very well in SD1.5, but the effects are not as pronounced in SDXL.
+In terms of computational resource consumption, the Euler dy is approximately equivalent to the Euler a, while the Euler SMEA Dy sampler will consume more computational resources, approximately 1.25 times more.
+
 ## gpt-prompt-engineer
 https://github.com/mshumer/gpt-prompt-engineer
 
