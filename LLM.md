@@ -59,6 +59,9 @@ Llama 3는 클라우드 제공업체, 모델 API 제공업체 등 주요 플랫�
 Llama 3 8B 및 70B 모델은 Llama 3 출시 계획의 시작에 불과함
 향후 몇 달 동안 멀티모달, 다국어 대화 능력, 훨씬 더 긴 맥락 창, 전반적으로 더 강력한 기능 등 새로운 기능을 갖춘 여러 모델을 출시할 예정임
 Llama 3 학습이 완료되면 상세한 연구 논문도 게재할 예정임
+### Llama-3-400B+ will mark the watershed moment that the community gains open-weight access to a GPT-4-class model.
+https://github.com/openai/simple-evals
+
 
 ## NEW EULER SMEA DYN SAMPLER!!! ]
 
