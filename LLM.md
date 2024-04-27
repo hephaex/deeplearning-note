@@ -2,10 +2,12 @@
 ### Llama 3의 첫 두 가지 모델(사전학습 및 명령어 미세조정된 8B와 70B 모델)을 공개
 광범위한 업계 벤치마크들에서 최첨단 성능을 보여주며, 향상된 추론 등 새로운 기능을 제공
 현재 사용 가능한 최고의 독점 모델과 동등한 수준의 최고의 오픈 모델을 구축하고자 함. 개발자 피드백을 반영하고, 빠르게 자주 릴리즈하는 것을 목표로 함
+
 ### Llama Guard 2, Code Shield, CyberSec Eval 2 등의 새로운 신뢰 및 안전 도구 도입
 향후 몇 달 내에 새로운 기능, 더 긴 컨텍스트 윈도우, 추가 모델 크기, 향상된 성능 등을 도입할 예정이며, Llama 3 연구 논문도 공유할 예정
 AWS, Databricks, Google Cloud, Hugging Face, Kaggle, IBM WatsonX, Microsoft Azure, NVIDIA NIM, Snowflake 등에서 곧 사용 가능해질 예정이며, AMD, AWS, Dell, Intel, NVIDIA, Qualcomm 등의 하드웨어 플랫폼에서도 지원될 예정
 Llama 3 기술로 구축된 Meta AI는 이제 세계 최고 수준의 AI 어시스턴트 중 하나로, 사용자의 지능을 높이고 부담을 덜어줄 수 있음
+
 ### Llama 3의 성능
 8B와 70B 파라미터 Llama 3 모델은 Llama 2에 비해 큰 도약을 이루었으며, 해당 규모에서 LLM 모델의 새로운 최고 수준을 달성
 사전 학습 및 사후 학습의 개선 덕분에 사전 학습되고 명령어 미세 조정된 모델은 8B와 70B 파라미터 규모에서 현존하는 최고의 모델임
