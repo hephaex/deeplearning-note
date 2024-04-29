@@ -1,3 +1,5 @@
+## Photoswap : Personalized Subject Swapping in Images
+GitHub_Link (https://github.com/eric-ai-lab/photoswap)
 ## Meta, Llama 3 공개
 ### Llama 3의 첫 두 가지 모델(사전학습 및 명령어 미세조정된 8B와 70B 모델)을 공개
 광범위한 업계 벤치마크들에서 최첨단 성능을 보여주며, 향상된 추론 등 새로운 기능을 제공
