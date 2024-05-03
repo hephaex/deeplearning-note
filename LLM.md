@@ -1,3 +1,6 @@
+## TELA: Text to 3D Clothed Humans
+GitHub_Link (https://github.com/DongJT1996/TELA)
+
 ## Revealing the Parametric Knowledge of Language Models: A Unified Framework for Attribution Methods
 https://twitter.com/fly51fly/status/1785423963243647156
 https://arxiv.org/abs/2404.18655
