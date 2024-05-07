@@ -1,8 +1,8 @@
 ## VILA 1.5
 https://developer.nvidia.com/.../visual-language-models.../
-Deploy on Jetson Orin/RTX 4090:
-- Visual Language Intelligence and Edge AI 2.0 (https://developer.nvidia.com/.../visual-language.../ )
 
+Deploy on Jetson Orin/RTX 4090:
+- Visual Language Intelligence and Edge AI 2.0
 Paper: https://arxiv.org/abs/2312.07533
 Repo: https://github.com/Efficient-Large-Model/VILA
 HF-repo: https://huggingface.co/Efficient-Large-Model
