@@ -1,3 +1,12 @@
+##  Advancing Multimodal Medical Capabilities of Gemini
+요약: 
+많은 임상 작업에는 일반적으로 범용 대형 다중 모드 모델에서는 볼 수 없는 의료 이미지, 유전체학과 같은 특수 데이터에 대한 이해가 필요합니다. Gemini의 다중 모드 모델을 기반으로 Gemini의 핵심 기능을 계승하고 2D 및 3D 방사선학, 조직병리학, 안과학, 피부과 및 게놈 데이터를 통한 미세 조정을 통해 의료용으로 최적화된 새로운 Med-Gemini 제품군 내의 여러 모델을 개발합니다. Med-Gemini-2D는 전문가 평가를 기반으로 AI 기반 흉부 엑스레이(CXR) 보고서 생성을 위한 새로운 표준을 설정합니다. 이는 두 개의 개별 데이터 세트에서 이전 최고 결과를 1%와 12%의 절대 마진으로 초과합니다. 여기서 57%와 12% 정상 사례에 대한 AI 보고서의 96%, 비정상 사례에 대한 43%, 65%가 원래 방사선 전문의의 보고서와 "동등하거나 더 나은" 것으로 평가됩니다. 우리는 Med-Gemini-3D를 사용하여 3D 컴퓨터 단층촬영(CT) 볼륨에 대한 최초의 대규모 다중 모드 모델 기반 보고서 생성을 시연합니다. AI 보고서의 53%는 임상적으로 허용 가능한 것으로 간주되지만 전문 방사선 전문의 보고 품질을 충족하려면 추가 연구가 필요합니다. 보고서 생성 외에도 Med-Gemini-2D는 CXR 시각적 질문 답변(VQA)에서 이전 최고 성능을 능가하고 CXR 분류 및 방사선학 VQA에서 우수한 성능을 발휘하여 20개 작업 중 17개 작업에서 SoTA 또는 기준선을 초과합니다. 조직병리학, 안과학, 피부과 이미지 분류에서 Med-Gemini-2D는 20개 작업 중 18개 작업에서 기준선을 능가하고 작업별 모델 성능에 접근합니다. 영상 촬영 외에도 Med-Gemini-Polygenic은 질병 위험 예측을 위한 표준 선형 다유전성 위험 점수 기반 접근 방식을 능가하며, 훈련된 적이 없는 유전적으로 연관된 질병을 일반화합니다. 안전이 중요한 의료 영역에서는 추가 개발과 평가가 필요하지만, 우리의 결과는 광범위한 의료 작업에 걸쳐 Med-Gemini의 잠재력을 강조합니다.
+arXiv: https://arxiv.org/abs/2405.03162
+Browse: https://browse.arxiv.org/pdf/2405.03162.pdf
+PDF: https://arxiv.org/pdf/2405.03162.pdf  
+arXiv-vanity: https://www.arxiv-vanity.com/papers/2405.03162 
+Paper page: https://huggingface.co/papers/2405.03162
+
 ## VILA 1.5
 https://developer.nvidia.com/.../visual-language-models.../
 
