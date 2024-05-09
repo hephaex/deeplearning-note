@@ -1,4 +1,9 @@
-## “BELEBELE”라는 122개 언어에 대한 읽기 이해 평가를 위한 데이터셋을 공개
+## llm datasets
+- [LMSYS-Chat-1M: A Large-Scale Real-World LLM Conversation Dataset](https://huggingface.co/datasets/lmsys/lmsys-chat-1m)
+- [Chatbot Arena Conversation Dataset](https://huggingface.co/datasets/lmsys/chatbot_arena_conversations)
+- [MT-bench Human Annotation Dataset](https://huggingface.co/datasets/lmsys/mt_bench_human_judgments)
+-
+- ## “BELEBELE”라는 122개 언어에 대한 읽기 이해 평가를 위한 데이터셋을 공개
 
 다국어 모델의 텍스트 이해 능력을 평가하기 위한 벤치마크 테스트셋으로, 언어마다 동일한 데이터셋이 있어 모델의 성능을 모든 언어에 대해 직접적으로 비교 할 수 있습니다. 
 단일 언어는 물론, 다국어 및 교차 언어 모델까지 평가가 가능합니다.
