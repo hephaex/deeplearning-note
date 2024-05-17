@@ -1,5 +1,5 @@
 ##  Advancing Multimodal Medical Capabilities of Gemini
-요약: 
+### 요약: 
 많은 임상 작업에는 일반적으로 범용 대형 다중 모드 모델에서는 볼 수 없는 의료 이미지, 유전체학과 같은 특수 데이터에 대한 이해가 필요합니다.
 
 Gemini의 다중 모드 모델을 기반으로 Gemini의 핵심 기능을 계승하고 2D 및 3D 방사선학, 조직병리학, 안과학, 피부과 및 게놈 데이터를 통한 미세 조정을 통해 의료용으로 최적화된 새로운 Med-Gemini 제품군 내의 여러 모델을 개발합니다. 
@@ -21,7 +21,7 @@ AI 보고서의 53%는 임상적으로 허용 가능한 것으로 간주되지�
 영상 촬영 외에도 Med-Gemini-Polygenic은 질병 위험 예측을 위한 표준 선형 다유전성 위험 점수 기반 접근 방식을 능가하며, 훈련된 적이 없는 유전적으로 연관된 질병을 일반화합니다. 
 
 안전이 중요한 의료 영역에서는 추가 개발과 평가가 필요하지만, 우리의 결과는 광범위한 의료 작업에 걸쳐 Med-Gemini의 잠재력을 강조합니다.
-
+### link
 arXiv: https://arxiv.org/abs/2405.03162
 Browse: https://browse.arxiv.org/pdf/2405.03162.pdf
 PDF: https://arxiv.org/pdf/2405.03162.pdf  
