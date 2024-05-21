@@ -28,11 +28,10 @@ PDF: https://arxiv.org/pdf/2405.03162.pdf
 arXiv-vanity: https://www.arxiv-vanity.com/papers/2405.03162 
 Paper page: https://huggingface.co/papers/2405.03162
 
-## VILA 1.5
+## Visual Language Intelligence and Edge AI 2.0 VILA 1.5
 https://developer.nvidia.com/.../visual-language-models.../
 
 Deploy on Jetson Orin/RTX 4090:
-- Visual Language Intelligence and Edge AI 2.0
 - Paper: https://arxiv.org/abs/2312.07533
 - Repo: https://github.com/Efficient-Large-Model/VILA
 - HF-repo: https://huggingface.co/Efficient-Large-Model
