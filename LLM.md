@@ -119,6 +119,12 @@ Llama 3 학습이 완료되면 상세한 연구 논문도 게재할 예정임
 ### Llama-3-400B+ will mark the watershed moment that the community gains open-weight access to a GPT-4-class model.
 https://github.com/openai/simple-evals
 
+## Garment3DGen : 3D Garment Stylization and Texture Generation (2403, Meta)
+
+site : https://nsarafianos.github.io/garment3dgen
+paper : https://arxiv.org/abs/2403.18816
+code : comimg 
+
 
 ## NEW EULER SMEA DYN SAMPLER!!! ]
 
