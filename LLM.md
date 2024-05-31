@@ -25,7 +25,9 @@ AI 보고서의 53%는 임상적으로 허용 가능한 것으로 간주되지�
 ### link
 arXiv: https://arxiv.org/abs/2405.03162
 Browse: https://browse.arxiv.org/pdf/2405.03162.pdf
+
 PDF: https://arxiv.org/pdf/2405.03162.pdf  
+
 arXiv-vanity: https://www.arxiv-vanity.com/papers/2405.03162 
 Paper page: https://huggingface.co/papers/2405.03162
 
