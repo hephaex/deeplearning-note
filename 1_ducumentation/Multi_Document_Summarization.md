@@ -1,4 +1,5 @@
 》》 Multi-Document Summarization of Evaluative Text
+
 #GENERAL
 - [PDF](http://www.anthology.aclweb.org/E/E06/E06-1039.pdf)
 - [SLIDE ppt](https://www.google.co.jp/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwiNxNrYsLPXAhWIe7wKHfJ5CwgQFghAMAI&url=https%3A%2F%2Fwww.cs.ubc.ca%2F%7Erng%2Ftalkdepository%2Feacl2006.ppt&usg=AOvVaw1razPu9cN3_tzoV2VrQZvt)
