@@ -1,3 +1,7 @@
+## Teaching LLMs to Express Confidence
+https://x.com/omarsar0/status/1797682549608833477
+https://arxiv.org/abs/2405.20974
+
 ##  Advancing Multimodal Medical Capabilities of Gemini
 ### 요약: 
 많은 임상 작업에는 일반적으로 범용 대형 다중 모드 모델에서는 볼 수 없는 의료 이미지, 유전체학과 같은 특수 데이터에 대한 이해가 필요합니다.
