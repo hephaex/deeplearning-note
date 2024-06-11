@@ -23,3 +23,7 @@ Triton Inference Server 및 TensorRT를 사용하여 프로덕션 환경에 AI �
 ## notebook 
 collaborative effort to create better workflows for data scientists.
 Repo: https://github.com/mage-ai/mage-ai
+
+## awesome-ai-agents-guide
+https://github.com/algomatic-inc/awesome-ai-agents-guide
+
