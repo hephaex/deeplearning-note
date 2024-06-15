@@ -1,3 +1,12 @@
+## Nemotron4_340B
+2월에 공개되었던 NVIDIA Nemotron-4의 340B 버전이 Base 모델, Instruct 모델 그리고 Reward 모델이 공개되었습니다. 오픈소스 규약 관점에서 모델 수정, 배포, 결과물 활용까지 폭넓게 활용 가능한 형태입니다. 
+8조개 토큰에 pretraining 후 1조개를 continued training 해서 총 9조개 토큰에 학습 했네요. Alignment 를 위한 데이터는 대부분 (98% 넘게) 합성을 통해서 만들어 냈다고 합니다.
+FP8로 인퍼런스 할때는 8xH100 DGX 1 노드로 돌아가게 만들었다고 하네요. BF16으로 한다면 H200 1노드, H100 이랑 A100은 2노드라고 합니다. 
+예시로 데이터 증강용으로 많이 활용하라고 하는데 최대 토큰길이도 4K 밖에 되지 않아 뭔가 서비스 어플리케이션 향으로 쓰기엔 부담스럽긴 하네요. 340B를 리얼타임에 쓰기도 어렵겠구요.
+그래도 오픈소스 모델의 다양성이 늘어나는 부분은 의미가 있겠습니다. 
+프로젝트 페이지: https://research.nvidia.com/publi.../2024-06_nemotron-4-340b
+허깅페이스: https://huggingface.co/nvidia/Nemotron-4-340B-Base
+
 ## Teaching LLMs to Express Confidence
 https://x.com/omarsar0/status/1797682549608833477
 https://arxiv.org/abs/2405.20974
