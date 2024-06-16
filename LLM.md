@@ -1,3 +1,13 @@
+## Open Synthetic Data Generation Pipeline for Training Large Language Models
+
+
+The Nemotron-4 340B instruct model lets you generate high-quality data and then the reward model (also released) can filter out data on several attributes.
+
+https://blogs.nvidia.com/.../nemotron-4-synthetic-data.../
+
+Research paper: https://research.nvidia.com/publi.../2024-06_nemotron-4-340b
+arXiv : https://arxiv.org/abs/2406.08673
+
 ## Nemotron4_340B
 2월에 공개되었던 NVIDIA Nemotron-4의 340B 버전이 Base 모델, Instruct 모델 그리고 Reward 모델이 공개되었습니다. 오픈소스 규약 관점에서 모델 수정, 배포, 결과물 활용까지 폭넓게 활용 가능한 형태입니다. 
 8조개 토큰에 pretraining 후 1조개를 continued training 해서 총 9조개 토큰에 학습 했네요. Alignment 를 위한 데이터는 대부분 (98% 넘게) 합성을 통해서 만들어 냈다고 합니다.
