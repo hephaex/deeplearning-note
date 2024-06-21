@@ -4,13 +4,13 @@ https://ai.meta.com/blog/meta-fair-research-new-releases/
 ### CM3leon 모델 소개.
 https://ai.meta.com/blog/generative-ai-text-images-cm3leon/
 GPT-4o 같은 텍스트-이미지에 걸친 멀티모달 투 멀티모달 모델이다. 
-텍스트-이미지 상호 생성 부분을 구현하기 위해 멀티모달 입력을 토크나이저 레벨에서 통합해서, 멀티모달로 넣고 모델에서 한 번에 멀티모달로 빼는 식으로 다양한 종류의 멀티모달 태스크를 가능하게 한다. 
+텍스트-이미지 상호 생성 부분을 구현하기 위해 멀티모달 입력을 토크나이저 레벨에서 통합해서, 
+멀티모달로 넣고 모델에서 한 번에 멀티모달로 빼는 식으로 다양한 종류의 멀티모달 태스크를 가능하게 한다. 
 
 ## Toy Models of Superposition
 https://transformer-circuits.pub/2022/toy_model/index.html
 
 ## Open Synthetic Data Generation Pipeline for Training Large Language Models
-
 
 The Nemotron-4 340B instruct model lets you generate high-quality data and then the reward model (also released) can filter out data on several attributes.
 
