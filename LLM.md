@@ -11,7 +11,6 @@ GPT-4o 같은 텍스트-이미지에 걸친 멀티모달 투 멀티모달 모델
 https://transformer-circuits.pub/2022/toy_model/index.html
 
 ## Open Synthetic Data Generation Pipeline for Training Large Language Models
-
 The Nemotron-4 340B instruct model lets you generate high-quality data and then the reward model (also released) can filter out data on several attributes.
 
 https://blogs.nvidia.com/.../nemotron-4-synthetic-data.../
