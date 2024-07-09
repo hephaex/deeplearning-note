@@ -3,6 +3,8 @@ a list of BERT-related papers.
 Any feedback is welcome.
 
 ## Table of Contents
+
+
 - [Downstream task](#downstream-task)
 - [Generation](#generation)
 - [Modification (multi-task, masking strategy, etc.)](#modification-multi-task-masking-strategy-etc)
