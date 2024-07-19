@@ -2,7 +2,6 @@
 CyberAgent에서 일본어 LLM 22B 을 공개했습니다. 
 
 
-
 기존 모델을 베이스로 사용하지 않고 개발한 225억 파라미터의 CyberAgentLM3-22B-Chat입니다.
 
 LLM의 일본어 능력을 평가하는 일본어LLM 리더보드에서 70B 파라미터의 Meta-Llama-3-70B-Instruct와 동등한 성능을 보였고, 그래서 오픈 일본어 LLM으로는 톱클래스의 성능입니다
@@ -12,7 +11,6 @@ LLM의 일본어 능력을 평가하는 일본어LLM 리더보드에서 70B 파�
 
 
 링크 : https://huggingface.co/cyberagent/calm3-22b-chat
-
 데모: https://huggingface.co/spaces/cyberagent/calm3-22b-chat-demo 
 
 ## 한국어 형태소 분석기 Kiwi
