@@ -8,7 +8,6 @@ LLM의 일본어 능력을 평가하는 일본어LLM 리더보드에서 70B 파�
 모델은 상용 이용 가능한 Apache License 2.0입니다. 
 
 링크 : https://huggingface.co/cyberagent/calm3-22b-chat
-데모: https://huggingface.co/spaces/cyberagent/calm3-22b-chat-demo 
 
 ## 한국어 형태소 분석기 Kiwi
 Kiwi가 0.18.0로 업데이트되었습니다. 
