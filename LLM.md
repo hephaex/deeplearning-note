@@ -1,3 +1,6 @@
+## LLM Data Preprocessing
+- [data-juicer](https://github.com/modelscope/data-juicer) (`ModelScope`) ![](https://img.shields.io/github/stars/modelscope/data-juicer.svg?style=social) A one-stop data processing system to make data higher-quality, juicier, and more digestible for (multimodal) LLMs!
+
 ## 일본어 LLM 22B
 CyberAgent에서 일본어 LLM 22B 을 공개했습니다. 
 
