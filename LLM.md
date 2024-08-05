@@ -6,6 +6,9 @@
 
 - [dataverse](https://github.com/UpstageAI/dataverse) (`Upstage`) ![](https://img.shields.io/github/stars/UpstageAI/dataverse.svg?style=social) The Universe of Data. All about data, data science, and data engineering
 - [NeMo-Curator](https://github.com/NVIDIA/NeMo-Curator) (`NVIDIA`) ![](https://img.shields.io/github/stars/NVIDIA/NeMo-Curator.svg?style=social) Scalable toolkit for data curation
+
+- [dps](https://github.com/EleutherAI/dps) (`EleutherAI`)![](https://img.shields.io/github/stars/EleutherAI/dps.svg?style=social) Data processing system for polyglot
+
 ## 일본어 LLM 22B
 CyberAgent에서 일본어 LLM 22B 을 공개했습니다. 
 
