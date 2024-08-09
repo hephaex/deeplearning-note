@@ -1,3 +1,20 @@
+## 서울과기대 MLP 연구실에서 Bllossom-405B preview를 공개
+
+- Llama3.1-405B-Inst 대비 5~10% 한국어 성능이 향상 되었습니다 (single turn 기준).
+- Llama3.1의 영어 성능을 전혀 손상시키지 않은 완전한 Bilingual 모델입니다.
+- 기존 모델 대비 자연스럽고 친절한 한국어 문장을 생성합니다.
+- 인간평가, GPT평가(MT-Bench, LogicKor 9점 등) 결과 GPT4와 유사하거나 약간 낮은 성능을 보여줍니다.
+
+1. 사전학습에 대한 영향이 미미함: 워낙 큰 모델이라 약간의 추가 사전학습을 진행하면 오히려 성능이 하락합니다. 학습량을 늘리면 저희처럼 돈을 태워야하는데 성능향상이 아주 작습니다.
+
+2. 405B의 실제 성능 (벤치마크 말고)이 정말 GPT4에 범접하는가? 네 실제 사용해보면 초기 GPT4 1월 버전과 거의 흡사합니다. 요즘 좋은 소형모델의 점수가 GPT에 근접하는데, 실제 사용해보면 실망스러울겁니다. 이건 전혀 그렇지 않습니다.
+
+3. Bllossom 405B의 한국어 벤치성능은? LogicKor 9점대, 한국어 MT-Bench SOTA 등을 보이고 있습니다.
+
+https://huggingface.co/MLP-KTLim/llama-3-Korean-Bllossom-8B
+https://huggingface.co/Bllossom/llama-3.1-Korean-Bllossom-405B-GGUF
+https://huggingface.co/Bllossom/llama-3.1-Korean-Bllossom-405B
+
 ## LLM Training / Finetuning
 - [nanoGPT](https://github.com/karpathy/nanoGPT) (`karpathy`) ![](https://img.shields.io/github/stars/karpathy/nanoGPT.svg?style=social) The simplest, fastest repository for training/finetuning medium-sized GPTs.
  
