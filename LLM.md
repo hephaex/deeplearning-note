@@ -1,4 +1,3 @@
-
 ## LLM Training / Finetuning
 - [litgpt](https://github.com/Lightning-AI/litgpt) (`LightningAI`) ![](https://img.shields.io/github/stars/Lightning-AI/litgpt.svg?style=social) 20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.
 
