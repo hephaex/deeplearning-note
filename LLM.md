@@ -29,6 +29,7 @@
 - [dps](https://github.com/EleutherAI/dps) (`EleutherAI`)![](https://img.shields.io/github/stars/EleutherAI/dps.svg?style=social) Data processing system for polyglot
 
 ## 서울과기대 MLP 연구실에서 Bllossom-405B preview를 공개
+
 - Llama3.1-405B-Inst 대비 5~10% 한국어 성능이 향상 되었습니다 (single turn 기준).
 - Llama3.1의 영어 성능을 전혀 손상시키지 않은 완전한 Bilingual 모델입니다.
 - 기존 모델 대비 자연스럽고 친절한 한국어 문장을 생성합니다.
