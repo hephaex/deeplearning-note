@@ -17,7 +17,7 @@ print(device_lib.list_local_devices())
 ```
 # cat /etc/os-release
 NAME="Ubuntu"
-VERSION="16.04.2 LTS (Xenial Xerus)"
+VERSION="24.04.2 LTS"
 # lspci | grep -i nvidia
 07:00.0 3D controller: NVIDIA Corporation GK210GL [Tesla K80] (rev a1)
 08:00.0 3D controller: NVIDIA Corporation GK210GL [Tesla K80] (rev a1)
