@@ -1,14 +1,10 @@
-This is a collection of research papers & blogs for **OpenAI Strawberry(o1) and Reasoning**.
+# OpenAI Strawberry(o1) 
 
-And the repository will be continuously updated to track the frontier of LLM Reasoning.
-
-## OpenAI Docs
+OpenAI Docs
 - [https://platform.openai.com/docs/guides/reasoning](https://platform.openai.com/docs/guides/reasoning)
 - <img src="https://github.com/user-attachments/assets/b165cb20-9202-4951-8783-6b2f7e0d6071" width="600px"> 
 
-
 ## Blogs
-
 - [OpenAI] [Learning to Reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
 - [OpenAI] [OpenAI o1-mini Advancing cost-efficient reasoning](https://openai.com/index/openai-o1-mini-advancing-cost-efficient-reasoning)
 - [OpenAI] [Finding GPT-4’s mistakes with GPT-4](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)
