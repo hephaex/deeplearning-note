@@ -25,9 +25,7 @@ And the repository will be continuously updated to track the frontier of LLM Rea
 - <img src="https://github.com/user-attachments/assets/cb1cc1e6-35d4-4567-891a-4e5aca8fa175" width="300px">
 - <img src="https://github.com/user-attachments/assets/d3fd109b-0c97-4a94-931e-919b3b2f75f4" width="300px">
 
-
-## Papers
-
+### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
 ```
 format:
 - [title](paper link) [links]
@@ -36,7 +34,6 @@ format:
   - code
   - experimental environments and datasets
 ```
-### Relevant Paper from OpenAI o1 [contributors](https://openai.com/openai-o1-contributions/)
 - [Training Verifiers to Solve Math Word Problems](https://arxiv.org/abs/2110.14168)
   - Karl Cobbe, Vineet Kosaraju, Mohammad Bavarian, Mark Chen, Heewoo Jun, Lukasz Kaiser, Matthias Plappert, Jerry Tworek, Jacob Hilton, Reiichiro Nakano, Christopher Hesse, John Schulman
 - [Generative Language Modeling for Automated Theorem Proving](https://arxiv.org/abs/2009.03393)
@@ -52,7 +49,7 @@ format:
 - [Scalable Online Planning via Reinforcement Learning Fine-Tuning](https://arxiv.org/abs/2109.15316)
   - Arnaud Fickinger, Hengyuan Hu, Brandon Amos, Stuart Russell, Noam Brown.
 
-### 2024
+### 2024 : Relevant Paper from OpenAI o1
 - [Planning In Natural Language Improves LLM Search For Code Generation](https://arxiv.org/abs/2409.03733)
   - Evan Wang, Federico Cassano, Catherine Wu, Yunfeng Bai, Will Song, Vaskar Nath, Ziwen Han, Sean Hendryx, Summer Yue, Hugh Zhang
 - [An Empirical Analysis of Compute-OptimaInference for Problem-Solving with LanguageModels](https://arxiv.org/abs/2408.00724)
@@ -95,7 +92,7 @@ format:
 - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/pdf/2402.10200)
   - Xuezhi Wang, Denny Zhou
  
-### 2023
+### 2023 : Relevant Paper from OpenAI o1
 - [Training Chain-of-Thought via Latent-Variable Inference](https://arxiv.org/pdf/2312.02179)
   - Du Phan, Matthew D. Hoffman, David Dohan, Sholto Douglas, Tuan Anh Le, Aaron Parisi, Pavel Sountsov, Charles Sutton, Sharad Vikram, Rif A. Saurous
 - [Alphazero-like Tree-Search can Guide Large Language Model Decoding and Training](https://arxiv.org/abs/2309.17179)
@@ -107,23 +104,23 @@ format:
 - [Certified reasoning with language models](https://arxiv.org/pdf/2306.04031)
   - Gabriel Poesia, Kanishk Gandhi, Eric Zelikman, Noah D. Goodman     
 
-### 2022
+### 2022 : Relevant Paper from OpenAI o1 
 - [Chain of Thought Imitation with Procedure Cloning](https://arxiv.org/abs/2205.10816)
   - Mengjiao Yang, Dale Schuurmans, Pieter Abbeel, Ofir Nachum.
 - [STaR: Bootstrapping Reasoning With Reasoning](https://arxiv.org/abs/2203.14465)
   - Eric Zelikman, Yuhuai Wu, Jesse Mu, Noah D. Goodman
     
-### 2021
+### 2021 : Relevant Paper from OpenAI o1
 - [Scaling Scaling Laws with Board Games](http://arxiv.org/abs/2104.03113)
   - Andy L. Jones.
 - [Show Your Work: Scratchpads for Intermediate Computation with Language Models](https://arxiv.org/pdf/2112.00114)
   - Maxwell Nye, Anders Johan Andreassen, Guy Gur-Ari, Henryk Michalewski, Jacob Austin, David Bieber, David Dohan, Aitor Lewkowycz, Maarten Bosma, David Luan, Charles Sutton, Augustus Odena
  
-### 2017
+### 2017 : Relevant Paper from OpenAI o1
 - [Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm](https://arxiv.org/abs/1712.01815v1)
   - David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis. 
 
-## Evaluation
+### Evaluation of OpenAI o1
 - [AryanDLuffy] [codeforces](https://codeforces.com/blog/entry/133962)
 
 ## LLM Evaluation / Benchmark
