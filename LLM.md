@@ -119,7 +119,6 @@ format:
 ### Evaluation of OpenAI o1
 - [AryanDLuffy] [codeforces](https://codeforces.com/blog/entry/133962)
 
-
 ## LLM Evaluation / Benchmark
 - [evals](https://github.com/openai/evals) (`OpenAI`) ![](https://img.shields.io/github/stars/openai/evals.svg?style=social) Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 
