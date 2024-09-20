@@ -18,11 +18,11 @@ The region is home to about 2.5 million insect species, tens of thousands of pla
   - 다만 영문이라 아쉬웠는데 얼마전 LG CNS에서 한글로 된 KorQuAD를 공개하였습니다.
   - 형식은 SQuAD와 동일하고 위키피디아의 정보를 사용했습니다. 
   - 그동안 마땅한 한글 데이터셋이 없어 답답했던 분들에게 큰 도움이 될 듯 합니다.
-### kss dataset download**
+# 002 kss dataset download**
 * [Korean-Single-Speech dataset](https://www.kaggle.com/bryanpark/korean-single-speaker-speech-dataset): 12,853개(약 12시간)의 샘플로 구성된 한국어 여성 단일화자 발화 dataset입니다.
 
-### celeba-hq-dataset
+# 003 celeba-hq-dataset
 https://www.dropbox.com/s/f7pvjij2xlpff59/celeba_hq.zip?dl=0
 
-### ARC Ukiyo-e Faces Dataset
+# 004 ARC Ukiyo-e Faces Dataset
 https://github.com/rois-codh/arc-ukiyoe-faces/
