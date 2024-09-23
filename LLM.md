@@ -1,3 +1,10 @@
+# "Training Language Models to Self-Correct via Reinforcement Learning"
+이 논문은 LLM이 강화 학습을 기반으로 외부 피드백없이 자체적으로 오류를 인식하고 수정하며 학습하는 방식입니다.
+
+🔧 사용 모델: google/gemma-2-2B-it
+📊 데이터셋: 연구 목적에 맞춰 직접 설계 및 제작
+이 구현을 통해 강화학습을 활용한 언어 모델의 자기 교정 능력 향상 가능성을 느껴볼 수 있었습니다. runpod에서 간단하게 학습해보실 수 있도록 코드랑 데이터 모두 공개해 놓았습니다.
+깃허브 링크 : [https://github.com/daje0601/Google_SCoRe](https://github.com/daje0601/Google_SCoRe)
 # OpenAI Strawberry(o1) 
 
 OpenAI Docs
