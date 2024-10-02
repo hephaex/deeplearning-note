@@ -6,7 +6,6 @@
 📊 데이터셋: 연구 목적에 맞춰 직접 설계 및 제작
 
 이 구현을 통해 강화학습을 활용한 언어 모델의 자기 교정 능력 향상 가능성을 느껴볼 수 있었습니다. runpod에서 간단하게 학습해보실 수 있도록 코드랑 데이터 모두 공개해 놓았습니다.
-
 깃허브 링크 : [https://github.com/daje0601/Google_SCoRe](https://github.com/daje0601/Google_SCoRe)
 
 # OpenAI Strawberry(o1) 
