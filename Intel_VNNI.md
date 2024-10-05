@@ -5,7 +5,6 @@
 여기서는 Xbyak을 이용한 이들 명령어의 활용 방법을 소개합니다.
 
 ## 샘플 코드
-
 - [vpdpbusd-test.cpp](https://github.com/herumi/misc/blob/master/avx-512/vpdpbusd-test.cpp)
   - Cascade Lake용 8bit 적산 연산 명령어 `vpdpbusd` 샘플
 - [bfloat16-test.cpp](https://github.com/herumi/misc/blob/master/avx-512/bfloat16-test.cpp)
