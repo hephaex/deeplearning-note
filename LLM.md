@@ -1,3 +1,10 @@
+## OpenAI 음성인식 오프소스 Whisper V3 Turbo 공개.
+Whisper Large보다 8배, Whisper Medium보다 4배, Whisper Small 모델보다 2배 빠른 속도. 속도가 빠르면서도 성능이 크게 저하되지 않음.
+Whisper V3 Turbo는 809M의 파라미터를 갖추고 있으며, 다국어 지원(한국어 포함 99개 언어).
+https://huggingface.co/openai/whisper-large-v3-turbo
+Whisper는 자동 음성 인식(ASR) 및 음성 번역을 위한 최첨단 모델로, OpenAI의 Alec Radford 등이 작성한 논문 '대규모 약한 감독을 통한 강력한 음성 인식'에서 제안되었습니다. 5백만 시간 이상의 레이블이 지정된 데이터로 학습된 Whisper는 제로 샷 환경에서 많은 데이터 세트와 도메인에 일반화할 수 있는 강력한 능력을 보여줍니다.
+Whisper large-v3-turbo는 기존 Whisper large-v3의 미세 조정 버전입니다. 즉, 디코딩 레이어 수가 32개에서 4개로 줄어든 것을 제외하면 완전히 동일한 모델입니다. 결과적으로 이 모델은 약간의 품질 저하를 감수하고도 훨씬 더 빨라졌습니다.
+
 ## "Training Language Models to Self-Correct via Reinforcement Learning"
 이 논문은 LLM이 강화 학습을 기반으로 외부 피드백없이 자체적으로 오류를 인식하고 수정하며 학습하는 방식입니다.
 
