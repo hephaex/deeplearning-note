@@ -1,3 +1,10 @@
+## CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos
+https://go.fb.me/xiyc63
+Demo on Hugging Face ➡️ https://go.fb.me/yzuqd0
+
+Building on the popular release of CoTracker, we're introducing CoTracker3, which includes a new tracking model and a new semi-supervised training recipe. Available in online and offline variants, the new model demonstrates impressive tracking results where points can be tracked for extended durations even when they are occluded or leave the field of view. CoTracker3 achieves state-of-the-art and outperforms all recent point tracking approaches on standard benchmarks — often by a substantial margin.
+We've released the research paper, code and a demo on Hugging Face — along with models available under an A-NC license to support further research in this space.
+
 ## EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation
 
 초록
