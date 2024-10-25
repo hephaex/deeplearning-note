@@ -7,6 +7,11 @@ paper : https://arxiv.org/abs/2410.00418
 code : https://github.com/ohayonguy/PMRF
 demo : https://huggingface.co/spaces/ohayonguy/PMRF
 
+### PMRF, Image restoration test
+품질 낮은 얼굴 사진 등을 품질 좋은 사진으로 복원해주며, 이전의 모델 GFPGAN, CodeFormer 등보다 우수하다 주장하는 PMRF 테스트해 보았습니다.
+test site : https://huggingface.co/spaces/ohayonguy/PMRF
+PMRF 설명 : https://www.facebook.com/won.wizard/posts/pfbid033f6g8MyUH9gSC22pcjvUvooRmQ2W94nfnc4ZfMFW8secM3GwYwM5goQbKnPHsZCel
+
 ## Flux Controlnet Upscaler(Jasperai) test (include comfyui workflow)
 Flux Controlnet Upscaler : This is Flux.1-dev ControlNet for low resolution images developed by Jasper research team.
 flux comfyui workflow : https://github.com/.../blob/main/flux.1-dev-upscaler.json
