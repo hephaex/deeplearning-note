@@ -1,3 +1,12 @@
+## PMRF(Technion–Israel Institute of Technology), 
+품질 낮은 얼굴 사진 등을 품질 좋은 사진으로 복원. 이미지 복원 작업에서 이전 방법보다 성능이 우수, 이전의 모델 GFPGAN, CodeFormer 등보다 우수하다 주장. code 등도 공개.
+Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration (2410, Technion–Israel Institute of Technology)
+(설명, 번역) 사실적인 이미지 복원 알고리즘은 일반적으로 왜곡 측정(예: PSNR, SSIM)과 지각 품질 측정(예: FID, NIQE)에 의해 평가되며, 지각 품질을 손상시키지 않으면서 가능한 가장 낮은 왜곡을 달성하는 것이 목표입니다. 이러한 목표를 달성하기 위해 현재의 방법은 일반적으로 사후 분포에서 샘플링하거나 왜곡 손실(예: MSE)과 지각 품질 손실(예: GAN)의 가중치 합을 최적화하려고 시도합니다. 이전 연구와 달리 이 논문에서는 특히 완전 지각 지수라는 제약 조건, 즉 재구성된 이미지의 분포가 기준 진실 이미지의 분포와 동일한 조건에서 MSE를 최소화하는 최적의 추정자에 대해 다룹니다. 최근의 이론적 결과에 따르면 이러한 추정기는 사후 평균 예측(MMSE 추정치)을 실측 이미지의 분포로 최적으로 변환하여 구축할 수 있습니다. 이 결과에서 영감을 얻어 이 최적 추정치에 근사치를 구하는 간단하면서도 매우 효과적인 알고리즘인 후방 평균 정류 흐름(PMRF)을 소개합니다. 특히 PMRF는 먼저 후방 평균을 예측한 다음, 원하는 최적 전송 맵에 근사한 정류된 흐름 모델을 사용하여 결과를 고품질 이미지로 변환합니다. 우리는 PMRF의 이론적 유용성을 조사하고 다양한 이미지 복원 작업에서 이전 방법보다 일관되게 성능이 우수하다는 것을 입증합니다.
+site : https://pmrf-ml.github.io/
+paper : https://arxiv.org/abs/2410.00418
+code : https://github.com/ohayonguy/PMRF
+demo : https://huggingface.co/spaces/ohayonguy/PMRF
+
 ## Flux Controlnet Upscaler(Jasperai) test (include comfyui workflow)
 Flux Controlnet Upscaler : This is Flux.1-dev ControlNet for low resolution images developed by Jasper research team.
 flux comfyui workflow : https://github.com/.../blob/main/flux.1-dev-upscaler.json
