@@ -1,3 +1,8 @@
+## Flux Controlnet Upscaler(Jasperai) test (include comfyui workflow)
+Flux Controlnet Upscaler : This is Flux.1-dev ControlNet for low resolution images developed by Jasper research team.
+flux comfyui workflow : https://github.com/.../blob/main/flux.1-dev-upscaler.json
+controlnet upscaler model download : https://huggingface.co/jas.../Flux.1-dev-Controlnet-Upscaler
+
 ## 오픈AI, 이미지 생성 속도 50배 높이는 모델 개발..."실시간 생성 AI 콘텐츠 개념 가까워" 
 단 2단계만으로 생성 가능 연속 시간 일관성 모델(Continuous-Time Consistency Models) ‘sCM’, 기존 확산 모델(Diffusion Model) 보다 50배 빠르게 이미지 생성, Dalle-4 기반 모델 가능성도.
 오픈AI가 기존 확산 모델(Diffusion Model) 보다 50배 빠르게 이미지를 생성하는 새로운 모델을 내놓았다. 이 정도 속도는 '실시간 생성'에 가까운 것으로, 향후 미디어와 콘텐츠 산업에도 영향을 미칠 수 있다는 반응이다.
