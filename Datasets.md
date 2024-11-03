@@ -3,8 +3,6 @@ https://huggingface.co/datasets/stockmark/business-questions
 
 ## 허깅페이스, 15조개 토큰 데이터 공개
 
-
-
 세계 최대의 ML 커뮤니티인 허깅페이스에서 15조개의 토큰으로 이루어진 데이터 FineWeb을 공개했습니다.
 
 2013년부터 2024년 사이의 모든 CommonCrawl 데이터(전세계 모든 공개된 웹에서 가져온 데이터)를 필터링하고 중복을 제거한 매우 고품질의 데이터셋입니다.
