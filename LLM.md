@@ -1,3 +1,10 @@
+## Mochi + MochiEdit CoimfyUI (출처 : X @AIWarper)
+@AIWarper: "Mochi + MochiEdit 커스텀 노드를 사용하여 4090에서 로컬로 생성. 새로운 비디오 모델 아크가 시작되고 있습니다." 
+@AIWarper: "Generated locally on a 4090 with Mochi + MochiEdit custom nodes. New video model arc is beginning and I’m here for it"
+- ComfyUI-MochiEdit : https://github.com/logtd/ComfyUI-MochiEdit
+   ComfyUI nodes to edit videos using Genmo Mochi
+- Mochi, GENMO open source AI Video generation model 설명 : https://www.facebook.com/won.wizard/videos/1750497392155120
+
 ## PMRF(Technion–Israel Institute of Technology), 
 품질 낮은 얼굴 사진 등을 품질 좋은 사진으로 복원. 이미지 복원 작업에서 이전 방법보다 성능이 우수, 이전의 모델 GFPGAN, CodeFormer 등보다 우수하다 주장. code 등도 공개.
 Posterior-Mean Rectified Flow: Towards Minimum MSE Photo-Realistic Image Restoration (2410, Technion–Israel Institute of Technology)
