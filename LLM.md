@@ -1,3 +1,12 @@
+## Hunyuan3D-1.0(Tencent) : text/image to 3D open source model
+속도와 품질 간의 인상적인 균형을 달성하여 생성 시간을 크게 단축하는 동시에 제작된 에셋의 품질과 다양성을 유지, 텍스트-이미지 모델, 즉 Hunyuan-DiT가 포함되어 있어 텍스트 및 이미지 조건부 3D 생성을 모두 지원하는 통합 프레임워크. 
+Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation 
+(설명, 번역) 3D 생성 모델은 아티스트의 워크플로를 크게 개선했지만, 기존의 3D 생성용 확산 모델은 생성 속도가 느리고 일반화가 어렵다는 단점이 있습니다. 이 문제를 해결하기 위해 우리는 라이트 버전과 표준 버전을 포함한 2단계 접근 방식인 Hunyuan3D-1.0을 제안하며, 텍스트 및 이미지 컨디셔닝 생성을 모두 지원합니다. 첫 번째 단계에서는 약 4초 만에 멀티뷰 RGB를 효율적으로 생성하는 멀티뷰 확산 모델을 사용합니다. 이러한 멀티뷰 이미지는 다양한 시점에서 3D 자산의 풍부한 디테일을 캡처하여 단일 뷰에서 멀티뷰 재구성으로 작업을 완화합니다. 두 번째 단계에서는 생성된 멀티뷰 이미지를 바탕으로 3D 자산을 약 7초 만에 빠르고 충실하게 재구성하는 피드 포워드 재구성 모델을 도입합니다. 재구성 네트워크는 멀티뷰 확산으로 인해 발생하는 노이즈와 불일치를 처리하는 방법을 학습하고 조건 이미지에서 사용 가능한 정보를 활용하여 3D 구조를 효율적으로 복구합니다. 우리의 프레임워크에는 텍스트-이미지 모델, 즉 Hunyuan-DiT가 포함되어 있어 텍스트 및 이미지 조건부 3D 생성을 모두 지원하는 통합 프레임워크입니다. 표준 버전에는 라이트 및 기타 기존 모델보다 3배 더 많은 매개변수가 있습니다. 우리의 Hunyuan3D-1.0은 속도와 품질 간의 인상적인 균형을 달성하여 생성 시간을 크게 단축하는 동시에 제작된 에셋의 품질과 다양성을 유지합니다.
+
+site : https://3d.hunyuan.tencent.com/
+paper : https://arxiv.org/abs/2411.02293
+code : https://github.com/Tencent/Hunyuan3D-1
+
 ## Mochi + MochiEdit CoimfyUI (출처 : X @AIWarper)
 @AIWarper: "Mochi + MochiEdit 커스텀 노드를 사용하여 4090에서 로컬로 생성. 새로운 비디오 모델 아크가 시작되고 있습니다." 
 @AIWarper: "Generated locally on a 4090 with Mochi + MochiEdit custom nodes. New video model arc is beginning and I’m here for it"
