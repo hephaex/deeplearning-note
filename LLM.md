@@ -1,3 +1,10 @@
+## ReCapture(Google) 비디오 생성시 카메라 컨트롤이 아닌, 이미 존재하는 비디오에서 새로운 카메라 궤적을 가진 동영상 생성  방법. 소스는 공개 안됨.
+ReCapture: Generative Video Camera Controls for User-Provided Videos using Masked Video Fine-Tuning (2411, Google/National University of Singapore)
+(설명, 번역글) 최근에는 동영상 모델링의 획기적인 발전으로 생성된 동영상에서 카메라 궤적을 제어할 수 있게 되었습니다. 하지만 이러한 방법은 비디오 모델에 의해 생성되지 않은 사용자 제공 비디오에는 직접 적용할 수 없습니다. 이 백서에서는 사용자가 제공한 단일 동영상에서 새로운 카메라 궤적을 가진 새로운 동영상을 생성하는 방법인 리캡처를 소개합니다. 이 방법을 사용하면 기존의 모든 장면 모션이 포함된 참조 비디오를 매우 다양한 각도에서 시네마틱 카메라 모션으로 재생성할 수 있습니다. 특히, 이 방법을 사용하면 레퍼런스 비디오에서는 관찰할 수 없었던 장면의 일부분을 그럴듯하게 환각화할 수 있습니다. 이 방법은 (1) 멀티뷰 확산 모델 또는 깊이 기반 포인트 클라우드 렌더링을 사용하여 새로운 카메라 궤적으로 노이즈가 있는 앵커 비디오를 생성한 다음 (2) 제안한 마스크 비디오 미세 조정 기술을 사용하여 앵커 비디오를 깨끗하고 시간적으로 일관된 리앵글 비디오로 재생성하는 방식으로 작동합니다.
+
+site : https://generative-video-camera-controls.github.io/
+paper : https://arxiv.org/abs/2411.05003
+
 ## Hunyuan3D-1.0(Tencent) : text/image to 3D open source model
 속도와 품질 간의 인상적인 균형을 달성하여 생성 시간을 크게 단축하는 동시에 제작된 에셋의 품질과 다양성을 유지, 텍스트-이미지 모델, 즉 Hunyuan-DiT가 포함되어 있어 텍스트 및 이미지 조건부 3D 생성을 모두 지원하는 통합 프레임워크. 
 Tencent Hunyuan3D-1.0: A Unified Framework for Text-to-3D and Image-to-3D Generation 
