@@ -11,8 +11,10 @@
 코딩 능력 외에도 일반적인 문제 해결과 수학적 능력에서도 높은 점수를 기록했다.
 현재 큐원2.5-코더는 허깅페이스에서 이용 가능하며, 64GB의 맥북 프로 'M2'에서도 실행할 수 있을 만큼 최적화됐다.
 
+
 ## X-Portrait2(bytedance), 얼굴 이미지가 참조 영상을 따라하는 Portrait animation, Lip-sync 모델, Runway Act-one 보다 우수하다 주장.   
 X-Portrait 2: Highly Expressive Portrait Animation (2411, ByteDance / Tsinghua University)
+
 이전 작품인 X-Portrait을 기반으로 인물 애니메이션의 표현력을 완전히 새로운 차원으로 끌어올린 X-Portrait 2를 소개합니다. 이를 위해 대규모 데이터 세트에 대한 학습을 통해 입력된 모든 미세한 표현을 암시적으로 인코딩하는 최첨단 표현 인코더 모델을 구축합니다. 그런 다음 이 인코더를 강력한 제너레이티브 확산 모델과 결합하여 유동적이고 표현력이 풍부한 동영상을 생성합니다. 우리의 X-Portrait 2 모델은 배우의 미묘하고 미세한 표정뿐만 아니라 삐죽거리기, 혀 내밀기, 볼 부풀리기, 찡그리기 등 까다로운 표정까지 전송할 수 있습니다. 또한 생성된 영상에서 높은 충실도의 감정 보존을 달성할 수 있습니다.
 
 site : https://byteaigc.github.io/X-Portrait2/
