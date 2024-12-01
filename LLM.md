@@ -1,3 +1,43 @@
+## 이미지 생성 모델 FLUX를 발표했던 BlackForestLabs 에서 이미지 제어 및 조정할 수 있는 모델 모음인 'FLUX.1 Tools'를 발표하였습니다. 
+1.Fill(inpainting/outpainting), 2.Depth(depth map extracting) 3.Canny(canny edges extracting), 4.Redux(image and text mixing regenerating) 
+다음은 발표 전문 한글 번역입니다. 정확한 파악을 위해 발표문 전체를 꼼꼼히 읽어볼 것을 권장드립니다.
+----
+Introducing FLUX.1 Tools
+Nov 21, 2024 by BlackForestLabs
+오늘, 기본 텍스트-이미지 변환 모델인 FLUX.1에 제어 및 조정 기능을 추가하여 실제 이미지와 생성된 이미지를 수정하고 재창조할 수 있도록 설계된 모델 모음인 FLUX.1 도구를 출시하게 되어 매우 기쁩니다. 출시 시 FLUX.1 도구는 FLUX.1 [dev] 모델 시리즈 내에서 오픈 액세스 모델로 사용할 수 있는 네 가지 기능으로 구성되며, FLUX.1 [pro]를 보완하는 BFL API에서 사용할 수 있습니다
+-FLUX.1 Fill: 최첨단 인페인팅 및 아웃페인팅 모델로 텍스트 설명과 바이너리 마스크가 주어지면 실제 이미지와 생성된 이미지를 편집하고 확장 가능. 
+-FLUX.1 Depth: 입력 이미지와 텍스트 프롬프트에서 추출한 심도 맵을 기반으로 구조적 안내가 가능하도록 학습된 모델.
+-FLUX.1 Canny: 입력 이미지와 텍스트 프롬프트에서 추출한 캐니 에지를 기반으로 구조적 안내가 가능하도록 학습된 모델.
+-FLUX.1 Redux: 입력 이미지와 텍스트 프롬프트를 혼합하고 다시 만들 수 있는 어댑터.
+이번 릴리스는 다음과 같은 두 가지 약속을 강화합니다: 연구 커뮤니티를 위한 최첨단 개방형 가중치 모델을 제공하는 동시에 API를 통해 동급 최고의 기능을 제공합니다. 저희는 BFL API의 각 도구를 FLUX.1 [pro] 변형으로 출시하며, 추론 코드와 가중치는 지침에 따라 증류된 오픈 액세스 FLUX.1 [dev] 변형으로 사용할 수 있습니다. 또한, 출시되는 모델은 파트너인 fal.ai, Replicate, Together.ai, Freepik 및 krea.ai를 통해 사용할 수 있게 되어 매우 기쁩니다.
+다음 섹션에서는 새로운 모델에 대한 자세한 내용과 성능에 대한 분석, 그리고 액세스 방법에 대해 설명합니다. 새로운 도구를 통해 활기찬 Flux 생태계가 어떻게 보완될지 기대가 됩니다.
+1. FLUX.1 Fill를 사용한 인페인팅 및 아웃페인팅
+FLUX.1 Fill은 Ideogram 2.0과 같은 기존 도구와 AlimamaCreative의 FLUX-Controlnet-Inpainting과 같은 인기 오픈 소스 변형을 능가하는 고급 인페인팅 기능을 도입했습니다. 기존 이미지와 자연스럽게 통합되는 매끄러운 편집이 가능합니다.
+또한 FLUX.1 Fill은 아웃페인팅을 지원하여 사용자가 이미지의 원래 테두리를 넘어 이미지를 확장할 수 있습니다.
+여기에서 공개적으로 벤치마크를 실시했습니다. 그 결과 Flux.1 Fill [pro]가 다른 모든 경쟁 방법보다 성능이 뛰어나 현재까지 가장 최신의 인페인팅 모델인 것으로 나타났습니다. 두 번째는 Flux.1 Fill [dev]로, 독점 솔루션보다 성능이 뛰어나면서도 추론 효율이 더 높습니다.
+Flux.1 Fill [dev]은 Flux 개발자 라이선스에 따라 다음과 같이 사용할 수 있습니다.
+-허깅 페이스에서 전체 모델 가중치 사용 가능: [Fill] 
+-추론 코드 GitHub에서 사용 가능
+Flux.1 Fill [pro]는 [BFL API]에서 사용할 수 있습니다.
+2. FLUX.1 Canny/Depth를 사용한 구조적 컨디셔닝
+구조 조정은 캐니 에지 또는 깊이 감지 기능을 사용해 이미지 변환 중에 정밀한 제어를 유지합니다. 엣지 또는 뎁스 맵을 통해 원본 이미지의 구조를 보존함으로써 사용자는 핵심 구도를 그대로 유지하면서 텍스트 안내 편집을 할 수 있습니다. 이는 이미지 리텍스처링에 특히 효과적입니다.
+여기에서 제공되는 벤치마크 평가에서 FLUX.1 Depth는 Midjourney ReTexture와 같은 독점 모델보다 뛰어난 성능을 발휘합니다. 특히 FLUX.1 Depth [pro]는 더 높은 출력 다양성을 제공하는 반면, FLUX.1 Depth의 dev 버전은 깊이 인식 작업에서 더 일관된 결과를 제공합니다. 캐니 엣지 모델의 경우, 여기 벤치마크에서 FLUX.1 canny [pro]가 동급 최고이며, 그다음으로 FLUX.1 canny [dev]이 그 뒤를 잇습니다.
+FLUX.1 Canny/Depth는 최대 성능을 위한 풀 모델과 보다 쉬운 개발을 위한 FLUX.1 [dev] 기반의 LoRA 버전 두 가지로 제공됩니다.
+Flux Canny/Depth [dev]은 다음과 같은 플럭스 개발자 라이선스에 따라 사용할 수 있습니다.
+-허깅 페이스에서 사용 가능한 전체 모델 가중치: [Depth] [Canny]  
+-허깅 페이스에서 사용 가능한 LoRA 가중치: [Depth] [Canny] 
+-추론 코드 GitHub에서 사용 가능
+Flux.1 Depth/Canny [pro]는 BFL API에서 사용할 수 있습니다.
+3. FLUX.1 Redux를 사용한 이미지 변형 및 리스타일링
+FLUX.1 Redux는 이미지 변형 생성을 위한 모든 FLUX.1 기본 모델용 어댑터입니다. 입력 이미지가 주어지면 FLUX.1 Redux는 약간의 변형으로 이미지를 재현하여 주어진 이미지를 세분화할 수 있습니다.
+프롬프트를 통해 이미지 스타일 변경을 잠금 해제하는 더 복잡한 워크플로에 자연스럽게 통합됩니다. 이미지와 프롬프트를 제공하면 API를 통해 스타일 변경이 가능합니다. 이 기능은 최신 모델인 FLUX1.1 [pro] Ultra에서 지원되며, 입력 이미지와 텍스트 프롬프트를 결합하여 유연한 화면 비율로 고품질의 4메가픽셀 출력을 만들 수 있습니다.
+당사의 벤치마크는 FLUX.1 Redux가 이미지 변형에서 최첨단 성능을 달성한다는 것을 보여줍니다.
+Flux.1 Redux [dev]은 Flux 개발자 라이선스에 따라 다음과 같이 제공됩니다.
+-허깅 페이스에서 사용 가능한 모델 가중치: [Redux] 
+-추론 코드 GitHub에서 사용 가능
+Flux1.1 [pro] Ultra를 지원하는 Flux1.1 Redux는 BFL API에서 사용할 수 있습니다.
+https://blackforestlabs.ai/flux-1-tools/?fbclid=IwY2xjawG4hnRleHRuA2FlbQIxMAABHfAjL7tuVGF54gR9MCSle2AjgAoN_PxjKBqlwal6thziVOkrEyEObYvuHg_aem_b0O4SeTeU4G9A79m2boWXg
+
 ##  GPT-4o·클로드 능가하는 코딩 모델 '큐원2.5-코더(Qwen2.5-Coder)' 
 알리바바가 새로운 AI 코딩 어시스턴트 '큐원2.5-코더(Qwen2.5-Coder)'를 출시하며 허깅페이스에서 두번째로 인기 있는 모델로 자리 잡았다. 
 
