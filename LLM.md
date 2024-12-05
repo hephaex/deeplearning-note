@@ -1,3 +1,12 @@
+## HunyuanVideo(tencent): 중국 텐센트의 오픈소스 비디오 생성 모델. 오픈 소스 모델 중 가장 큰 규모(13b). Runway Gen-3, Luma 1.6, 중국 최고 성능의 동영상 생성 모델들보다 우수하다 주장. GPU RAM은 45G for 544x960, 60GB for 720x1280, Recommended 80GB  
+HunyuanVideo: A Systematic Framework For Large Video Generation Model Training (24.12.3 tencent)
+(설명, 한글 번역) 주요 폐쇄형 모델보다 뛰어나지는 않더라도 비슷한 수준의 동영상 생성 성능을 보여주는 새로운 오픈 소스 동영상 기반 모델인 HunyuanVideo를 소개합니다. 훈위안비디오는 데이터 큐레이션, 이미지-비디오 공동 모델 훈련, 대규모 모델 훈련 및 추론을 용이하게 하도록 설계된 효율적인 인프라 등 몇 가지 주요 기능을 통합한 포괄적인 프레임워크를 특징으로 합니다. 또한 모델 아키텍처와 데이터 세트를 확장하는 효과적인 전략을 통해 130억 개 이상의 파라미터로 동영상 생성 모델을 성공적으로 학습시켰으며, 이는 모든 오픈 소스 모델 중 가장 큰 규모입니다.
+높은 시각적 품질, 모션 다양성, 텍스트-비디오 정렬 및 생성 안정성을 보장하기 위해 광범위한 실험을 수행하고 일련의 목표 설계를 구현했습니다. 전문가들의 평가 결과에 따르면, HunyuanVideo는 Runway Gen-3, Luma 1.6, 중국 최고 성능의 동영상 생성 모델 3개를 포함한 이전의 최첨단 모델보다 성능이 뛰어납니다. 기초 모델과 그 애플리케이션의 코드와 가중치를 공개함으로써 폐쇄형 소스와 오픈 소스 비디오 기초 모델 간의 격차를 해소하고자 합니다. 이 이니셔티브는 커뮤니티의 모든 사람이 자신의 아이디어를 실험할 수 있도록 지원하여 더욱 역동적이고 활기찬 동영상 제작 생태계를 조성할 것입니다.
+We have tested on a single H800/H20 GPU.
+Minimum: The minimum GPU memory required is 60GB for 720px1280px129f and 45G for 544px960px129f.
+Recommended: We recommend using a GPU with 80GB of memory for better generation quality.
+
+
 ## 중국 칭화대, 엣지 디바이스에 최적화된 멀티모달모델 LMM ‘GLM-Edge’ 오픈소스로 공개
 GLM-Edge-1.5B 모델은 언어 처리 및 비전 벤치마크에서 훨씬 더 큰 트랜스포머 모델에 필적하는 성과
 중국 칭화대 연구진이 언어 처리와 비전 기능을 결합한 경량형 멀티모달모델(LMM)을 공개했다. 클라우드 서버와의 연결 없이 엣지 디바이스에서 실행이 가능하도록 설계, 온디바이스 인공지능(AI) 환경에 최적화된 것이 특징이다.
