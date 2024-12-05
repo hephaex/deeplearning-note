@@ -5,7 +5,9 @@ HunyuanVideo: A Systematic Framework For Large Video Generation Model Training (
 We have tested on a single H800/H20 GPU.
 Minimum: The minimum GPU memory required is 60GB for 720px1280px129f and 45G for 544px960px129f.
 Recommended: We recommend using a GPU with 80GB of memory for better generation quality.
-
+project : https://aivideo.hunyuan.tencent.com/
+github : https://github.com/Tencent/HunyuanVideo
+huggingface : https://huggingface.co/tencent/HunyuanVideo
 
 ## 중국 칭화대, 엣지 디바이스에 최적화된 멀티모달모델 LMM ‘GLM-Edge’ 오픈소스로 공개
 GLM-Edge-1.5B 모델은 언어 처리 및 비전 벤치마크에서 훨씬 더 큰 트랜스포머 모델에 필적하는 성과
