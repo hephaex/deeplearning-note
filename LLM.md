@@ -1,3 +1,12 @@
+## PaliGemma 2: 더 강력하고 다재다능해진 오픈 VLM!
+PaliGemma 2는 다양한 모델 크기와 입력 해상도를 포괄하는 새로운 오픈 가중치 VLM 제품군으로, 광범위한 캡션, VQA 및 비디오 작업에서 강력한 전송 성능을 제공합니다. 특히 새롭게 추가된 더 큰 변형은 더 큰 컴퓨팅 예산을 가진 사용자에게 PaliGemma에 비해 상당한 개선을 제공합니다.
+또한 PaliGemma 2는 음악, 분자 및 의료 영상과 같은 영역을 포함하여 PaliGemma에서 고려된 것 이상의 응용 분야에서 탁월한 성능을 발휘합니다.
+https://huggingface.co/papers/2412.03555
+SNOOPI: AI 이미지 생성, 안정성과 제어력을 한 번에!
+SNOOPI는 1단계 확산 모델에서 안정성과 제어력을 향상시키는 프레임워크입니다. VSD(Variational Score Distillation)를 안정화하기 위해 가이던스 스케일을 동적으로 조정하는 PG-SB(Proper Guidance-SwiftBrush)를 제안합니다.
+또한 1단계 확산 모델에 네거티브 프롬프트 안내를 통합하는 최초의 접근 방식인 NASA(Negative-Away Steer Attention)를 도입하여 생성된 이미지에서 원치 않는 특징을 효과적으로 줄입니다. 실험 결과는 SNOOPI가 강력한 기준선을 능가하여 안정성과 효과를 보여줍니다.
+https://huggingface.co/papers/2412.02687
+
 ## HunyuanVideo(tencent): 중국 텐센트의 오픈소스 비디오 생성 모델. 오픈 소스 모델 중 가장 큰 규모(13b). Runway Gen-3, Luma 1.6, 중국 최고 성능의 동영상 생성 모델들보다 우수하다 주장. GPU RAM은 45G for 544x960, 60GB for 720x1280, Recommended 80GB  
 HunyuanVideo: A Systematic Framework For Large Video Generation Model Training (24.12.3 tencent)
  주요 폐쇄형 모델보다 뛰어나지는 않더라도 비슷한 수준의 동영상 생성 성능을 보여주는 새로운 오픈 소스 동영상 기반 모델인 HunyuanVideo를 소개합니다. 훈위안비디오는 데이터 큐레이션, 이미지-비디오 공동 모델 훈련, 대규모 모델 훈련 및 추론을 용이하게 하도록 설계된 효율적인 인프라 등 몇 가지 주요 기능을 통합한 포괄적인 프레임워크를 특징으로 합니다. 또한 모델 아키텍처와 데이터 세트를 확장하는 효과적인 전략을 통해 130억 개 이상의 파라미터로 동영상 생성 모델을 성공적으로 학습시켰으며, 이는 모든 오픈 소스 모델 중 가장 큰 규모입니다.
