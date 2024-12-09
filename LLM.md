@@ -1,3 +1,12 @@
+## AI Video Model Comparison: Text to Video (source: @HBCoop_)
+몇일전 발표된 중국 Tecncent 의  Hunyuan Video가 관심을 받으면서 기존에 Runway Gen-3, Kling AI 1.5, Hailuo MiniMax, Luma Dream Machine 비교가 많았었는데 비교 대상에서 Luma Dream Machine 를 빼고 Hunyuan Video와 비교 하기 시작하네요.  Runway 빼고 모두 중국 서비스.  
+- Runway Gen-3
+- Kling AI 1.5
+- Hailuo MiniMax
+- Hunyuan Video (Tencent)
+@HBCoop_: Hunyuan Video를 제외한 각 모델에서 동일한 프롬프트를 4번 실행하여 가장 마음에 드는 결과를 선택했습니다. 이 프롬프트는 모션, 말의 팔다리 및 움직임, 물과의 상호 작용으로 인해 어려운 것입니다. 
+Prompt: Cinematic tracking shot of a white horse galloping through shallow crystal-clear water at sunrise, water splashing in slow motion, majestic mountains in background. Ultra smooth movement, dramatic natural lighting
+
 ## Hailuo AI (MiniMax) I2V-01-Live 출시, 2D 일러스트레이션의 애니메이션화 특징. (source: offiicial X @Hailuo_AI)  
 Hailuo I2V-01-Live 소개: 정적인 예술을 동적인 걸작으로 바꾸기
 라이브는 2D 일러스트레이션에 생명을 불어넣는 방식에 혁신을 가져올 수 있도록 설계된 I2V 제품군의 최신 버전입니다. 향상된 부드러움과 생생한 모션으로 이전과는 전혀 다른 방식으로 캐릭터가 움직이고, 말하고, 빛날 수 있습니다.
