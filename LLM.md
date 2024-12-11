@@ -4,7 +4,9 @@
 - Kling AI 1.5
 - Hailuo MiniMax
 - Hunyuan Video (Tencent)
-@HBCoop_: Hunyuan Video를 제외한 각 모델에서 동일한 프롬프트를 4번 실행하여 가장 마음에 드는 결과를 선택했습니다. 이 프롬프트는 모션, 말의 팔다리 및 움직임, 물과의 상호 작용으로 인해 어려운 것입니다. 
+- 
+@HBCoop_: Hunyuan Video를 제외한 각 모델에서 동일한 프롬프트를 4번 실행하여 가장 마음에 드는 결과를 선택했습니다. 이 프롬프트는 모션, 말의 팔다리 및 움직임, 물과의 상호 작용으로 인해 어려운 것입니다.
+
 Prompt: Cinematic tracking shot of a white horse galloping through shallow crystal-clear water at sunrise, water splashing in slow motion, majestic mountains in background. Ultra smooth movement, dramatic natural lighting
 
 ## Hailuo AI (MiniMax) I2V-01-Live 출시, 2D 일러스트레이션의 애니메이션화 특징. (source: offiicial X @Hailuo_AI)  
