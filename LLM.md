@@ -1,7 +1,9 @@
 ## HunyuanVideo ComfyUI 공식 example & workflow 
 현재 오픈소스 AI video에서 큰 관심을 끌고 있는 tencent의 HunyuanVideo 를 ComfyUI 에서 공식 지원하고 그 example 과 workflow 를 공개했네요.
 문서 안에 설치법 및 다운로드 받을 파일들 명시되어 있으니 따라서 하면 되고, comfyui 최신으로 업데이트해야 인식됩니다.
+
 많은 메모리가 필요하기 때문에 24GB 인데도 out of memory 나거나 더 작은 메모리 GPU를 사용하고 있다면 resolution(width/height)를 줄여보거나 fp8 또는 city96님이 올려 주신 경량화 모델 HunyuanVideo-gguf 를 고려해 보시기 바랍니다. (품질은 좀 더 떨어질 수 있음)
+
 comfyui example/workflow : https://comfyanonymous.github.io/ComfyUI.../hunyuan_video/
 HunyuanVideo-gguf : https://huggingface.co/city96/HunyuanVideo-gguf
 
