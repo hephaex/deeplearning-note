@@ -1,6 +1,7 @@
 ## Meshtron: High-Fidelity, Artist-Like 3D Mesh Generation at Scale (2412, NVIDIA)
 (설명, 한글 번역)메시트론은 1024 레벨 좌표 해상도에서 최대 64K 면의 메시를 생성할 수 있는 새로운 자동 회귀 메시 생성 모델로, 현재의 최신 방법보다 훨씬 많은 면 수와 8배 높은 좌표 해상도를 제공합니다. 기존 방식보다 50% 이상 적은 트레이닝 메모리, 2.5배 빠른 처리량, 더 나은 일관성을 제공합니다. 메시트론은 전례 없는 수준의 해상도와 충실도로 정교하고 복잡한 3D 오브젝트의 메시를 생성하여 전문 아티스트가 만든 것과 매우 유사하며 애니메이션, 게임 및 가상 환경을 위한 세부적인 3D 에셋을 더욱 사실적으로 생성할 수 있는 길을 열어줍니다.
-
+site : https://research.nvidia.com/labs/dir/meshtron/
+paper : https://arxiv.org/abs/2412.09548
 ## HunyuanVideo ComfyUI 공식 example & workflow 
 현재 오픈소스 AI video에서 큰 관심을 끌고 있는 tencent의 HunyuanVideo 를 ComfyUI 에서 공식 지원하고 그 example 과 workflow 를 공개했네요.
 문서 안에 설치법 및 다운로드 받을 파일들 명시되어 있으니 따라서 하면 되고, comfyui 최신으로 업데이트해야 인식됩니다.
