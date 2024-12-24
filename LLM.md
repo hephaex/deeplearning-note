@@ -5,6 +5,7 @@
 많은 메모리가 필요하기 때문에 24GB 인데도 out of memory 나거나 더 작은 메모리 GPU를 사용하고 있다면 resolution(width/height)를 줄여보거나 fp8 또는 city96님이 올려 주신 경량화 모델 HunyuanVideo-gguf 를 고려해 보시기 바랍니다. 
 
 comfyui example/workflow : https://comfyanonymous.github.io/ComfyUI.../hunyuan_video/
+
 HunyuanVideo-gguf : https://huggingface.co/city96/HunyuanVideo-gguf
 
 ## NC, 한국어 특화 오픈소스 비전언어모델(VLM) ‘바르코-비전(VARCO-VISION)·벤치마크 5종 공개…“오디오·비디오까지 확대할 것” 
