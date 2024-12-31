@@ -1,7 +1,8 @@
 ## ModernBERT : Smarter, Better, Faster, Longer
 NVIDIA 와 HuggingFace, Answer AI 등 공동 연구진이 최신 모델 최적화를 encoder-only 모델에 적용하여 기존 인코더보다 크게 다중 목표 수행 성능을 향상시킨 ModernBERT를 소개하였습니다. ModernBERT는 2조 개의 토큰과 초기 Bert의 512 토큰 시퀀스에서 크게 개선된 8192 길이의 시퀀스로 학습되었습니다. ModernBert는 다양한 분류 작업과 단일 및 다중 벡터 검색을 포함하는 다양한 평가에서, RoBert, MosiacBert 등의 트랜스포머 인코더 기반 모델 중 최고의 성능을 달성하였으며, 특히 문서와 코드 검색에서 뛰어난 결과를 보였습니다. 또한 ModernBert는 강력한 다운스트림 성능 외에도 ModernBERT는 가장 빠르고 메모리 효율적인 인코더로, 일반 GPU에서 추론(inference)하도록 설계되었습니다.
+
 [https://huggingface.co/.../tran.../main/model_doc/modernbert](https://huggingface.co/.../tran.../main/model_doc/modernbert)
-단일 이미지에서 정확하게 방향을 추정하는 Object Anything
+## 단일 이미지에서 정확하게 방향을 추정하는 Object Anything
 홍콩대학교와 Sea AI Lab 등 공동연구진이 단일 이미지 내 객체들의 정확한 방향을 추정하는 모델, Object Anything을 소개하였습니다. 라벨 데이터 부족을 해결하기 위해, 연구자들은 3D 객체의 전면을 주석 처리하고 랜덤 뷰에서 이미지를 렌더링해 200만 개의 주석 이미지 데이터셋을 구축했습니다. Object anything은 3D 방향을 확률 분포로 모델링해 예측하며, 합성 데이터에서 실제 데이터로의 전이를 개선하는 전략을 사용합니다. 이를 통해 렌더링 및 실제 이미지에서 최고 수준의 정확도를 달성하고, 다양한 시나리오에서 뛰어난 제로샷 성능을 보여줍니다. 이 모델은 복잡한 공간 개념 이해, 3D 객체 자세 조정 등 다양한 응용을 강화합니다.
 [https://orient-anything.github.io/](https://orient-anything.github.io/)
 
