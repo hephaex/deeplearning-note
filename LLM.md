@@ -1,5 +1,9 @@
 ## ModernBERT : Smarter, Better, Faster, Longer
-NVIDIA 와 HuggingFace, Answer AI 등 공동 연구진이 최신 모델 최적화를 encoder-only 모델에 적용하여 기존 인코더보다 크게 다중 목표 수행 성능을 향상시킨 ModernBERT를 소개하였습니다. ModernBERT는 2조 개의 토큰과 초기 Bert의 512 토큰 시퀀스에서 크게 개선된 8192 길이의 시퀀스로 학습되었습니다. ModernBert는 다양한 분류 작업과 단일 및 다중 벡터 검색을 포함하는 다양한 평가에서, RoBert, MosiacBert 등의 트랜스포머 인코더 기반 모델 중 최고의 성능을 달성하였으며, 특히 문서와 코드 검색에서 뛰어난 결과를 보였습니다. 또한 ModernBert는 강력한 다운스트림 성능 외에도 ModernBERT는 가장 빠르고 메모리 효율적인 인코더로, 일반 GPU에서 추론(inference)하도록 설계되었습니다.
+- NVIDIA 와 HuggingFace, Answer AI 등 공동 연구진이 최신 모델 최적화를 encoder-only 모델에 적용하여 기존 인코더보다 크게 다중 목표 수행 성능을 향상시킨 ModernBERT
+- ModernBERT는 2조 개의 토큰과 초기 Bert의 512 토큰 시퀀스에서 크게 개선된 8192 길이의 시퀀스로 학습
+- ModernBert는 다양한 분류 작업과 단일 및 다중 벡터 검색을 포함하는 다양한 평가에서, RoBert, MosiacBert 등의 트랜스포머 인코더 기반 모델 중 최고의 성능을 달성
+- 특히 문서와 코드 검색에서 뛰어난 결과
+- ModernBert는 강력한 다운스트림 성능 외에도 ModernBERT는 가장 빠르고 메모리 효율적인 인코더로, 일반 GPU에서 추론(inference)하도록 설계
 
 [https://huggingface.co/.../tran.../main/model_doc/modernbert](https://huggingface.co/.../tran.../main/model_doc/modernbert)
 ## 단일 이미지에서 정확하게 방향을 추정하는 Object Anything
