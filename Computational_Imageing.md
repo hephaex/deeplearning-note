@@ -5,6 +5,11 @@
  Computational Imaging systems cover a broad range of applications include computational microscopy,[1] tomographic imaging, MRI, ultrasound imaging, computational photography, Synthetic Aperture Radar (SAR), seismic imaging etc. 
  The integration of the sensing and the computation in computational imaging systems allows for accessing information which was otherwise not possible.
  
+## Ultralytics YOLO v11 벤치마킹 및 벤치마킹 방법
+웹: https://docs.ultralytics.com/ko/modes/benchmark/
+유튜브: https://youtu.be/rEQlAaevEFc?si=pULTc3oUqh_c_gHc
+GitHub: https://github.com/ultralytics/
+
 ## Building advanced RAG includes having the LLM reason about the query, not just the final context.
 https://twitter.com/jerryjliu0/status/1734598198759759952
 https://github.com/.../que.../query_transform_cookbook.ipynb
