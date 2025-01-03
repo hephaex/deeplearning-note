@@ -6,19 +6,26 @@
  The integration of the sensing and the computation in computational imaging systems allows for accessing information which was otherwise not possible.
  
 ## Ultralytics YOLO v11 벤치마킹 및 벤치마킹 방법
+
 웹: https://docs.ultralytics.com/ko/modes/benchmark/
 유튜브: https://youtu.be/rEQlAaevEFc?si=pULTc3oUqh_c_gHc
 GitHub: https://github.com/ultralytics/
 
 ## Building advanced RAG includes having the LLM reason about the query, not just the final context.
+
 https://twitter.com/jerryjliu0/status/1734598198759759952
 https://github.com/.../que.../query_transform_cookbook.ipynb
 
 ## 오브젝트 검출 모델은 주로 「Backbone」(모델의 기초가 되는 부분), 「Neck」(Backbone에서 추출된 특징을 고도로 변환하는 부분), 그리고 「Head」(물체의 카테고리나 위치를 구체적으로 결정하는 부분)의 세 부분으로 이루어져 있습니다.
-현재 모델에는 Neck 부분에서 정보를 성공적으로 통합할 수 없다는 문제가 있습니다. 특히 서로 다른 '계층'의 정보를 통합할 때 정보 손실이 발생하는 문제가 있다.
-이 문제를 해결하는 새로운 방법으로 "Gather-and-Distribute"(GD) 메커니즘이 제안되었습니다. 이 메커니즘은 서로 다른 계층의 정보를 전반적으로 수집하고 높은 계층에 분산함으로써 정보 통합을 효율적으로 실현합니다. 이것은 넥 부분의 성능을 크게 향상시킵니다.
-새로운 물체 검출 아키텍처인 Gold-YOLO는 이 GD 메커니즘을 도입하여 보다 높은 정밀도의 물체 검출을 실현하고 있습니다. 또한 Gold-YOLO는 ImageNet에서 사전 학습을 통해 모델 수렴 속도와 정확도를 크게 향상시킵니다.
-기존의 YOLO 모델과 비교해도 Gold-YOLO는 현저한 정밀도를 자랑합니다. 구체적으로 Gold-YOLO-S는 선행 연구의 YOLOv6-3.0-S보다 높은 AP(Average Precision)를 달성했습니다.
+현재 모델에는 Neck 부분에서 정보를 성공적으로 통합할 수 없다는 문제
+서로 다른 '계층'의 정보를 통합할 때 정보 손실이 발생하는 문제
+문제를 해결하는 새로운 방법으로 "Gather-and-Distribute"(GD) 메커니즘이 제안
+메커니즘은 서로 다른 계층의 정보를 전반적으로 수집하고 높은 계층에 분산함으로써 정보 통합을 효율적으로 실현
+넥 부분의 성능을 크게 향상
+새로운 물체 검출 아키텍처인 Gold-YOLO는 이 GD 메커니즘을 도입하여 보다 높은 정밀도의 물체 검출을 실현
+Gold-YOLO는 ImageNet에서 사전 학습을 통해 모델 수렴 속도와 정확도를 크게 향상
+기존의 YOLO 모델과 비교해도 Gold-YOLO는 현저한 정밀도를 자랑
+Gold-YOLO-S는 선행 연구의 YOLOv6-3.0-S보다 높은 AP(Average Precision)를 달성
 
 ## 이미지와 문장을 “그대로” 입출력할 수 있는 생성 모델 「DreamLLM」 중간 표현 사용하지 않고
 DreamLLM: Synergistic Multimodal Comprehension and Creation : https://dreamllm.github.io/, Xi'an Jiaotong University외 
