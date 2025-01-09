@@ -1,3 +1,17 @@
+## stabilityai, Stable Point Aware 3D (SPAR3D) 발표 (25.1.8, 출처: stabilityai website)
+Introducing Stable Point Aware 3D: Real-Time Editing and Complete Object Structure Generation (8 Jan)
+[Key Takeaways]
+-안정적인 포인트 인식 3D(SPAR3D)는 단일 이미지에서 1초 이내에 3D 오브젝트를 실시간으로 편집하고 완전한 구조를 생성합니다.
+-동종 최초의 아키텍처를 갖춘 SPAR3D는 정밀한 포인트 클라우드 샘플링과 고급 메시 생성을 결합하여 3D 에셋 생성에 대한 전례 없는 제어 기능을 제공합니다. 기반 기술에 대해 자세히 알아보려면 여기에서 연구 논문 전문을 읽어보세요.
+-이 모델은 허용되는 Stability AI 커뮤니티 라이선스에 따라 상업적 및 비상업적 용도로 모두 무료로 사용할 수 있습니다.
+-허깅 페이스에서 가중치를 다운로드하고 GitHub에서 코드를 다운로드하거나 Stability AI 개발자 플랫폼 API를 통해 모델에 액세스할 수 있습니다.
+[Where the model excels] 
+SPAR3D는 다음과 같은 고급 기능으로 게임 개발자, 제품 디자이너, 환경 제작자를 위한 3D 프로토타이핑을 혁신합니다:
+-전례 없는 제어 기능: 사용자가 포인트 클라우드를 삭제, 복제, 늘이기, 기능 추가 또는 포인트 색상 변경을 통해 직접 편집할 수 있습니다.
+-완벽한 구조 예측: 물체의 뒷면과 같이 일반적으로 숨겨진 영역을 포함하여 전체 360도 뷰에 대한 정확한 형상과 상세한 예측을 제공하여 3D 구조를 향상시킵니다.
+-초고속 생성: 편집된 포인트 클라우드를 단 0.3초 만에 최종 메시로 변환하여 원활한 실시간 편집이 가능합니다. 단일 입력 이미지에서 오브젝트당 0.7초 만에 매우 상세한 3D 메시를 생성합니다.
+
+
 # Various tools for model transformation
 Th is able to convert models between frameworks and models on the framework. 
 - **Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis**
