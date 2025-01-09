@@ -11,6 +11,10 @@ SPAR3D는 다음과 같은 고급 기능으로 게임 개발자, 제품 디자�
 -완벽한 구조 예측: 물체의 뒷면과 같이 일반적으로 숨겨진 영역을 포함하여 전체 360도 뷰에 대한 정확한 형상과 상세한 예측을 제공하여 3D 구조를 향상시킵니다.
 -초고속 생성: 편집된 포인트 클라우드를 단 0.3초 만에 최종 메시로 변환하여 원활한 실시간 편집이 가능합니다. 단일 입력 이미지에서 오브젝트당 0.7초 만에 매우 상세한 3D 메시를 생성합니다.
 
+출처 : https://stability.ai/news/stable-point-aware-3d
+paper : https://arxiv.org/abs/2501.04689
+model : https://huggingface.co/stabilityai/stable-point-aware-3d
+code : https://github.com/Stability-AI/stable-point-aware-3d
 
 # Various tools for model transformation
 Th is able to convert models between frameworks and models on the framework. 
