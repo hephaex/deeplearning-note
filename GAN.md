@@ -1,5 +1,9 @@
 # Delving deep into Generative Adversarial Networks (GANs) 	
 ---
+## MangaNinja(HKU): LineArt/Manga Colorization, 참조 컬러 이미지를 참조하여 라인 아트 또는 만화를 자동 색칠. 극단적인 포즈와 그림자, 다중 참조도 가능.  
+MangaNinja: Line Art Colorization with Precise Reference Following (2501, HKU/HKUST/Tongyi Lab/Ant Group)
+(설명, 한글 번역) 확산 모델에서 파생된 만화닌자는 레퍼런스 가이드 라인 아트 컬러화 작업에 특화되어 있습니다. 참조 컬러 이미지와 대상 라인 아트 간의 대응 학습을 용이하게 하는 패치 셔플링 모듈과 세밀한 컬러 매칭을 가능하게 하는 포인트 중심 제어 방식 등 캐릭터 디테일을 정확하게 전사하기 위한 두 가지 세심한 설계가 통합되어 있습니다. 자체적으로 수집한 벤치마크에 대한 실험을 통해 정확한 색상화 측면에서 현재 솔루션보다 우리 모델의 우수성을 입증했습니다. 또한 기존 알고리즘의 범위를 넘어선 까다로운 경우(예: 극단적인 포즈와 그림자), 교차 캐릭터 컬러화, 다중 참조 조화 등을 처리할 때 제안된 대화형 포인트 제어의 잠재력을 보여줬습니다.
+
 ## Real2code: Reconstruct Articulated Objects via Code Generation
 GitHub_Link (https://github.com/MandiZhao/real2code)
 
