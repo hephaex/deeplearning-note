@@ -12,6 +12,15 @@ This repository contains a collection of resources and papers on ***Diffusion Mo
 
 ## Papers
 ## Image Generation
+## TRELLIS(Microsoft/Tsinghua Univ.), text to 3D, image to 3D Generation
+래디언스 필드, 3D 가우시안, 메시 등 다양한 출력 포맷으로 디코딩할 수 있는 통합 구조화된 LATent(SLAT) 표현을 이용하여 텍스트 또는 이미지 조건으로 고품질의 결과물을 생성하며, 비슷한 규모의 최근 모델을 포함해 기존 방식을 훨씬 능가.
+Structured 3D Latents for Scalable and Versatile 3D Generation (2412,  Tsinghua University / USTC / Microsoft Research)
+project : https://trellis3d.github.io/
+paper : https://arxiv.org/abs/2412.01506
+code : https://github.com/Microsoft/TRELLIS
+demo : https://huggingface.co/spaces/JeffreyXiang/TRELLIS
+ 다목적 고품질 3D 에셋 제작을 위한 새로운 3D 생성 방법을 소개합니다. 그 초석은 래디언스 필드, 3D 가우시안, 메시 등 다양한 출력 포맷으로 디코딩할 수 있는 통합 구조화된 LATent(SLAT) 표현입니다. 이는 밀도가 낮은 3D 그리드와 강력한 비전 기반 모델에서 추출한 고밀도 멀티뷰 시각적 특징을 통합하여 디코딩 중 유연성을 유지하면서 구조(지오메트리) 및 텍스처(외관) 정보를 모두 포괄적으로 캡처함으로써 달성할 수 있습니다. SLAT에 맞게 조정된 정류된 흐름 변환기를 3D 생성 모델로 사용하고 500만 개의 다양한 개체로 구성된 대규모 3D 자산 데이터 세트에서 최대 20억 개의 파라미터로 모델을 훈련합니다. 우리의 모델은 텍스트 또는 이미지 조건으로 고품질의 결과물을 생성하며, 비슷한 규모의 최근 모델을 포함해 기존 방식을 훨씬 능가합니다. 이전 모델에서는 제공하지 않았던 유연한 출력 형식 선택과 로컬 3D 편집 기능을 선보입니다. 코드, 모델 및 데이터가 공개될 예정입니다.
+
 ## 많은 분들이 기다리시던 저희 #NAVER #AI_Lab 의 새로운  diffusion 기반의 controllable Text-to-Image 모델 DenseDiffusion 논문과 소스코드가 공개되었습니다. 이 연구는 AI Lab 생성모델팀 김윤지님이 주저자로, 이지영님, 김진화 님, 저 그리고 CycleGAN으로 유명한 생성모델분야 글로벌 최고 연구자 중 1명인 CMU의 Jun-Yan Zhu 교수가 함께 코웍한 연구로 오는 10월 파리에서 열리는 #ICCV23 에서 발표합니다.
 추가적인 훈련에 대한 오버헤드 없이 attention moderation 만으로 컨트롤이 강화되고 구체적으로 묘사된 의미의 텍스트 입력도 더욱 정확하게 이미지를 편집가능하므로 많은 분들이 활용해보시면 좋을 것 같네요.
 덧으로 Jun-Yan은 학회 제출때는 물론이고 Cam-ready version의 논문 퀄리티 향상을 위해 끝까지 정말 꼼꼼하게 코멘트하고 수정하는 모습을 보여주어 왜 최고의 연구자인지 다시한번 깨닫게 해주었네요 ㅎㅎ
