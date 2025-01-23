@@ -1,3 +1,8 @@
+## Comfy3D Update: (v0.1.4.alpha) Integrated Hunyuan3D-2
+- Integrated Hunyuan3D-2 (I did bunch of work including rewrote its mesh processor from C++ to Python to make sure only one additional custom package is required)
+- Support newest Comfy UI v0.3.12, py12, cu124, torch 2.5.1, Windows 10/11 (Pre-built wheels are available)
+github: https://github.com/MrForExample/ComfyUI-3D-Pack
+
 ## 딥시크가 오픈AI의 'o1' 모델과 경쟁하는 추론 모델 ‘DeepSeek R1’ 오픈 소스로 공개 
 'V3' 모델로 세계 최고의 오픈 소스 모델이라는 평가를 받은 딥시크가 이번에는 오픈AI의 'o1' 모델과 경쟁하는 추론 모델 ‘R1’ 시리즈를 오픈 소스로 공개했다.
 딥시크는 20일 오픈 소스 추론 모델인 ▲R1 ▲R1-제로(R1-Zero) ▲R1-증류(R1-Distill) 등을 공식 출시했다고 발표했다.
