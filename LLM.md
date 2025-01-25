@@ -1,11 +1,12 @@
 ## Comfy3D Update: (v0.1.4.alpha) Integrated Hunyuan3D-2
 - Integrated Hunyuan3D-2 (I did bunch of work including rewrote its mesh processor from C++ to Python to make sure only one additional custom package is required)
 - Support newest Comfy UI v0.3.12, py12, cu124, torch 2.5.1, Windows 10/11 (Pre-built wheels are available)
+
 github: https://github.com/MrForExample/ComfyUI-3D-Pack
 
 ## 딥시크가 오픈AI의 'o1' 모델과 경쟁하는 추론 모델 ‘DeepSeek R1’ 오픈 소스로 공개 
-'V3' 모델로 세계 최고의 오픈 소스 모델이라는 평가를 받은 딥시크가 이번에는 오픈AI의 'o1' 모델과 경쟁하는 추론 모델 ‘R1’ 시리즈를 오픈 소스로 공개했다.
-딥시크는 20일 오픈 소스 추론 모델인 ▲R1 ▲R1-제로(R1-Zero) ▲R1-증류(R1-Distill) 등을 공식 출시했다고 발표했다.
+- 'V3' 모델로 세계 최고의 오픈 소스 모델이라는 평가를 받은 딥시크가 이번에는 오픈AI의 'o1' 모델과 경쟁하는 추론 모델 ‘R1’ 시리즈를 오픈 소스로 공개했다.
+- 딥시크는 20일 오픈 소스 추론 모델인 ▲R1 ▲R1-제로(R1-Zero) ▲R1-증류(R1-Distill) 등을 공식 출시했다고 발표했다.
 R1과 R1-제로는 ‘딥시크-V3’를 미세조정한 모델로, 각각 6710억개의 매개변수를 포함하고 있다. 이 모델은 '전문가 혼합(MoE)' 아키텍처를 채택, 전체 매개변수 중 약 340억개만 활성화하도록 설계됐다. 즉, 추론 비용과 메모리 사용량을 줄이면서도 높은 성능을 유지한다.
 추론 특화 LLM은 일반적으로 강화 학습(RL)과 지도 미세조정(SFT) 두가지 방법으로 학습된다. RL은 시행착오를 통해 AI가 작업을 수행하도록 훈련하는 방식이며, SFT은 작업 예시를 제공해 출력 품질을 향상하는 방식이다.
 하지만, 딥시크는 R1-제로를 개발하는 과정에서 SFT를 생략했음에도 불구하고, 복잡한 작업을 단순한 하위 단계로 분해하는 등 주요 추론 기술을 성공적으로 구현했다. R1-제로는 추론 벤치마크(AIME 2024)에서 o1과 비슷한 성능을 기록했다.
