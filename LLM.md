@@ -1,5 +1,6 @@
 ## Comfy3D Update: (v0.1.4.alpha) Integrated Hunyuan3D-2
-- Integrated Hunyuan3D-2 (I did bunch of work including rewrote its mesh processor from C++ to Python to make sure only one additional custom package is required)
+- Integrated Hunyuan3D-2
+- (I did bunch of work including rewrote its mesh processor from C++ to Python to make sure only one additional custom package is required)
 - Support newest Comfy UI v0.3.12, py12, cu124, torch 2.5.1, Windows 10/11 (Pre-built wheels are available)
 
 github: https://github.com/MrForExample/ComfyUI-3D-Pack
