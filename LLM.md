@@ -1,3 +1,12 @@
+## : Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling
+DeepSeek에서 최근 공개한 Janus-Pro에 대해 간단히 리뷰해 보았습니다. 그다지 팔로업을 많이 하지 않아서, 신선했습니다 ㅎㅎ. 알고보니 Janus (야누스) 라고 Janus-Pro 이전 버전의 모델이 존재했고, 이전 버전 모델 구조를 그대로 가져가되, 학습 방법론을 약간 변경하면 훨씬 더 좋은 성능에 도달 할 수 있었다는 것이 골자입니다.
+Janus 에서 제시되었던 기본 학습 전략은 세 단계로 나뉘어지는 데, 이렇게 단계를 나누는 이유는 시각 정보를 이해하고 생성하기 위해 분리한 "인코더" 및 "디코더/헤드"를 조심스럽게 기초적인 것부터 복잡한 것까지 순차적으로 학습 및 실험하기 위해서 인 것 같습니다.
+: 한 마디로.. 멀티모달 데이터의 이해 및 생성을 동시에 해내는 모델을 어떻게 학습시켜야 하는가에 대한 "감"을 잡기 위한 선행 연구 정도로 보입니다.
+Janus Pro에서는 이전 연구를 통해 발견된 사실에 기반하여 각 세 단계 전략을 약간씩 손을 봤고, 모델의 아키텍쳐 자체에는 아무런 변화가 없습니다. 대충 이해하기로는 Stage1 / Stage2와 같은 기초 공사를 위한 단계에서는 데이터를 믹스하는 것보다는 목적별 데이터를 분리하여 학습을 진행하는 것이 좋아 보이며, Stage3의 SFT 단계에서도 데이터를 어떻게 잘 섞는지가 성능 결과에 영향을 미치기 때문에 멀티모달 능력을 끌어올리려면 해당 부분에 대한 데이터 비율을 다른 것에 맞춰 조정하면 좋다는 것입니다 (또는 다른 것들의 비율을 줄이거나)
+벤치마크 데이터셋을 통해 본 성능은 TokenFlow XL, MetaMorph, SD3 Medium, DALL-E 3 등 멀티모달 입/출력을 지원하지 않는 전문화된(?) 다른 모델 및, 멀티모달 입/출력을 지원하는 다른 모델과 비교해서도 크게 성능이 떨어지지는 않습니다.
+--------
+ 384x384 해상도의 이미지 입/출력만을 지원한다는 것입니다. 
+ 
 ## Comfy3D Update: (v0.1.4.alpha) Integrated Hunyuan3D-2
 - Integrated Hunyuan3D-2
 - (I did bunch of work including rewrote its mesh processor from C++ to Python to make sure only one additional custom package is required)
