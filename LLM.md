@@ -1,4 +1,5 @@
-## : Janus-Pro: Unified Multimodal Understanding and Generation with Data and Model Scaling
+## Janus-Pro Unified Multimodal Understanding and Generation with Data and Model Scaling
+
 DeepSeek에서 최근 공개한 Janus-Pro에 대해 간단히 리뷰해 보았습니다. 그다지 팔로업을 많이 하지 않아서, 신선했습니다 ㅎㅎ. 알고보니 Janus (야누스) 라고 Janus-Pro 이전 버전의 모델이 존재했고, 이전 버전 모델 구조를 그대로 가져가되, 학습 방법론을 약간 변경하면 훨씬 더 좋은 성능에 도달 할 수 있었다는 것이 골자입니다.
 Janus 에서 제시되었던 기본 학습 전략은 세 단계로 나뉘어지는 데, 이렇게 단계를 나누는 이유는 시각 정보를 이해하고 생성하기 위해 분리한 "인코더" 및 "디코더/헤드"를 조심스럽게 기초적인 것부터 복잡한 것까지 순차적으로 학습 및 실험하기 위해서 인 것 같습니다.
 : 한 마디로.. 멀티모달 데이터의 이해 및 생성을 동시에 해내는 모델을 어떻게 학습시켜야 하는가에 대한 "감"을 잡기 위한 선행 연구 정도로 보입니다.
