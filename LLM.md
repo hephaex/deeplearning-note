@@ -1,3 +1,16 @@
+## Open R1 Update #2
+DeepSeek-R1-Distill 모델을 재현하기 위한 Hugging Face의 노력의 두 번째 업데이트가 공개되었습니다. 이번 업데이트에서는 Numina Math 1.5 데이터셋 기반, DeepSeek-R1을 통해 reasoning trace를 생성한 OpenR1-Math-220k 데이터셋을 공개한 것이 주 내용입니다.
+[그림에는 블로그에는 명시되지 않은 Llama 모델을 사용한 내용에 대하여, 제 추측을 덧 붙은 것입니다] 
+아 내가 DeepSeek-R1으로 DeepSeek-R1과 동일한 방법을 통해, Domain Specific 문제를 풀어보고 싶다는 분들께서 참조해볼 만한 사항들을 읽어볼 수 있습니다.
+특히 합성 reasoning trace 데이터셋을 생성하는 부분인데, vLLM 및 SGLang을 활용해서 데이터를 생성하는 경우 H100 한 장에 최대 25개의 reasoning trace 생성이 가능하다고 합니다 (정확히는 H100 한 장에 DeepSeek-R1이 들어갈 수 없고, 최소 8 x H100이 필요하므로, 한 장에 대한 추정치 같습니다). 
+: 약 800k 건의 trace 생성에 512 x H100을 사용하여, 약 2일 정도 작업 된 것 같습니다.
+: 원본 400k에 대해 최소 두 개 이상의 solution을 생성해서 800k를 구축한 사례입니다 (생성된 답이 옳을 수도 있고, 아닐 수도 있어서 추후 필터링을 통해 올바른 놈들만 속아내기 위함)
+그리고 800k 생성된 데이터로부터 Rule 및 Llama-3.3-70B-Instruct 모델 기반 평가를 통해 최종적으로 225k 정도의 합성 데이터를 생성했고, 이를 오픈 소스로 공개하였습니다. 여기에는 단일 문제에 대해 여러 건의 옳은 답이 포함된 경우도 있고, 단일 문제 - 단일 답만 포함된 경우가 존재합니다.
+: 전자는 DPO를 통해 추가 preference 학습에 활용해 봤다고 하는데, 결론적으로 도움이 되지는 않았다고 합니다.
+결론적으로 이렇게 생성한 데이터로 Qwen-7B 모델을 학습시켰고, DeepSeek에서 공개했던 Distill-Qwen-7B 모델의 성능을 MATH-500, AIME24에 대해 어느정도 재현하였습니다 (약간은 못 미치는 수준)
+어쨋든 이 과정의 결과물인 DeepSeek-R1을 GPU 멀티 클러스터로 서빙하여 합성 데이터셋을 생성하는 스크립트, 이를 학습시키는 스크립트, 결과를 빠르게 평가하기 위한 lighteval이 모두 오픈소스로 공개되어 있습니다. 관심 있는 분들은 살펴보는게 좋겠네요.
+https://huggingface.co/blog/open-r1/update-2
+
 ## Janus-Pro Unified Multimodal Understanding and Generation with Data and Model Scaling
 
 DeepSeek에서 최근 공개한 Janus-Pro에 대해 간단히 리뷰해 보았습니다. 그다지 팔로업을 많이 하지 않아서, 신선했습니다 ㅎㅎ. 알고보니 Janus (야누스) 라고 Janus-Pro 이전 버전의 모델이 존재했고, 이전 버전 모델 구조를 그대로 가져가되, 학습 방법론을 약간 변경하면 훨씬 더 좋은 성능에 도달 할 수 있었다는 것이 골자입니다.
