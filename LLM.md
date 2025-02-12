@@ -1,6 +1,6 @@
 ## Open R1 Update #2
-DeepSeek-R1-Distill 모델을 재현하기 위한 Hugging Face의 노력의 두 번째 업데이트가 공개되었습니다. 이번 업데이트에서는 Numina Math 1.5 데이터셋 기반, DeepSeek-R1을 통해 reasoning trace를 생성한 OpenR1-Math-220k 데이터셋을 공개한 것이 주 내용입니다.
-[그림에는 블로그에는 명시되지 않은 Llama 모델을 사용한 내용에 대하여, 제 추측을 덧 붙은 것입니다] 
+DeepSeek-R1-Distill 모델을 재현하기 위한 Hugging Face의 노력의 두 번째 업데이트가 공개되었습니다. 
+이번 업데이트에서는 Numina Math 1.5 데이터셋 기반, DeepSeek-R1을 통해 reasoning trace를 생성한 OpenR1-Math-220k 데이터셋을 공개한 것이 주 내용입니다.
 아 내가 DeepSeek-R1으로 DeepSeek-R1과 동일한 방법을 통해, Domain Specific 문제를 풀어보고 싶다는 분들께서 참조해볼 만한 사항들을 읽어볼 수 있습니다.
 특히 합성 reasoning trace 데이터셋을 생성하는 부분인데, vLLM 및 SGLang을 활용해서 데이터를 생성하는 경우 H100 한 장에 최대 25개의 reasoning trace 생성이 가능하다고 합니다 (정확히는 H100 한 장에 DeepSeek-R1이 들어갈 수 없고, 최소 8 x H100이 필요하므로, 한 장에 대한 추정치 같습니다). 
 : 약 800k 건의 trace 생성에 512 x H100을 사용하여, 약 2일 정도 작업 된 것 같습니다.
