@@ -1,3 +1,6 @@
+## SkyReels V1 
+SkyReels V1 is the first and most advanced open-source human-centric video foundation model. By fine-tuning HunyuanVideo on O(10M) high-quality film and television clips
+
 ## Open R1 Update #2
 DeepSeek-R1-Distill 모델을 재현하기 위한 Hugging Face의 노력의 두 번째 업데이트가 공개되었습니다. 
 이번 업데이트에서는 Numina Math 1.5 데이터셋 기반, DeepSeek-R1을 통해 reasoning trace를 생성한 OpenR1-Math-220k 데이터셋을 공개한 것이 주 내용입니다.
