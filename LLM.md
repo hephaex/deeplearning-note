@@ -1,5 +1,4 @@
-## Step-Video-T2V(StepFun), 
-30B open-source text-to-video generation model(chinese)
+## Step-Video-T2V(StepFun), 30B open-source text-to-video generation model(chinese)
 중국 StepFun에서 공개한 오픈소스 30B 파라미터와 최대 204프레임 길이의 동영상을 생성할 수 있는 모델. 
 영어와 중국어 지원. 
 Hunyuan 오픈소스 및 Gen-3 등 상용모델보다 우수 주장. 
