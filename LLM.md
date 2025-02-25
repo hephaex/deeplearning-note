@@ -4,8 +4,6 @@
 Hunyuan 오픈소스 및 Gen-3 등 상용모델보다 우수 주장. 
 80GB VRAM 권장.  
 
-Step-Video-T2V Technical Report: The Practice, Challenges, and Future of Video Foundation Model (2502, StepFun)
-
 Key Features:
 - 30B parameters for high-quality Text-to-Video
 - Supports both Chinese & English Prompts 
