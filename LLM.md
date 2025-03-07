@@ -24,7 +24,8 @@ huggingface : https://huggingface.co/stepfun-ai/stepvideo-t2v
 demo(chinese) : https://yuewen.cn/videos
 
 ## SkyReels V1 
-SkyReels V1 is the first and most advanced open-source human-centric video foundation model. By fine-tuning HunyuanVideo on O(10M) high-quality film and television clips
+SkyReels V1 is the first and most advanced open-source human-centric video foundation model. 
+By fine-tuning HunyuanVideo on O(10M) high-quality film and television clips
 
 ## Open R1 Update #2
 DeepSeek-R1-Distill 모델을 재현하기 위한 Hugging Face의 노력의 두 번째 업데이트가 공개되었습니다. 
