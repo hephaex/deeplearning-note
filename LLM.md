@@ -18,6 +18,7 @@ Key Features:
 - Generates high-quality 540P videos (up to 204 frames) 
 - Strong dynamics, consistency, and stunning
 - Fully Open-Source: MIT licensed
+- 
  30B 파라미터와 최대 204프레임 길이의 동영상을 생성할 수 있는 사전 학습된 최첨단 텍스트-비디오 사전 학습 모델인 Step-Video-T2V를 소개합니다. 딥 압축 가변 자동 인코더인 Video-VAE는 비디오 생성 작업을 위해 설계되어 16x16 공간 및 8x 시간 압축률을 달성하는 동시에 뛰어난 비디오 재구성 품질을 유지합니다. 사용자 프롬프트는 영어와 중국어를 모두 처리하기 위해 두 개의 이중 언어 텍스트 인코더를 사용하여 인코딩됩니다. 3D 풀 어텐션 DiT는 플로우 매칭을 사용하여 훈련되며 입력 노이즈를 잠재 프레임으로 노이즈 제거하기 위해 사용됩니다. 비디오 기반 DPO 접근 방식인 Video-DPO를 적용하여 아티팩트를 줄이고 생성된 비디오의 시각적 품질을 개선합니다. 또한 훈련 전략을 자세히 설명하고 주요 관찰 사항과 인사이트를 공유합니다. 새로운 비디오 생성 벤치마크인 Step-Video-T2V-Eval을 통해 Step-Video-T2V의 성능을 평가하여 오픈 소스 및 상용 엔진과 비교했을 때 최첨단 텍스트-비디오 품질을 입증합니다. 또한 현재 확산 기반 모델 패러다임의 한계에 대해 논의하고 비디오 기반 모델의 미래 방향에 대해 설명합니다. Step-Video-T2V와 Step-Video-T2V-Eval은 이 https URL에서 확인할 수 있습니다. 온라인 버전도 이 https URL에서 액세스할 수 있습니다. 저희의 목표는 비디오 재단 모델의 혁신을 가속화하고 비디오 콘텐츠 제작자의 역량을 강화하는 것입니다.
 paper : https://arxiv.org/abs/2502.10248
 huggingface : https://huggingface.co/stepfun-ai/stepvideo-t2v
