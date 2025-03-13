@@ -1,5 +1,10 @@
 # Delving deep into Generative Adversarial Networks (GANs) 	
 ---
+## ## Open-source AI video Wan 2.1용 8가지 LoRA 이펙트 공개! 
+Squish, Cakefy, Inflate, Deflate, Shooting, Rotate, Muscle 모두 huggingface에 공개 사용 가능.
+ [https://huggingface.co/.../wan21-14b-480p-i2v-loras...
+](https://huggingface.co/Wan-AI/Wan2.1-I2V-14B-480P-Diffusers)
+
 ## Reality Hunyuan LoRA, improves reality and detail in Hunyuan(open-source AI video)
 오픈소스 AI Video 생성 모델 Hunyuan의 사실성과 디테일을 높여주는 LoRA 들이 나오고 있네요. 
 Boreal-HL Hunyuan LoRA
