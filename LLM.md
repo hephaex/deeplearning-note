@@ -1,5 +1,4 @@
 ## Open-source AI video Wan 2.1용 8가지 LoRA 이펙트 공개! 
-(영상 출처 : X @multimodalart)
 Squish, Cakefy, Inflate, Deflate, Shooting, Rotate, Muscle 모두 huggingface에 공개 사용 가능.
 
 ## Google Open LLM Gemma 3 Release! 
