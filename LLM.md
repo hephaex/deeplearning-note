@@ -1,3 +1,6 @@
+## ChatGPT부터 DeepSeek-R1까지 주요 LLM의 Post-training 기법을 포괄적으로 정리한 논문
+https://arxiv.org/abs/2503.06072
+
 ## Open-source AI video Wan 2.1용 8가지 LoRA 이펙트 공개! 
 Squish, Cakefy, Inflate, Deflate, Shooting, Rotate, Muscle 모두 huggingface에 공개 사용 가능.
 
