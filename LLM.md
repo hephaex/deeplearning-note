@@ -2,10 +2,6 @@
 
 https://arxiv.org/abs/2503.06072
 
-## Open-source AI video Wan 2.1용 8가지 LoRA 이펙트 공개! 
-
-Squish, Cakefy, Inflate, Deflate, Shooting, Rotate, Muscle 모두 huggingface에 공개 사용 가능.
-
 ## Google Open LLM Gemma 3 Release! 
 Gemma 3 소개: 단일 GPU 또는 TPU에서 실행할 수 있는 최고 성능의 모델 (Google Blog, Mar 12, 2025)
 Gemma 개방형 모델 제품군은 유용한 AI 기술에 대한 접근성을 높이기 위한 우리의 노력의 토대입니다. 지난달에는 1억 건 이상의 다운로드라는 놀라운 채택과 6만 개 이상의 Gemma 변형을 만들어낸 활기찬 커뮤니티가 탄생한 Gemma의 첫 생일을 축하했습니다. 이러한 젬마버스는 계속해서 저희에게 영감을 주고 있습니다.
