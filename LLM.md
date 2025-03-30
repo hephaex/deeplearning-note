@@ -6,7 +6,6 @@
 -미스트랄 스몰 3.1은 허깅페이스에서 다운로드 가능. 미스트랄 AI의 개발자 플랫폼인 ‘La Plateforme’과 구글 클라우드 Vertex AI에서도 바로 사용 가능.
 
 ## ChatGPT부터 DeepSeek-R1까지 주요 LLM의 Post-training 기법을 포괄적으로 정리한 논문
-
 https://arxiv.org/abs/2503.06072
 
 ## Google Open LLM Gemma 3 Release! 
