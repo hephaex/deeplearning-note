@@ -1,4 +1,17 @@
-## Mureka AI, New Music Production. (출처: X @nrqa__)
+## Overtrained Language Models Are Harder to Fine-Tune"
+- "더 오래 훈련할수록 더 좋다"는 LLM 상식이 항상 맞는 건 아님! 
+- 사전 학습을 너무 많이 하면 오히려 미세 조정 성능이 떨어진다는 걸 발견
+- 이걸 "재앙적 과다 훈련(catastrophic overtraining)"이라고
+원인
+- 모델이 오래 학습될수록 파라미터가 변화에 더 민감해짐. 작은 변경에도 큰 성능 저하가 발생하는 "점진적 민감도(progressive sensitivity)" 현상이 일어남.
+해결 전략
+- 낮은 러닝레이트 사용
+- 충분한 정규화 활용
+- 최신 체크포인트가 아닌 "최적 체크포인트" 사용
+- data replay 같은 방법도 도움(이미 활용...)
+- https://arxiv.org/pdf/2503.19206
+
+## Mureka AI, New Music Production.
 음악 제작이 완전히 새로워졌습니다. Mureka AI를 사용하면 누구나 사용자 지정 보컬, 나만의 사운드, 심지어 훈련된 모델을 사용하여 아이디어를 완벽한 트랙으로 만들 수 있습니다.
 Mureka AI는 일반적인 음악 생성기와는 다릅니다. 사용자 지정 보컬과 간편한 컨트롤로 크리에이터가 고품질의 개인 맞춤형 트랙을 빠르게 만들 수 있습니다. 또한 최초의 생각의 연결(COT) 모델을 갖춘 플랫폼이므로 음악에 실제 논리가 있습니다, 
 곡을 만드는 단계별 방법
