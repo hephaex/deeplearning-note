@@ -1,3 +1,10 @@
+## KD (NVIDIA): Text to skeleton-based Character Animation
+AKD (NVIDIA): Text to skeleton-based Character Animation
+NVIDIA에서 발표한 스켈레톤 기반 애니메이션과 최신 제너레이티브 모델의 강점을 결합하여 고충실도 캐릭터 애니메이션을 생성하는 프레임워크 논문. 리깅된 3D 에셋에 스켈레톤 기반 표현을 사용하여 관절 수준 제어에 집중함으로써 자유도(DoF)를 대폭 줄여 효율적이고 일관된 모션 합성 가능. 실험 결과 우수한 3D 일관성과 모션 품질을 달성 주장. *논문은 발표했으나 소스 공개는 없는 듯.
+AKD: Articulated Kinematics Distillation from Video Diffusion Models (2504, UCLA, NVIDIA)
+project: https://research.nvidia.com/labs/dir/akd/
+paper : https://arxiv.org/abs/2504.01204
+
 ## Overtrained Language Models Are Harder to Fine-Tune"
 - "더 오래 훈련할수록 더 좋다"는 LLM 상식이 항상 맞는 건 아님! 
 - 사전 학습을 너무 많이 하면 오히려 미세 조정 성능이 떨어진다는 걸 발견
