@@ -1,3 +1,13 @@
+## 논문제목은 Inference-Time Scaling for Generalist Reward Modeling
+o1이나 R1과 같은 Large Reasoning Model은 Inference Time Scaling 즉 학습이 아닌 인퍼런스 할때 더 많은 연산을 해서 더 많은 reasoning token을 생성하고  더 길게 추론적 사고(리즈닝) 를 할수록 더 정확한 결과를 만들어 낸다는 경험적 법칙이지요. 이 과정에서 핵심은 Reward model을 정확하게 만들어놔야 가능합니다. 
+현존 리즈닝 모델들이 과학, 수학, 코딩 등에서 강력한 Inference Time Scaling 을 보여주고 있는데 이 데이터들은 질문과 풀이과정이나 규칙들이 명확해서 Reward model을 만드는 것이 쉬운편이었는데 다양한 일상 대화에서 insturction following이나 복잡한 대화 같은 것들은 보상 점수 평가가 애매한 부분이 많습니다. 이번 GRM은 Generalist Reward Modeling 라는 이름에서 보듯이 이런 부분을 해결하기 위한 방법으로 제안된 것 같네요.
+이 논문에서 새롭게 제안한 것이 Self-Principled Critique Tuning (SPCT)입니다. 즉 강화학습의 Reward model 학습에 셀프로 Principle 원칙과 Critique (리워드를 단순 숫자값이 아닌 이유를 말로 설명하는 것)을 생성하고 이걸 기반으로 학습니다. 특성으로 치면 Critique를 리워드로 생성하는 Generative 리워드기법과 동일 질의에 두가지 답을 함께 넣고 비교를 기반으로 하는 Point-wise 리워드기법을 합한 개념으로 볼수 있네요 (그림 참조) 
+절차는 불량한 생성 데이터를 빼면서 튜닝하는 rejective fine-tuning 으로 cold start를 하고 GRPO를 활용해서 RL을 수행합니다. Inferece Time Scaling 효과를 위해 두가지를 제안하는데 하나는 여러 결과를 단순 Voting, 다른 하나는 Principle과 Critique를 평가하는 pointwise RM인 MetaRM을 별도로 두고 Voting을 가이드하는 기법입니다.
+얘네들을 다합한 DeepSeek-GRM 은 다양한 RM Bench를 갖고 평가를 하는데 기존 단순 스칼라에비해 더많은 리즈닝 후보를 만들어 낼수록 점점 평가점수가 개선되는 것을 확인할 수 있습니다. 특히 DeepSeek-GRM에 사용된 모델이 Gemma-2-27B 모델이라 상당히 컴팩트한 모델인데요. 이 가벼운 모델로도 큰 모델들보다 더 고품질 혹은 거의 유사한 품질을 만들어 내네요. MetaRM을 쓰는 경우가 성능이 가장 좋은데 MetaRM은 별도로 Gemma2-27B로 만들었다 하니.. 모델 크기가 2배가 되는 단점이 ㅎㅎㅎ
+이 논문의 장점은 기존 LRM들의 Reward Modeling 을 잘 비교분석해두었고 또 디테일한 정보들이 많이 적혀있어 연구자들의 연구에도 매우 유용할 뿐아니라 다른 기업이나 연구그룹이 바로 시도해 볼 수 있다는 점입니다. 그리고 이 기법으로 이제 리즈닝 모델이 수학, 과학, 코딩을 넘어 일상의 에이전트로 확산이 가속화 될 수 있겠습니다. 
+더불어 딥시크를 엔지니어링이나 가성비로만 평가하시는 분들이 계신데 연구역량도 매우 뛰어난 그룹임을 다시한번 증명한 케이스네요
+논문: https://arxiv.org/abs/2504.02495
+
 ## AKD (NVIDIA): Text to skeleton-based Character Animation
 NVIDIA에서 발표한 스켈레톤 기반 애니메이션과 최신 제너레이티브 모델의 강점을 결합하여 고충실도 캐릭터 애니메이션을 생성하는 프레임워크 논문. 리깅된 3D 에셋에 스켈레톤 기반 표현을 사용하여 관절 수준 제어에 집중함으로써 자유도(DoF)를 대폭 줄여 효율적이고 일관된 모션 합성 가능. 실험 결과 우수한 3D 일관성과 모션 품질을 달성 주장. 
 AKD: Articulated Kinematics Distillation from Video Diffusion Models (2504, UCLA, NVIDIA)
