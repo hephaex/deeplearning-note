@@ -1,4 +1,4 @@
-## 논문제목은 Inference-Time Scaling for Generalist Reward Modeling
+## Inference-Time Scaling for Generalist Reward Modeling
 o1이나 R1과 같은 Large Reasoning Model은 Inference Time Scaling 즉 학습이 아닌 인퍼런스 할때 더 많은 연산을 해서 더 많은 reasoning token을 생성하고  더 길게 추론적 사고(리즈닝) 를 할수록 더 정확한 결과를 만들어 낸다는 경험적 법칙이지요. 이 과정에서 핵심은 Reward model을 정확하게 만들어놔야 가능합니다. 
 현존 리즈닝 모델들이 과학, 수학, 코딩 등에서 강력한 Inference Time Scaling 을 보여주고 있는데 이 데이터들은 질문과 풀이과정이나 규칙들이 명확해서 Reward model을 만드는 것이 쉬운편이었는데 다양한 일상 대화에서 insturction following이나 복잡한 대화 같은 것들은 보상 점수 평가가 애매한 부분이 많습니다. 이번 GRM은 Generalist Reward Modeling 라는 이름에서 보듯이 이런 부분을 해결하기 위한 방법으로 제안된 것 같네요.
 이 논문에서 새롭게 제안한 것이 Self-Principled Critique Tuning (SPCT)입니다. 즉 강화학습의 Reward model 학습에 셀프로 Principle 원칙과 Critique (리워드를 단순 숫자값이 아닌 이유를 말로 설명하는 것)을 생성하고 이걸 기반으로 학습니다. 특성으로 치면 Critique를 리워드로 생성하는 Generative 리워드기법과 동일 질의에 두가지 답을 함께 넣고 비교를 기반으로 하는 Point-wise 리워드기법을 합한 개념으로 볼수 있네요 (그림 참조) 
