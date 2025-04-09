@@ -1,3 +1,9 @@
+## ACTalker (Tencent): Audio-visual driven Talking Head Video Generation
+중국 Tencent에서 발표한 논문으로 오디오 기반 또는 얼굴 모션 기반 등 다양한 신호로 구동되는 자연스러운 얼굴 영상 생성 가능. 기존의 Sadtalker, Hallo, Ecomimic, EDTalk, Memo 등보다 우수 주장
+ACTalker, Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation (2504, HKUST,Tencent,Tsinghua University)
+project: https://harlanhong.github.io/publicat.../actalker/index.html
+paper : https://arxiv.org/abs/2504.02542
+
 ## Inference-Time Scaling for Generalist Reward Modeling
 o1이나 R1과 같은 Large Reasoning Model은 Inference Time Scaling 즉 학습이 아닌 인퍼런스 할때 더 많은 연산을 해서 더 많은 reasoning token을 생성하고  더 길게 추론적 사고(리즈닝) 를 할수록 더 정확한 결과를 만들어 낸다는 경험적 법칙이지요. 이 과정에서 핵심은 Reward model을 정확하게 만들어놔야 가능합니다. 
 현존 리즈닝 모델들이 과학, 수학, 코딩 등에서 강력한 Inference Time Scaling 을 보여주고 있는데 이 데이터들은 질문과 풀이과정이나 규칙들이 명확해서 Reward model을 만드는 것이 쉬운편이었는데 다양한 일상 대화에서 insturction following이나 복잡한 대화 같은 것들은 보상 점수 평가가 애매한 부분이 많습니다. 이번 GRM은 Generalist Reward Modeling 라는 이름에서 보듯이 이런 부분을 해결하기 위한 방법으로 제안된 것 같네요.
