@@ -1,6 +1,8 @@
 ## ACTalker (Tencent): Audio-visual driven Talking Head Video Generation
 중국 Tencent에서 발표한 논문으로 오디오 기반 또는 얼굴 모션 기반 등 다양한 신호로 구동되는 자연스러운 얼굴 영상 생성 가능. 기존의 Sadtalker, Hallo, Ecomimic, EDTalk, Memo 등보다 우수 주장
-ACTalker, Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head Generation (2504, HKUST,Tencent,Tsinghua University)
+ACTalker, Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head 
+
+Generation (2504, HKUST,Tencent,Tsinghua University)
 [project: https://harlanhong.github.io/publicat.../actalker/index.html
 ](https://harlanhong.github.io/publications/actalker/index.html?fbclid=IwY2xjawJjq91leHRuA2FlbQIxMAABHi9Frpk3LYGL9QObKoZYeS_ZR19X6V7rfm2waMPDnpaXLW9PO9hdravB3LdQ_aem_8EY9pZUGfXKpdjoRlLQPOg)
 
