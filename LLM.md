@@ -4,7 +4,7 @@ ACTalker, Audio-visual Controlled Video Diffusion with Masked Selective State Sp
 
 Generation (2504, HKUST,Tencent,Tsinghua University)
 
-[project: https://harlanhong.github.io/publicat.../actalker/index.html
+[project: https://harlanhong.github.io/publicat/actalker/index.html
 ](https://harlanhong.github.io/publications/actalker/index.html?fbclid=IwY2xjawJjq91leHRuA2FlbQIxMAABHi9Frpk3LYGL9QObKoZYeS_ZR19X6V7rfm2waMPDnpaXLW9PO9hdravB3LdQ_aem_8EY9pZUGfXKpdjoRlLQPOg)
 
 paper : https://arxiv.org/abs/2504.02542
