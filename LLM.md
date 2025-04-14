@@ -1,3 +1,15 @@
+## NPU인 Ascend 칩을 활용해서 학습한 모델인 Pangu Ultra를 공개
+논문제목은 Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs
+arXiv: https://arxiv.org/abs/2504.07866
+
+크기는 135B 매개변수 MoE구조가 아닌 싱글 트랜스포머 94층 모델
+13.2조개 토큰으로 프리트레이닝하고 이후 리즈닝 능력을 위한 포스트 트레이닝
+컨텍스트 길이도 4k 에서 128k로 확장
+8192 Ascend 칩 (아마도 910b로 추정) 를 각 노드(서버)별 8장을 HCCS(Huawei Cache Coherence System - 엔비디아로 치면 NVLink에 해당) 로 연결하고 각 노드는 RoCE 200 Gbps (인피니밴드에 해당) 로 연결
+병렬 학습인 데이터, 텐서, 시퀀스, 파이프라인 4가지 병렬 학습 기법을 모두 적용
+MFU (실제 연산 활용율) 50% 정도를 달성
+910b 제원이 64GB 메모리에 속도가 1.6 TiB/s 정도이므로 A100 사양 정도. 
+
 ## ACTalker (Tencent): Audio-visual driven Talking Head Video Generation
 중국 Tencent에서 발표한 논문으로 오디오 기반 또는 얼굴 모션 기반 등 다양한 신호로 구동되는 자연스러운 얼굴 영상 생성 가능. 기존의 Sadtalker, Hallo, Ecomimic, EDTalk, Memo 등보다 우수 주장
 ACTalker, Audio-visual Controlled Video Diffusion with Masked Selective State Spaces Modeling for Natural Talking Head 
