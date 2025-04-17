@@ -8,10 +8,9 @@
 - "모션컷믹스는 고질적인 편집 데이터 부족 문제를 극복하고, 기존 동작 데이터를 활용해 사실상 무한에 가까운 학습 데이터를 생성할 수 있는 효과적인 해법이라는 점을 입증"
 - 사람이나 휴머노이드 캐릭터가 포함된 다양한 콘텐츠의 생성과 편집에 활용될 수 있으며, 특히 애니메이션 제작자, 게임 개발자, 영상 콘텐츠 제작자에게 유용한 도구 기대. 또 텍스트 기반 인터페이스를 사용하기 때문에, 게임이나 애니메이션 제작 경험이 없는 일반 사용자도 사용 가능. 로봇공학 분야로 확장, 서비스 로봇의 움직임 개선에도 응용될 수 있을 것.
 
-
-project page : https://awfuact.github.io/motionrefit/
-paper : https://arxiv.org/abs/2503.20724
-code : https://github.com/emptybulebox1/motionRefit/
+  - project page : https://awfuact.github.io/motionrefit/
+  - paper : https://arxiv.org/abs/2503.20724
+  - code : https://github.com/emptybulebox1/motionRefit/
 
 ## NPU인 Ascend 칩을 활용해서 학습한 모델인 Pangu Ultra를 공개
 논문제목은 Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs
