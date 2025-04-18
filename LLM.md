@@ -1,5 +1,9 @@
 ## 인간 동작 생성·편집하는 AI 모델 
 베이징대학교 논문 및 코드. 
+- project page : https://awfuact.github.io/motionrefit/
+- paper : https://arxiv.org/abs/2503.20724
+- code : https://github.com/emptybulebox1/motionRefit/
+
 사실적인 인간 동작을 자동으로 생성하고 수정할 수 있는 새로운 인공지능(AI) 모델이 개발. 이 기술은 애니메이션 제작자, 게임 개발자, 영상 콘텐츠 제작자에게 유용한 도구로 활용될 전망
 - 베이징대학교 연구진은 최근 인간 캐릭터 혹은 아바타의 사실적인 움직임을 간편하게 생성할 수 있는 새로운 AI 모델을 개발, 'CVPR 2025'에서 논문을 발표. 논문 제목 'Dynamic Motion Blending for Versatile Motion Editing)'
 - 이들이 제안한 인간 동작 생성 방식은 MotionCutMix라는 데이터 증강 기법과 MotionReFit이라는 확산 모델을 기반. 지금까지 인간의 동작을 처음부터 생성하는 기술은 많은 발전을 이뤘지만, 이미 존재하는 동작을 자연스럽게 편집하는 기술은 드물었음.
@@ -8,10 +12,7 @@
 - "모션컷믹스는 고질적인 편집 데이터 부족 문제를 극복하고, 기존 동작 데이터를 활용해 사실상 무한에 가까운 학습 데이터를 생성할 수 있는 효과적인 해법이라는 점을 입증"
 - 사람이나 휴머노이드 캐릭터가 포함된 다양한 콘텐츠의 생성과 편집에 활용될 수 있으며, 특히 애니메이션 제작자, 게임 개발자, 영상 콘텐츠 제작자에게 유용한 도구 기대. 또 텍스트 기반 인터페이스를 사용하기 때문에, 게임이나 애니메이션 제작 경험이 없는 일반 사용자도 사용 가능. 로봇공학 분야로 확장, 서비스 로봇의 움직임 개선에도 응용될 수 있을 것.
 
-  - project page : https://awfuact.github.io/motionrefit/
-  - paper : https://arxiv.org/abs/2503.20724
-  - code : https://github.com/emptybulebox1/motionRefit/
-
+ 
 ## NPU인 Ascend 칩을 활용해서 학습한 모델인 Pangu Ultra를 공개
 논문제목은 Pangu Ultra: Pushing the Limits of Dense Large Language Models on Ascend NPUs
 arXiv: https://arxiv.org/abs/2504.07866
