@@ -1,3 +1,8 @@
+## Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures
+Chenggang Zhao, Chengqi Deng, Chong Ruan, Damai Dai, Huazuo Gao, Jiashi Li, Liyue Zhang, Panpan Huang, Shangyan Zhou, Shirong Ma, Wenfeng Liang, Ying He, Yuqing Wang, Yuxuan Liu, Y.X. Wei
+DeepSeek AI 2025
+https://arxiv.org/html/2505.09343v1 
+
 ## 엔비디아, 오픈 소스 최고 성능 '코드 추론' 모델 OCR(Open Code Reasoning) 공개
 엔비디아가 코드 생성과 문제 해결에 최적화된 추론 모델을 오픈 소스로 공개. 코딩 AI 분야 시장이 급성장하며 폐쇄형 모델의 대안을 제시했다는 점에서 주목.
 라이브코드벤치(LiveCodeBench)에서 오픈AI의 'o3-미니'와 'o1-로우(low)' 능가. 오픈 소스 모델 중 코드 추론 성능에서 최상위권 기록. 
