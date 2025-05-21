@@ -1,6 +1,8 @@
 ## Insights into DeepSeek-V3: Scaling Challenges and Reflections on Hardware for AI Architectures
 Chenggang Zhao, Chengqi Deng, Chong Ruan, Damai Dai, Huazuo Gao, Jiashi Li, Liyue Zhang, Panpan Huang, Shangyan Zhou, Shirong Ma, Wenfeng Liang, Ying He, Yuqing Wang, Yuxuan Liu, Y.X. Wei
+
 DeepSeek AI 2025
+
 https://arxiv.org/html/2505.09343v1 
 
 ## 엔비디아, 오픈 소스 최고 성능 '코드 추론' 모델 OCR(Open Code Reasoning) 공개
