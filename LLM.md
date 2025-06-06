@@ -1,3 +1,16 @@
+## LLM을 사용하여 위키백과 스타일의 아티클을 생성하는 STORM Research Assistant 를 만들었습니다.
+STORM 리서치는 Stanford 에서 개발한 방법론으로, 처음부터 근거가 있고 체계적인 긴 형식의 기사를 작성하도록 설계되었습니다.
+- 논문: Assisting in Writing Wikipedia-like Articles From Scratch with Large Language Models
+- 논문 링크: https://arxiv.org/abs/2402.14207
+이 프로젝트는 LangChain YouTube(https://youtu.be/1uUORSZwTz4?si=4RrM3UIuwwdWKFET) 에서도 영감을 얻었습니다.
+작동 방식은 다음과 같습니다.
+1. 주제를 정합니다(예: "암호학에서 양자 컴퓨팅의 미래").
+2. 서로 다른 전문성을 가진 여러 AI 분석가를 생성합니다.
+3. 각 분석가가 인터뷰 및 정보 검색을 수행합니다.
+4. 마지막으로 모든 것을 잘 구조화된 문서로 결합합니다
+✅ 프로젝트: https://github.com/teddynote-lab/STORM-Research-Assistant
+
+
 ## 카카오, sLM ‘카나나 1.5’ 4종 오픈 소스 공개, "코딩·수학·도구사용 향상"
 카카오는 23일 소형언어모델(SLM) '카나나(Kanana)' 1.5 버전 모델군을 오픈 소스로 공개. 
   - ▲ 카나나-1.5-8b-베이스(base) 
