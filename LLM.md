@@ -1,3 +1,8 @@
+## ATI(Bytedance): Trajectory Instruction Video Generation ComyUI Test
+중국 Bytedance에서 발표한, 이미지와 궤적 지시를 통하여 모션 영상 생성가능한 ATI 테스트해 보았습니다.     
+궤적을 이용함으로 텍스트로 지시하는 것보다는 더 정확하게 여러 모션 컨트롤을 만들어 내는게 가능한 것 같읍니다. 
+comfyui workflow : https://github.com/.../examp.../wanvideo_ATI_testing_01.json
+
 ## LLM을 사용하여 위키백과 스타일의 아티클을 생성하는 STORM Research Assistant 를 만들었습니다.
 STORM 리서치는 Stanford 에서 개발한 방법론으로, 처음부터 근거가 있고 체계적인 긴 형식의 기사를 작성하도록 설계되었습니다.
 
