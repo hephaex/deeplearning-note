@@ -1,3 +1,11 @@
+## Nanonets-OCR-s 
+– 문서를 구조화된 마크다운으로 변환하는 OCR 모델(huggingface.co)
+* 단순한 문자 인식 수준을 넘어 문서 전체를 Markdown 구조로 변환하는 고성능 이미지-to-Markdown OCR 모델
+* 수학식은 LaTeX 형태로 변환하고, 이미지에는 자동 설명을 추가하며, 표는 HTML/Markdown 표로 출력해 LLM 활용에 최적화된 출력물을 생성
+* 서명, 워터마크, 체크박스 등을 인식하여 <signature>, <watermark>, ☐/☑ 형태로 변환하는 등 문서 구성 요소별 처리 능력이 뛰어남
+* Hugging Face의 Transformers 또는 vLLM 서버를 통해 손쉽게 활용 가능하며, docext 라이브러리를 통해 웹 앱 형태로도 사용 가능
+* 다양한 문서 유형과 복잡한 레이아웃에 대해 정확도와 구조화 수준이 매우 높아, 계약서, 양식, 리포트 등에서 매우 유용함
+
 ## ATI(Bytedance): Trajectory Instruction Video Generation ComyUI Test
 중국 Bytedance에서 발표
 이미지와 궤적 지시를 통하여 모션 영상 생성가능     
