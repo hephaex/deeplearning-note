@@ -7,6 +7,7 @@
 * 다양한 문서 유형과 복잡한 레이아웃에 대해 정확도와 구조화 수준이 매우 높아, 계약서, 양식, 리포트 등에서 매우 유용함
 
 ## ATI(Bytedance): Trajectory Instruction Video Generation ComyUI Test
+
 중국 Bytedance에서 발표
 이미지와 궤적 지시를 통하여 모션 영상 생성가능     
 궤적을 이용함으로 텍스트로 지시하는 것보다는 더 정확하게 여러 모션 컨트롤을 만들어 내는게 가능
