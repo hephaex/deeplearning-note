@@ -1,5 +1,5 @@
 ## Nanonets-OCR-s 
-– 문서를 구조화된 마크다운으로 변환하는 OCR 모델(huggingface.co)
+– 문서를 구조화된 마크다운으로 변환하는 OCR 모델
 * 단순한 문자 인식 수준을 넘어 문서 전체를 Markdown 구조로 변환하는 고성능 이미지-to-Markdown OCR 모델
 * 수학식은 LaTeX 형태로 변환하고, 이미지에는 자동 설명을 추가하며, 표는 HTML/Markdown 표로 출력해 LLM 활용에 최적화된 출력물을 생성
 * 서명, 워터마크, 체크박스 등을 인식하여 <signature>, <watermark>, ☐/☑ 형태로 변환하는 등 문서 구성 요소별 처리 능력이 뛰어남
