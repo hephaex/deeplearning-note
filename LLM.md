@@ -9,6 +9,7 @@
 ## ATI(Bytedance): Trajectory Instruction Video Generation ComyUI Test
 
 중국 Bytedance에서 발표
+
 이미지와 궤적 지시를 통하여 모션 영상 생성가능     
 궤적을 이용함으로 텍스트로 지시하는 것보다는 더 정확하게 여러 모션 컨트롤을 만들어 내는게 가능
 
