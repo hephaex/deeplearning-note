@@ -5,6 +5,7 @@
 * 서명, 워터마크, 체크박스 등을 인식하여 <signature>, <watermark>, ☐/☑ 형태로 변환하는 등 문서 구성 요소별 처리 능력이 뛰어남
 * Hugging Face의 Transformers 또는 vLLM 서버를 통해 손쉽게 활용 가능하며, docext 라이브러리를 통해 웹 앱 형태로도 사용 가능
 * 다양한 문서 유형과 복잡한 레이아웃에 대해 정확도와 구조화 수준이 매우 높아, 계약서, 양식, 리포트 등에서 매우 유용함
+* 
 
 ## ATI(Bytedance): Trajectory Instruction Video Generation ComyUI Test
 
