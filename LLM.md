@@ -1,3 +1,6 @@
+## Hunyuan3D-PolyGen   @TencentHunyuan
+새롭게 업그레이드된 업계 최초의 아트급 3D 제너레이티브 모델인 Hunyuan3D-PolyGen을 소개합니다. 손쉬운 지능형 리토폴로지를 제공하여 전문 아트 파이프라인을 위한 AI 생성 모델을 제공
+
 ## Nanonets-OCR-s 
 – 문서를 구조화된 마크다운으로 변환하는 OCR 모델
 * 단순한 문자 인식 수준을 넘어 문서 전체를 Markdown 구조로 변환하는 고성능 이미지-to-Markdown OCR 모델
