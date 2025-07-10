@@ -1,6 +1,7 @@
 ## Smoothie Qwen
 - 공식 깃헙 https://github.com/dnotitia/smoothie-qwen
 - 회사 공식 블로그 소개 https://medium.com/.../smoothie-qwen-smooth-out-your...
+- Smoothie Qwen의 논문 : https://arxiv.org/abs/2507.05686
 
 최고의 성능을 기록한 Qwen 모델의 토큰 확률을 조정하는 후처리 도구
 재학습 없이도 언어 출력의 편향을 줄여 모델의 성능을 높이는 경량 후처리 프로그램
