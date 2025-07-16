@@ -12,10 +12,6 @@
  - 결과물의 독창성, 구조적 정밀도, 참조 기반 정도를 세 가지 조절 항목으로 설정하는 기능. 예를 들어, 슬라이더를 조정해 사운드의 펑키함을 더하거나 줄이기 가능.
 
 ## Smoothie Qwen
-- 공식 깃헙 https://github.com/dnotitia/smoothie-qwen
-- 회사 공식 블로그 소개 https://medium.com/.../smoothie-qwen-smooth-out-your...
-- Smoothie Qwen의 논문 : https://arxiv.org/abs/2507.05686
-
 최고의 성능을 기록한 Qwen 모델의 토큰 확률을 조정하는 후처리 도구
 재학습 없이도 언어 출력의 편향을 줄여 모델의 성능을 높이는 경량 후처리 프로그램
 과도한 중국어 발화 비율을 제어하여 뛰어난 성능을 자랑하는 Qwen 모델이 한국어를 더 잘 할 수 있도록 조정하는 프로그램
@@ -24,6 +20,11 @@ Qwen2.5 대응으로 개발을 시작하였으나 최근에 새롭게 나온 Qwe
 - Smoothie Qwen2.5 https://huggingface.co/.../smoothie-qwen25...
 - Smoothie Qwen3 https://huggingface.co/.../smoothie-qwen3...
 모든 라이센스는 Qwen의 라이센스를 그대로 따라 Apache 2.0으로 배포
+
+- 공식 깃헙 https://github.com/dnotitia/smoothie-qwen
+- 회사 공식 블로그 소개 https://medium.com/.../smoothie-qwen-smooth-out-your...
+- Smoothie Qwen의 논문 : https://arxiv.org/abs/2507.05686
+
 
 ## Hunyuan3D-PolyGen   @TencentHunyuan
 새롭게 업그레이드된 업계 최초의 아트급 3D 제너레이티브 모델인 Hunyuan3D-PolyGen을 소개합니다. 손쉬운 지능형 리토폴로지를 제공하여 전문 아트 파이프라인을 위한 AI 생성 모델을 제공
