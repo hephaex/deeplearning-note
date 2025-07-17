@@ -1,3 +1,13 @@
+## MultiTalk: Audio-Driven Multi-Person Conversational Video Generation
+MultiTalk은 오디오 기반 다중 인물 대화형 비디오 생성 기술. 이 기술은 다중 인물 대화, 노래, 상호작용 제어 그리고 애니메이션를 포함한 비디오 생성을 가능하게 함. 기존의 단일 인물이 아닌 다중 인물 대화형 비디오 생성을 가능하게 함. 오픈소스 공개(Apache-2.0 license)
+MultiTalk, Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation (2505, Sun Yat-sen University, Meituan, HKUST)
+project: https://meigen-ai.github.io/multi-talk/
+paper: https://arxiv.org/abs/2505.22647
+code: https://github.com/MeiGen-AI/MultiTalk
+ComfyUI kijai wan base worflow : https://github.com/.../wanvideo_multitalk_test_02.json   
+demo: https://huggingface.co/spaces/fffiloni/Meigen-MultiTalk
+
+
 ## 음악 생성 AI Suno, 
 ▲업그레이드된 곡 편집기(Song Editor) 
  - 곡 편집기는 사용자가 트랙의 각 파트를 직접 재배열하거나 재작성, 재구성할 수 있게 한다. 이전보다 정밀한 편곡과 편집을 가능하게 하는 기능.
