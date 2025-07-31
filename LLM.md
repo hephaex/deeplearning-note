@@ -1,3 +1,11 @@
+## Higgs Audio V2(Boson AI): Open-sourcing powerful audio foundation model, Text to speech, Text to audio.
+1천만 시간 이상의 오디오 데이터와 다양한 텍스트 데이터로 사전 훈련된 강력한 오디오 기반 모델인 Higgs Audio v2를 오픈소스로 공개. 후처리 훈련이나 미세 조정 없이도, 깊은 언어 및 음향 이해를 바탕으로 표현력 있는 오디오 생성에 탁월한 성능을 발휘. EmergentTTS-Eval에서 "gpt-4o-mini-tts" 대비 75.7%와 55.7%의 승률을 기록. 또한 Seed-TTS Eval 및 Emotional Speech Dataset (ESD)와 같은 전통적인 TTS 벤치마크에서 최고 성능 달성. 다국어 다중 화자 대화 생성, 복제된 목소리로 멜로디 허밍, 음성과 배경 음악의 동시 생성을 포함. 
+*테스트해보니 한국어도 되네요. 
+post: https://www.boson.ai/blog/higgs-audio-v2
+github: https://github.com/gjnave/higgs-audio-gradio
+huggingface : https://huggingface.co/.../higgs-audio-v2-generation-3B-base
+
+
 ## MultiTalk: Audio-Driven Multi-Person Conversational Video Generation
 MultiTalk은 오디오 기반 다중 인물 대화형 비디오 생성 기술. 이 기술은 다중 인물 대화, 노래, 상호작용 제어 그리고 애니메이션를 포함한 비디오 생성을 가능하게 함. 기존의 단일 인물이 아닌 다중 인물 대화형 비디오 생성을 가능하게 함. 오픈소스 공개(Apache-2.0 license)
 MultiTalk, Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation (2505, Sun Yat-sen University, Meituan, HKUST)
