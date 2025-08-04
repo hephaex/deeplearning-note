@@ -1,3 +1,11 @@
+## Small Language Models are the Future of Agentic AI
+10B 이하의 작은 언어 모델(SLM)로 에이전트를 구성하는 하는 것이 LLM으로 하는 것보다 더 낫다는 걸 주장하는 Nvidia Research의 논문입니다. 
+이 논문은 에이전트 AI 시스템의 미래를 중소형 언어 모델(SLM)이 이끌 것이라는 주장을 제시합니다. 이 주장은 SLM이 현재 충분한 성능을 갖추고 있으며, 에이전트 시스템에서 운영적으로 더 적합하고, 경제적으로 더 효율적이라는 세 가지 핵심 관점에 기반합니다. 
+논문에서는 SLM이 코드 생성, 도구 호출, 명령 수행과 같은 특정 작업에서 LLM에 필적하는 성능을 보여주며, 훨씬 낮은 비용으로 배포하고 미세 조정할 수 있음을 강조합니다. 또한, 에이전트 시스템의 모듈식 특성상 다양한 모델을 혼합 사용하는 이종 시스템이 자연스러운 선택이며, SLM이 이러한 구조에 이상적이라고 설명합니다. 
+궁극적으로, SLM으로의 전환은 비용 절감과 지속 가능한 AI 배포에 기여할 것이며, 이러한 변화를 위한 전환 알고리즘과 채택 장벽도 함께 논의합니다.
+
+https://research.nvidia.com/labs/lpr/slm-agents/?fbclid=IwY2xjawL9ALtleHRuA2FlbQIxMQABHtuRTbUct03ChfxZX1l9UjNoX7-lGtKHE0E22PjVOkA1QuU13_hPXvJaGYT8_aem_7I0UWOOGuNfG_3Y_JMqgqw
+
 ## HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels
 중국 텐센트가 월드 모델을 공개했습니다.
 프롬프트를 입력하면 마치 게임 속에 있는 듯한 월드가 생성되고 인터렉티브하게 조작할 수 있습니다.
