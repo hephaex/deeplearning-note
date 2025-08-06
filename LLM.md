@@ -6,6 +6,7 @@
 
 https://research.nvidia.com/labs/lpr/slm-agents/?fbclid=IwY2xjawL9ALtleHRuA2FlbQIxMQABHtuRTbUct03ChfxZX1l9UjNoX7-lGtKHE0E22PjVOkA1QuU13_hPXvJaGYT8_aem_7I0UWOOGuNfG_3Y_JMqgqw
 
+
 ## HunyuanWorld 1.0: Generating Immersive, Explorable, and Interactive 3D Worlds from Words or Pixels
 중국 텐센트가 월드 모델을 공개했습니다.
 프롬프트를 입력하면 마치 게임 속에 있는 듯한 월드가 생성되고 인터렉티브하게 조작할 수 있습니다.
