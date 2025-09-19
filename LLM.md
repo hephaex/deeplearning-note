@@ -1,3 +1,7 @@
+## A Visualization of Langevin Monte Carlo
+심장 모양 밀도 함수 위에서 실행된 랑주뱅 몬테카를로(메트로폴리스 조정 랑주뱅 알고리즘)의 시각화. 마지막 100개 위치에 대한 마르코프 연쇄의 궤적이 노란색으로 표시되어 있다. 
+깃허브 https://github.com/abdulfatir/langevin-monte-carlo
+
 ## 지푸(Zhipu), 차세대 비전언어 모델 'GLM-4.5V' 오픈 소스 출시 (출처: 뉴스)
 지푸는 12일 전문가 혼합(MoE) 구조를 적용한 차세대 비전 언어 모델(VLM) ‘GLM-4.5V’을 오픈 소스로 공개. 멀티모달 벤치마크에서 최첨단(SOTA) 성능 기록. 'qwen 2.5 VL', 'kimi VL', 'gemma 3' 등을 능가. 오픈소스로 공개(Apache-2.0 license)
 GLM-4.5V는 'GLM-4.5 Air' 모델을 토대로 설계. 총 1060억개의 매개변수와 120억개의 활성 매개변수를 갖춘 경량 모델로, 소형 GPU 환경에서도 원활히 구동. 
