@@ -1,3 +1,19 @@
+## MiniMax M2 — Agent & Code Native Open-sourcing!
+MiniMax M2 — Agent & Code Native를 오픈 소스로 공개. Claude Sonnet 가격의 8%에 약 2배 빠른 속도.
+MiniMax Agent 및 API를 통해 한시적으로 전 세계 무료 제공
+- 고급 코딩 기능: 엔드 투 엔드 개발자 워크플로우를 위해 설계. 다양한 애플리케이션(Claude Code, Cursor, Cline, Kilo Code, Droid 등)에서 강력한 성능 발휘
+- 높은 에이전트 성능: 장기적 도구 체인(mcp, 셸, 브라우저, 검색, 코드)의 강력한 처리
+- 효율적인 매개변수 활성화를 통한 더 스마트하고, 더 빠르고, 더 저렴한 솔루션 
+We’re open-sourcing MiniMax M2 — Agent & Code Native, at 8% Claude Sonnet price, ~2x faster
+⚡ Global FREE for a limited time via MiniMax Agent & API
+- Advanced Coding Capability: Engineered for end-to-end developer workflows. Strong capability on a wide-range of applications (Claude Code, Cursor, Cline, Kilo Code, Droid, etc)
+- High Agentic Performance: Robust handling of long-horizon toolchains (mcp, shell, browser, retrieval, code).
+- Smarter, Faster, Cheaper with efficient parameter activation
+Hugging Face: https://huggingface.co/MiniMaxAI/MiniMax-M2
+GitHub: https://github.com/MiniMax-AI/MiniMax-M2
+API doc: https://platform.minimax.io/docs/guides/text-generation
+MiniMax Agent: https://agent.minimax.io/
+
 ## A Visualization of Langevin Monte Carlo
 심장 모양 밀도 함수 위에서 실행된 랑주뱅 몬테카를로(메트로폴리스 조정 랑주뱅 알고리즘)의 시각화. 마지막 100개 위치에 대한 마르코프 연쇄의 궤적이 노란색으로 표시되어 있다. 
 깃허브 https://github.com/abdulfatir/langevin-monte-carlo
