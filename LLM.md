@@ -10,7 +10,7 @@ github:
  - 
 paper: 
  - https://ai.meta.com/.../sam-3d-3dfy-anything-in-images/
- - https://ai.meta.com/.../sam-3d-body-robust-full-body.../
+ - https://ai.meta.com/research/publications/sam-3d-body-robust-full-body-human-mesh-recovery
    
 playground:
  - https://www.aidemos.meta.com/.../editor/convert-body-to-3d
