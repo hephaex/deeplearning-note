@@ -7,7 +7,7 @@ SAM 3D를 발표합니다. 이번 릴리스에는 두 가지 새로운 최첨단
 github: 
  - https://github.com/facebookresearch/sam-3d-objects 
  - https://github.com/facebookresearch/sam-3d-body
- - 
+   
 paper: 
  - https://ai.meta.com/.../sam-3d-3dfy-anything-in-images/
  - https://ai.meta.com/research/publications/sam-3d-body-robust-full-body-human-mesh-recovery
