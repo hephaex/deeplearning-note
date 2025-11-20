@@ -1,3 +1,20 @@
+## Introducing SAM 3D: Powerful 3D Reconstruction for Physical World Images (25.11.19, Meta Blog)
+*Meta SAM 3D는 단일 이미지에서 특정 인물/물체를 분리한 후 바로 3D 모델을 생성. 코드 및 모델 오픈(메타 자체 라이센스)
+주요 내용:
+SAM 3D를 발표합니다. 이번 릴리스에는 두 가지 새로운 최첨단 모델이 포함됩니다: 객체 및 장면 재구성을 위한 SAM 3D Objects와 인체 및 형상 추정을 위한 SAM 3D Body입니다. SAM 3D는 물리적 세계 시나리오에서 근거 기반 3D 재구성의 새로운 기준을 제시합니다.
+이번 출시와 함께 훈련 및 평가 데이터, 평가 벤치마크, 모델 체크포인트, 추론 코드, 파라메트릭 인간 모델을 공유합니다. 이 작업은 로봇공학, 인터랙티브 미디어, 과학, 스포츠 의학 등 창의적 응용 분야에 활용될 잠재력을 지닙니다.
+또한 누구나 쉽게 모델 기능을 시험해보고 창의적인 미디어 수정을 위한 첨단 AI를 실험할 수 있는 새로운 플랫폼인 'Segment Anything Playground'를 소개합니다. 오늘 출시된 SAM 3와 함께 SAM 3D도 Playground에서 누구나 자신의 이미지를 활용해 탐색할 수 있게 됩니다.
+연구 성과를 제품 혁신으로 연결하고 있습니다. SAM 3D와 SAM 3는 페이스북 마켓플레이스의 신규 ‘방에서 보기’ 기능을 지원하여, 구매 전 램프나 테이블 같은 홈 데코 아이템의 스타일과 공간 내 배치 효과를 시각화할 수 있게 합니다.
+github: 
+https://github.com/facebookresearch/sam-3d-objects 
+https://github.com/facebookresearch/sam-3d-body
+paper: 
+https://ai.meta.com/.../sam-3d-3dfy-anything-in-images/
+https://ai.meta.com/.../sam-3d-body-robust-full-body.../
+playground:
+https://www.aidemos.meta.com/.../editor/convert-body-to-3d
+출처 : https://ai.meta.com/blog/sam-3d/ 
+
 ## MiniMax M2 — Agent & Code Native Open-sourcing!
 MiniMax M2 — Agent & Code Native를 오픈 소스로 공개. Claude Sonnet 가격의 8%에 약 2배 빠른 속도.
 MiniMax Agent 및 API를 통해 한시적으로 전 세계 무료 제공
