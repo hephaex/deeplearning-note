@@ -1,4 +1,4 @@
-## Introducing SAM 3D: Powerful 3D Reconstruction for Physical World Images (25.11.19, Meta Blog)
+## Introducing SAM 3D: Powerful 3D Reconstruction for Physical World Images
 *Meta SAM 3D는 단일 이미지에서 특정 인물/물체를 분리한 후 바로 3D 모델을 생성. 코드 및 모델 오픈(메타 자체 라이센스)
 
 주요 내용:
