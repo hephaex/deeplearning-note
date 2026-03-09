@@ -17,9 +17,7 @@ DeepLearning note
 # AI for Time Series 
 ## GNN
 [Tensorflow GNN v1.0]
-
 Google 에서 몇년 전부터 개발해오던 Tensorflow GNN 의 v1.0 이 몇일전에 릴리즈되었습니다.
-
 GPU 및 TPU에서 작동하며, Tutorial 을 위한 colab 또한 제공됩니다.
 
 https://github.com/tensorflow/gnn
